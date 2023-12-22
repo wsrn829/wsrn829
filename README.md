@@ -7,7 +7,6 @@ Full Stack Software Engineer
 Just like languages, designing is a form of communication. I am obsessed with the future me, who could effortlessly implement all kinds of designs she likes with code. :)
 
 * 🖥️  See my portfolio at [https://sarinawuphd.com/](http://sarinawuphd.com/)
-* ✉️  You can contact me at [wsrn829@gmail.com](mailto:wsrn829@gmail.com)
 * 🧠  I'm learning React, JavaScript, AI, TailwindCSS
 * 🤝  I'm open to collaborating on AI Projects
 
