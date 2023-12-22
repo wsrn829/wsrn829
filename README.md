@@ -1,7 +1,7 @@
-Hi 👋 My name is Sarina Wu
+Hi 👋 My name is Sarina
 ==========================
 
-Full Stack Software Engineer
+Full Stack Engineer
 ----------------------------
 
 Just like languages, designing is a form of communication. I am obsessed with the future me, who could effortlessly implement all kinds of designs she likes with code. :)
