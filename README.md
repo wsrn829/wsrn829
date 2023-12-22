@@ -1,10 +1,10 @@
 Hi 👋 My name is Sarina
 ==========================
 
-Full Stack Engineer
+Full Stack Software Engineer
 ----------------------------
 
-Just like languages, designing is a form of communication. I am obsessed with the future me, who could effortlessly implement all kinds of designs she likes with code. :)
+Just like languages, designing is a form of communication. I am obsessed with the future me, who could "effortlessly" implement all kinds of designs she likes with code. :)
 
 * 🖥️  See my portfolio at [https://sarinawuphd.com/](http://sarinawuphd.com/)
 * 🧠  I'm learning React, JavaScript, AI, TailwindCSS
