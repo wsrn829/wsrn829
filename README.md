@@ -8,7 +8,7 @@ Just like languages, designing is a form of communication. I am obsessed with th
 who could "effortlessly" implement all kinds of designs she likes with code. :)
 
 * 🖥️  See my portfolio at [https://sarinawuphd.com/](http://sarinawuphd.com/)
-* 🧠  I'm learning React, JavaScript, AI, TailwindCSS
+* 🧠  I'm learning React, JavaScript, AI, TailwindCSS, CI/CD, and various Cloud Platforms
 * 🤝  I'm open to collaborating on AI Projects
 
 ### Skills
