@@ -1,4 +1,4 @@
-Hi there 👋 My name is Sarina 
+Hi there 👋 My name is Sarina 🌈
 ==========================
 
 Full Stack Software Engineer
