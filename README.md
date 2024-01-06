@@ -17,7 +17,7 @@ who could "effortlessly" implement all kinds of designs she likes with code. :)
 1. Backend Framework: Django vs FastApi
 2. Containerization: Virtual Environment vs Docker
 3. Database: SQLite vs PostgreSQL
-4. Fronend: HTML vs React
+4. Frontend: HTML vs React
 5. Authentication: Built-In Authentication vs Manual Authentication
 
 All five aspects seem simpler for the former; if I can't figure out how to deploy TaskTales,\
