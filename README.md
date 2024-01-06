@@ -24,6 +24,8 @@ All five aspects seem simpler for the former; if I can't figure out how to deplo
 I don't think I could get how to deploy ThriveTogether. I need to figure out a set rule for deployment,\
 *no matter how general it would be.*
 
+[*CI/CD - the Most Crucial DevOps Practice*](https://www.simplilearn.com/tutorials/devops-tutorial/continuous-delivery-and-continuous-deployment)
+
 -------------------------------------
 
 
