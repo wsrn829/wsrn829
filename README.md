@@ -20,7 +20,7 @@ who could "effortlessly" implement all kinds of designs she likes with code. :)
 4. Frontend: HTML vs React
 5. Authentication: Built-In vs Manual
 
-All five aspects seem simpler for the former (not saying Django is easier than FastAPI, just that I'm better at it at the moment 🙂);\
+All five aspects seem simpler for the former (not saying Django is "easier" than FastAPI, just that I'm better at it at the moment 🙂);\
 if I can't figure out how to deploy TaskTales, I don't think I could get how to deploy ThriveTogether.\
 I need to figure out a set rule for deployment, **no matter how general it would be.**
 
