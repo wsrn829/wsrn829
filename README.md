@@ -14,7 +14,7 @@ who could "effortlessly" implement all kinds of designs she likes with code. :)
 * 🤝  I'm open to collaborating on AI Projects.
 ------------------------------------
 ### Compare TaskTales and ThriveTogether:
-1. Backend Framework: Django vs FastApi
+1. Backend Framework: Django vs FastAPI
 2. Containerization: Virtual Environment vs Docker
 3. Database: SQLite vs PostgreSQL
 4. Frontend: HTML vs React
