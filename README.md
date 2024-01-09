@@ -5,13 +5,13 @@ Full Stack Software Engineer
 ----------------------------
 
 Just like languages, designing is a form of communication. I am obsessed with the future me,\
-who could "effortlessly" implement all kinds of designs she likes with code. [*React Documentation - Empowering efficient and responsive user interfaces with JavaScript.*](https://react.dev/)
+who could "effortlessly" implement all kinds of designs she likes with code. [*React Docs - Empowering efficient and responsive user interfaces with JavaScript.*](https://react.dev/)
 
 * 🖥️  See my portfolio at [*https://sarinawuphd.com/*](http://sarinawuphd.com/)
 * 🧠  I'm learning React, JavaScript, AI, TailwindCSS, CI/CD, and various Cloud Platforms.
 * 🧠  I thoroughly enjoyed dedicating my entire spring break last year to improving my Django skills. Upon reviewing my Django projects,
       I remain comfortable using it and am actively working on deploying one.
-      [*Django Documentation - The web framework for perfectionists with deadlines.*](https://docs.djangoproject.com/en/4.2/ref/settings/)
+      [*Django Docs - The web framework for perfectionists with deadlines.*](https://docs.djangoproject.com/en/4.2/ref/settings/)
 * 🤝  I'm open to collaborating on AI Projects.
 ------------------------------------
 ### Compare TaskTales and ThriveTogether:
