@@ -5,9 +5,9 @@ Full Stack Software Engineer
 ----------------------------
 
 Just like languages, designing is a form of communication. I am obsessed with the future me,\
-who could "effortlessly" implement all kinds of designs she likes with code. :)
+who could "effortlessly" implement all kinds of designs she likes with code. [*React - Empowering efficient and responsive user interfaces with JavaScript.*](https://react.dev/)
 
-* 🖥️  See my portfolio at [https://sarinawuphd.com/](http://sarinawuphd.com/)
+* 🖥️  See my portfolio at [*https://sarinawuphd.com/*](http://sarinawuphd.com/)
 * 🧠  I'm learning React, JavaScript, AI, TailwindCSS, CI/CD, and various Cloud Platforms.
 * 🧠  I thoroughly enjoyed dedicating my entire spring break last year to improving my Django skills. Upon reviewing my Django projects,
       I remain comfortable using it and am actively working on deploying one.
@@ -23,7 +23,7 @@ who could "effortlessly" implement all kinds of designs she likes with code. :)
 
 All five aspects seem simpler for the former (not saying Django is "easier" than FastAPI, just that I'm better at it at the moment 🙂);\
 if I can't figure out how to deploy TaskTales, I don't think I could get how to deploy ThriveTogether.\
-I need to figure out a set rule for deployment, **no matter how general it would be.** [*CI/CD - he Most Crucial DevOps Practice.*](https://www.simplilearn.com/tutorials/devops-tutorial/continuous-delivery-and-continuous-deployment)
+I need to figure out a set rule for deployment, **no matter how general it would be.** [*CI/CD - The Most Crucial DevOps Practice.*](https://www.simplilearn.com/tutorials/devops-tutorial/continuous-delivery-and-continuous-deployment)
 
 -------------------------------------
 
