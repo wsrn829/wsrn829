@@ -11,6 +11,7 @@ who could "effortlessly" implement all kinds of designs she likes with code. :)
 * 🧠  I'm learning React, JavaScript, AI, TailwindCSS, CI/CD, and various Cloud Platforms.
 * 🧠  I thoroughly enjoyed dedicating my entire spring break last year to improving my Django skills. Upon reviewing my Django projects,
       I remain comfortable using it and am actively working on deploying one.
+      [*Django - The web framework for perfectionists with deadlines.*](https://docs.djangoproject.com/en/4.2/ref/settings/)
 * 🤝  I'm open to collaborating on AI Projects.
 ------------------------------------
 ### Compare TaskTales and ThriveTogether:
@@ -22,9 +23,7 @@ who could "effortlessly" implement all kinds of designs she likes with code. :)
 
 All five aspects seem simpler for the former (not saying Django is "easier" than FastAPI, just that I'm better at it at the moment 🙂);\
 if I can't figure out how to deploy TaskTales, I don't think I could get how to deploy ThriveTogether.\
-I need to figure out a set rule for deployment, **no matter how general it would be.**
-
-[*CI/CD - the Most Crucial DevOps Practice*](https://www.simplilearn.com/tutorials/devops-tutorial/continuous-delivery-and-continuous-deployment)
+I need to figure out a set rule for deployment, **no matter how general it would be.** [*CI/CD - he Most Crucial DevOps Practice.*](https://www.simplilearn.com/tutorials/devops-tutorial/continuous-delivery-and-continuous-deployment)
 
 -------------------------------------
 
