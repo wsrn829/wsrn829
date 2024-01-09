@@ -5,7 +5,7 @@ Full Stack Software Engineer
 ----------------------------
 
 Just like languages, designing is a form of communication. I am obsessed with the future me,\
-who could "effortlessly" implement all kinds of designs she likes with code. [*React Docs - Empowering efficient and responsive user interfaces with JavaScript.*](https://react.dev/)
+who could "effortlessly" implement all kinds of designs she likes with code. [*React Docs - Empowering efficient and responsive user interfaces with JavaScript.*](https://react.dev/) & [*MDN Web Docs - Your one-stop resource for web development.*](https://developer.mozilla.org/en-US/)
 
 * 🖥️  See my portfolio at [*https://sarinawuphd.com/*](http://sarinawuphd.com/)
 * 🧠  I'm learning React, JavaScript, AI, TailwindCSS, CI/CD, and various Cloud Platforms.
