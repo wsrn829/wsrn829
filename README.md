@@ -42,7 +42,7 @@ if I can't figure out how to deploy TaskTales, I don't think I could get how to 
 8. Polling: Yes vs No
 
 
-I am excited about deploying this app because it shares similarities with TaskTales but exhibits greater complexity.
+I am excited about deploying this app because it shares similarities with TaskTales but exhibits much greater complexity.
 * Specifically, the incorporation of microservices, Docker, and polling, along with the React-based frontend, adds a layer of sophistication.
 * Deploying an app from scratch presents a valuable opportunity to enhance my understanding of configurations.
 
