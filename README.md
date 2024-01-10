@@ -25,7 +25,7 @@ All five aspects seem simpler for the former (not saying Django is "easier" than
 if I can't figure out how to deploy TaskTales, I don't think I could get how to deploy ThriveTogether. [*CI/CD - The Most Crucial DevOps Practice.*](https://www.simplilearn.com/tutorials/devops-tutorial/continuous-delivery-and-continuous-deployment)
 
 *  Django App Deployment on Heroku actually is pretty straightforward if we follow [these steps](https://devcenter.heroku.com/articles/getting-started-with-python), although it simply doesn't work as it does locally...Troubleshooting is *tricky*.
-*  OMG. I can't believe it...After 112 commits to the Repo (TaskTalesDeployment), it suddenly starts working as smoothly as in the local development mode...LOL. [My First Independently Deployed App on Heroku](https://tasktales-e12d965b0fbc.herokuapp.com/) 🌸🌸🌸 
+*  OMG. I can't believe it...After 112 commits to the Repo (TaskTalesDeployment), it suddenly starts working as smoothly as in the local development mode...LOL. [My First Independently Deployed App on Heroku](https://tasktales-e12d965b0fbc.herokuapp.com/) 🌸
   
 -------------------------------------
 
