@@ -33,14 +33,13 @@ if I can't figure out how to deploy TaskTales, I don't think I could get how to 
 
 ### Compare DealerDashboard and TaskTales:
 1. Backend Framework: Django vs Django
-2. Cloud Platform: Heroku vs Heroku
-3. Containerization: Docker vs Virtual Environment
-4. Database: PostgreSQL vs SQLite
-5. Frontend: React vs HTML
-6. Authentication: Built-In vs Built-In
-7. Microservices: Yes vs No
-8. Polling: Yes vs No
-
+2. Database: PostgreSQL vs PostgreSQL
+3. Cloud Platform: Heroku vs Heroku
+4. Authentication: Built-In vs Built-In
+5. Containerization: Docker vs Virtual Environment
+6. Microservices: Yes vs No
+7. Polling: Yes vs No
+8. Frontend: React vs HTML
 
 I am excited about deploying this app because it shares similarities with TaskTales but exhibits much greater complexity.
 * Specifically, the incorporation of microservices, Docker, and polling, along with the React-based frontend, adds a layer of sophistication.
