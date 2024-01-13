@@ -13,6 +13,11 @@ who could "effortlessly" implement all kinds of designs she likes with code. [*R
       I remain comfortable using it and am actively working on deploying one.
       [*Django Docs - The web framework for perfectionists with deadlines.*](https://docs.djangoproject.com/en/4.2/ref/settings/)
 * 🤝  I'm open to collaborating on AI Projects.
+
+------------------------------------
+
+![my Tech Stack](https://res.cloudinary.com/practicaldev/image/fetch/s--ThRQXaMn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://bezkoder.com/wp-content/uploads/2020/03/django-react-axios-rest-framework-crud-architecture.png)
+
 ------------------------------------
 ### Compare TaskTales and ThriveTogether:
 1. Backend Framework: Django vs FastAPI
@@ -27,7 +32,7 @@ if I can't figure out how to deploy TaskTales, I don't think I could get how to 
 *  Django App Deployment on Heroku actually is pretty straightforward if we follow [these steps](https://devcenter.heroku.com/articles/getting-started-with-python), although it simply doesn't work as it does locally...Troubleshooting is *tricky*.
 *  OMG. I can't believe it...After 112 commits to the Repo (TaskTalesDeployment), it suddenly starts working as smoothly as in the local development mode (with zero console error on my end)...LOL. 🌸 [*My First Independently Deployed Django App on Heroku*](https://tasktales-e12d965b0fbc.herokuapp.com/) 🌸 [01/09/2024]
 *  I'll focus on adding features and styling to this app in the future. :)
-*  A mandatory pull request has been implemented on the main branch for *Branch Protection*. 
+*  A mandatory pull request has been implemented on the main branch for *Branch Protection*.
   
 -------------------------------------
 
