@@ -45,6 +45,11 @@ I am excited about deploying this app because it shares similarities with TaskTa
 * Specifically, the incorporation of microservices, Docker, and polling, along with the React-based frontend, adds a layer of sophistication.
 * Deploying an app from scratch presents a valuable opportunity to enhance my understanding of configurations.
 
+[This is a good one](https://dev.to/mdrhmn/deploying-react-django-app-using-heroku-2gfa). We kept encountering CORS errors when deploying ThriveTogether, so I would go with the second option for this one.
+
+* The server and database are already up and running on Heroku.
+* Now, we need to configure the React frontend to display in the browser.
+
 -------------------------------------
 
 ### Skills
