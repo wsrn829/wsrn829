@@ -76,7 +76,7 @@ I am excited about deploying this app because it shares similarities with TaskTa
 
 ### Continuing Education
 
-| *Harvard CS50's Introduction to Computer Science*    | *Harvard CS50's Web Programming with Python and JavaScript*   |
+| *Harvard CS50: Introduction to Computer Science*    | *Harvard CS50: Web Programming with Python and JavaScript*   |
 |------------------------------------------------------|---------------------------------------------------------------|
 | [ x ]  Week 0 - Scratch                              | [ - ]  HTML, CSS                                              |
 | [ x ]  Week 1 - C                                    | [ - ]  Git                                                    |
