@@ -46,11 +46,11 @@ if I can't figure out how to deploy TaskTales, I don't think I could get how to 
 7. Polling: Yes vs No
 8. Frontend: React vs HTML
 
-I am excited about deploying this app because it shares similarities with TaskTales but exhibits much greater complexity.
+I am excited about deploying this app because it shares similarities with TaskTales but exhibits greater complexity.
 * Specifically, the incorporation of microservices, Docker, and polling, along with the React-based frontend, adds a layer of sophistication.
 * Deploying an app from scratch presents a valuable opportunity to enhance my understanding of configurations.
 
-[This is a helpful resource](https://dev.to/mdrhmn/deploying-react-django-app-using-heroku-2gfa). I wish I had discovered it when deploying my backend in the past two days. However, I managed to figure out the recommended practice all by myself anyway. LOL. 
+[This is a helpful resource](https://dev.to/mdrhmn/deploying-react-django-app-using-heroku-2gfa). I wish I had discovered it when deploying my backend in the past two days. However, I managed to figure out the recommended practice on my own anyway. LOL. 
 
 * We kept encountering CORS errors when deploying ThriveTogether, so I would go with the second option for this one.
 * The Django-based server and PostgreSQL database are already up and running on Heroku.
