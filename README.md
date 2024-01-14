@@ -60,32 +60,20 @@ I am excited about deploying this app because it shares similarities with TaskTa
 
 ### Continuing Education
 
-**Harvard CS50's Introduction to Computer Science**
-
-- [x] Week 0 - Scratch
-- [x] Week 1 - C
-- [x] Week 2 - Arrays
-- [x] Week 3 - Algorithms
-- [x] Week 4 - Memory
-- [x] Week 5 - Data Structures
-- [x] Week 6 - Python
-- [ ] Artificial Intelligence
-- [ ] Week 7 - SQL
-- [ ] Week 8 - HTML, CSS, JavaScript
-- [ ] Week 9 - Flask
-- [ ] Week 10 - Cybersecurity
-
-**Harvard CS50's Web Programming with Python and JavaScript**
-
-- [ ] HTML, CSS
-- [ ] Git
-- [ ] Python 
-- [ ] Django
-- [ ] SQL, Models, and Migrations
-- [ ] JavaScript
-- [ ] User Interfaces
-- [ ] Testing, CI/CD
-- [ ] Scalability and Security
+| **Harvard CS50's Introduction to Computer Science**  | **Harvard CS50's Web Programming with Python and JavaScript** |
+|------------------------------------------------------|---------------------------------------------------------------|
+| [ x ]  Week 0 - Scratch                              | [ - ]  HTML, CSS                                              |
+| [ x ]  Week 1 - C                                    | [ - ]  Git                                                    |
+| [ x ]  Week 2 - Arrays                               | [ - ]  Python. Submit Project 0                               |
+| [ x ]  Week 3 - Algorithms                           | [ - ]  Django. Submit Project 1                               |
+| [ x ]  Week 4 - Memory                               | [ - ]  SQL, Models, and Migrations. Submit Project 2          |
+| [ x ]  Week 5 - Data Structures                      | [ - ]  JavaScript                                             | 
+| [ x ]  Week 6 - Python                               | [ - ]  User Interfaces. Submit Project 3                      |
+| [ - ]  Artificial Intelligence                       | [ - ]  Testing, CI/CD. Submit Project 4                       |
+| [ - ]  Week 7 - SQL                                  | [ - ]  Scalability and Security. Submit the Final Project     |
+| [ - ]  Week 8 - HTML, CSS, JavaScript                |                                                               |  
+| [ - ]  Week 9 - Flask                                |                                                               |
+| [ - ]  Week 10 - Cybersecurity                       |                                                               |
 
 -------------------------------------
 
