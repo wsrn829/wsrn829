@@ -10,7 +10,7 @@ who could "effortlessly" implement all kinds of designs she likes with code. [*R
 * 🖥️  See my portfolio at [*https://sarinawuphd.com/*](http://sarinawuphd.com/)
 * 🧠  I'm learning React, JavaScript, AI, TailwindCSS, CI/CD, and various Cloud Platforms.
 * 🧠  I thoroughly enjoyed dedicating my entire spring break last year to improving my Django skills. Upon reviewing my Django projects,
-      I remain comfortable using it and am actively working on deploying one.
+      I remain comfortable using it and am actively working on deploying some.
       [*Django Docs - The web framework for perfectionists with deadlines.*](https://docs.djangoproject.com/en/4.2/ref/settings/)
 * 🤝  I'm open to collaborating on AI Projects.
 
