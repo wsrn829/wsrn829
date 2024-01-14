@@ -16,7 +16,7 @@ who could "effortlessly" implement all kinds of designs she likes with code. [*R
 
 ------------------------------------
 
-### Skills
+### Technical Skills
 
 |*Categories*     |*Tools*                                                                                       |
 |:--------------- |:------------------------------------------------------------------------------------------------------------- |
