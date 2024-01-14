@@ -77,15 +77,15 @@ I am excited about deploying this app because it shares similarities with TaskTa
 
 **Harvard CS50's Web Programming with Python and JavaScript**
 
-- [ ] HTML, CSS.
-- [ ] Git.
-- [ ] Python. Submit Project 0.
-- [ ] Django. Submit Project 1.
-- [ ] SQL, Models, and Migrations. Submit Project 2.
-- [ ] JavaScript.
-- [ ] User Interfaces. Submit Project 3.
-- [ ] Testing, CI/CD. Submit Project 4.
-- [ ] Scalability and Security. Submit the Final Project.
+- [ ] HTML, CSS
+- [ ] Git
+- [ ] Python 
+- [ ] Django
+- [ ] SQL, Models, and Migrations
+- [ ] JavaScript
+- [ ] User Interfaces
+- [ ] Testing, CI/CD
+- [ ] Scalability and Security
 
 -------------------------------------
 
