@@ -18,7 +18,7 @@ who could "effortlessly" implement all kinds of designs she likes with code. [*R
 
 ### Technical Skills
 
-|*Categories*     |*Tools*                                                                                       |
+|   |*Tools*                                                                                       |
 |:--------------- |:------------------------------------------------------------------------------------------------------------- |
 | Frontend        | JavaScript, TypeScript, React, React Native, Redux, Redux Toolkit, RTK Query, Next.js, HTML, CSS, Tailwind CSS, Bootstrap |
 | Backend         | NodeJS, ExpressJS, Python, Django, REST API, FastAPI, PostgreSQL, MongoDB, RabbitMQ                             |
