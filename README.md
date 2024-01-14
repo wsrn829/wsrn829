@@ -58,6 +58,37 @@ I am excited about deploying this app because it shares similarities with TaskTa
 
 -------------------------------------
 
+### Continuing Education
+
+**Harvard CS50's Introduction to Computer Science**
+
+- [x] Week 0 - Scratch
+- [x] Week 1 - C
+- [x] Week 2 - Arrays
+- [x] Week 3 - Algorithms
+- [x] Week 4 - Memory
+- [x] Week 5 - Data Structures
+- [x] Week 6 - Python
+- [ ] Artificial Intelligence
+- [ ] Week 7 - SQL
+- [ ] Week 8 - HTML, CSS, JavaScript
+- [ ] Week 9 - Flask
+- [ ] Week 10 - Cybersecurity
+
+**Harvard CS50's Web Programming with Python and JavaScript**
+
+- [ ] HTML, CSS.
+- [ ] Git.
+- [ ] Python. Submit Project 0.
+- [ ] Django. Submit Project 1.
+- [ ] SQL, Models, and Migrations. Submit Project 2.
+- [ ] JavaScript.
+- [ ] User Interfaces. Submit Project 3.
+- [ ] Testing, CI/CD. Submit Project 4.
+- [ ] Scalability and Security. Submit the Final Project.
+
+-------------------------------------
+
 ### Skills
 
 <p align="left">
