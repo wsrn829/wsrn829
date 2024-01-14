@@ -18,12 +18,12 @@ who could "effortlessly" implement all kinds of designs she likes with code. [*R
 
 ### Technical Skills
 
-|   |*Tools*                                                                                       |
-|:--------------- |:------------------------------------------------------------------------------------------------------------- |
-| Frontend        | JavaScript, TypeScript, React, React Native, Redux, Redux Toolkit, RTK Query, Next.js, HTML, CSS, Tailwind CSS, Bootstrap |
-| Backend         | NodeJS, ExpressJS, Python, Django, REST API, FastAPI, PostgreSQL, MongoDB, RabbitMQ                             |
-| DevOps          | Unit Testing, Docker, Microservices, CI/CD, GitLab CI, GitHub Actions, Heroku, DigitalOcean, AWS, Netlify       |
-| Documentation   | Markdown                                                                                                      |
+|   |**Tools**                                                                                       |
+|:---------------- |:------------------------------------------------------------------------------------------------------------------------- |
+| *Frontend*       | JavaScript, TypeScript, React, React Native, Redux, Redux Toolkit, RTK Query, Next.js, HTML, CSS, Tailwind CSS, Bootstrap |
+| *Backend*        | NodeJS, ExpressJS, Python, Django, REST API, FastAPI, PostgreSQL, MongoDB, RabbitMQ                             |
+| *DevOps*         | Unit Testing, Docker, Microservices, CI/CD, GitLab CI, GitHub Actions, Heroku, DigitalOcean, AWS, Netlify       |
+| *Documentation*  | Markdown                                                                                                        |
 
 -------------------------------------
 
@@ -34,11 +34,11 @@ who could "effortlessly" implement all kinds of designs she likes with code. [*R
 ### 1/2 Compare TaskTales and ThriveTogether:
 |     |       **TaskTales**           |         **ThriveTogether**                                                        |
 |:--------------- |:------------------------------------------|:---------------------------------------------------------------- |
-| Backend Framework | Django | FastAPI |
-| Containerization | Virtual Environment | Docker |
-| Database | SQLite | PostgreSQL |
-| Frontend | HTML | React |
-| Authentication | Built-In | Manual |
+| *Backend Framework* | Django | FastAPI |
+| *Containerization* | Virtual Environment | Docker |
+| *Database* | SQLite | PostgreSQL |
+| *Frontend* | HTML | React |
+| *Authentication* | Built-In | Manual |
 
 All five aspects seem simpler for the former (not saying Django is "easier" than FastAPI, just that I'm better at it at the moment 🙂);\
 hence, when I set out to enhance my deployment skills, I decided to start with TaskTales. [*CI/CD - The Most Crucial DevOps Practice.*](https://www.simplilearn.com/tutorials/devops-tutorial/continuous-delivery-and-continuous-deployment)
@@ -53,14 +53,14 @@ hence, when I set out to enhance my deployment skills, I decided to start with T
 ### 2/2 Compare DealerDashboard and TaskTales:
 |     |       **DealerDashboard**           |         **TaskTales**                                                        |
 |:--------------- |:------------------------------------------|:---------------------------------------------------------------- |
-| Backend Framework | Django | Django |
-| Database | PostgreSQL | PostgreSQL |
-| Cloud Platform | Heroku | Heroku |
-| Authentication | Built-In | Built-In |
-| Containerization | Docker | Virtual Environment |
-| Microservices | Yes | No |
-| Polling | Yes | No |
-| Frontend | React | HTML |
+| *Backend Framework* | Django | Django |
+| *Database* | PostgreSQL | PostgreSQL |
+| *Cloud Platform* | Heroku | Heroku |
+| *Authentication* | Built-In | Built-In |
+| *Containerization* | Docker | Virtual Environment |
+| *Microservices* | Yes | No |
+| *Polling* | Yes | No |
+| *Frontend* | React | HTML |
 
 I am excited about deploying this app because it shares similarities with TaskTales but exhibits greater complexity.
 * Specifically, the incorporation of microservices, Docker, and polling, along with the React-based frontend, adds a layer of sophistication.
