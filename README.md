@@ -68,20 +68,20 @@ I am excited about deploying this app because it shares similarities with TaskTa
 |------------------------------------------------------|---------------------------------------------------------------|
 | [ x ]  Week 0 - Scratch                              | [ - ]  HTML, CSS                                              |
 | [ x ]  Week 1 - C                                    | [ - ]  Git                                                    |
-| [ x ]  Week 2 - Arrays                               | [ - ]  Python. Submit Project 0                               |
-| [ x ]  Week 3 - Algorithms                           | [ - ]  Django. Submit Project 1                               |
-| [ x ]  Week 4 - Memory                               | [ - ]  SQL, Models, and Migrations. Submit Project 2          |
+| [ x ]  Week 2 - Arrays                               | [ - ]  Python                                                 |
+| [ x ]  Week 3 - Algorithms                           | [ - ]  Django                                                 |
+| [ x ]  Week 4 - Memory                               | [ - ]  SQL, Models, and Migrations                            |
 | [ x ]  Week 5 - Data Structures                      | [ - ]  JavaScript                                             | 
-| [ x ]  Week 6 - Python                               | [ - ]  User Interfaces. Submit Project 3                      |
-| [ - ]  Artificial Intelligence                       | [ - ]  Testing, CI/CD. Submit Project 4                       |
-| [ - ]  Week 7 - SQL                                  | [ - ]  Scalability and Security. Submit the Final Project     |
+| [ x ]  Week 6 - Python                               | [ - ]  User Interfaces                                        |
+| [ - ]  Artificial Intelligence                       | [ - ]  Testing, CI/CD                                         |
+| [ - ]  Week 7 - SQL                                  | [ - ]  Scalability and Security                               |
 | [ - ]  Week 8 - HTML, CSS, JavaScript                |                                                               |  
 | [ - ]  Week 9 - Flask                                |                                                               |
 | [ - ]  Week 10 - Cybersecurity                       |                                                               |
 
 -------------------------------------
 
-### Tech Skills
+### Skills
 
 |*Categories*     |*Tools*                                                                                       |
 |:--------------- |:------------------------------------------------------------------------------------------------------------- |
