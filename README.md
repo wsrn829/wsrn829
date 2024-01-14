@@ -81,7 +81,7 @@ I am excited about deploying this app because it shares similarities with TaskTa
 
 -------------------------------------
 
-### Skills
+### Tech Skills
 
 |*Categories*     |*Tools*                                                                                       |
 |:--------------- |:------------------------------------------------------------------------------------------------------------- |
