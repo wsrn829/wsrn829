@@ -16,10 +16,22 @@ who could "effortlessly" implement all kinds of designs she likes with code. [*R
 
 ------------------------------------
 
+### Skills
+
+|*Categories*     |*Tools*                                                                                       |
+|:--------------- |:------------------------------------------------------------------------------------------------------------- |
+| Frontend        | JavaScript, TypeScript, React, React Native, Redux, Redux Toolkit, RTK Query, Next.js, HTML, CSS, Tailwind CSS, Bootstrap |
+| Backend         | NodeJS, ExpressJS, Python, Django, REST API, FastAPI, PostgreSQL, MongoDB, RabbitMQ                             |
+| DevOps          | Unit Testing, Docker, Microservices, CI/CD, GitLab CI, GitHub Actions, Heroku, DigitalOcean, AWS, Netlify       |
+| Documentation   | Markdown                                                                                                      |
+
+-------------------------------------
+
+
 ![my Tech Stack](https://res.cloudinary.com/practicaldev/image/fetch/s--ThRQXaMn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://bezkoder.com/wp-content/uploads/2020/03/django-react-axios-rest-framework-crud-architecture.png)
 
 ------------------------------------
-### Compare TaskTales and ThriveTogether:
+### 1/2 Compare TaskTales and ThriveTogether:
 |     |       **TaskTales**           |         **ThriveTogether**                                                        |
 |:--------------- |:------------------------------------------|:---------------------------------------------------------------- |
 | Backend Framework | Django | FastAPI |
@@ -38,7 +50,7 @@ if I can't figure out how to deploy TaskTales, I don't think I could get how to 
   
 -------------------------------------
 
-### Compare DealerDashboard and TaskTales:
+### 2/2 Compare DealerDashboard and TaskTales:
 |     |       **DealerDashboard**           |         **TaskTales**                                                        |
 |:--------------- |:------------------------------------------|:---------------------------------------------------------------- |
 | Backend Framework | Django | Django |
@@ -78,18 +90,6 @@ I am excited about deploying this app because it shares similarities with TaskTa
 | [ - ]  Week 8 - HTML, CSS, JavaScript                |                                                               |  
 | [ - ]  Week 9 - Flask                                |                                                               |
 | [ - ]  Week 10 - Cybersecurity                       |                                                               |
-
--------------------------------------
-
-### Skills
-
-|*Categories*     |*Tools*                                                                                       |
-|:--------------- |:------------------------------------------------------------------------------------------------------------- |
-| Frontend        | JavaScript, TypeScript, React, React Native, Redux, Redux Toolkit, RTK Query, Next.js, HTML, CSS, Tailwind CSS, Bootstrap |
-| Backend         | NodeJS, ExpressJS, Python, Django, REST API, FastAPI, PostgreSQL, MongoDB, RabbitMQ                             |
-| DevOps          | Unit Testing, Docker, Microservices, CI/CD, GitLab CI, GitHub Actions, Heroku, DigitalOcean, AWS, Netlify       |
-| Documentation   | Markdown                                                                                                      |
-
 
 -------------------------------------
 
