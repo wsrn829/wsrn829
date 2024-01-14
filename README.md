@@ -41,7 +41,7 @@ who could "effortlessly" implement all kinds of designs she likes with code. [*R
 | Authentication | Built-In | Manual |
 
 All five aspects seem simpler for the former (not saying Django is "easier" than FastAPI, just that I'm better at it at the moment 🙂);\
-if I can't figure out how to deploy TaskTales, I don't think I could get how to deploy ThriveTogether. [*CI/CD - The Most Crucial DevOps Practice.*](https://www.simplilearn.com/tutorials/devops-tutorial/continuous-delivery-and-continuous-deployment)
+hence, when I set out to enhance my deployment skills, I decided to start with TaskTales. [*CI/CD - The Most Crucial DevOps Practice.*](https://www.simplilearn.com/tutorials/devops-tutorial/continuous-delivery-and-continuous-deployment)
 
 *  Django App Deployment on Heroku actually is pretty straightforward if we follow [these steps](https://devcenter.heroku.com/articles/getting-started-with-python), although it simply doesn't work as it does locally...Troubleshooting is *tricky*.
 *  OMG. I can't believe it...After 112 commits to the Repo (TaskTalesDeployment), it suddenly starts working as smoothly as in the local development mode (with zero console error on my end)...LOL. 🌸 [*My First Independently Deployed Django App on Heroku*](https://tasktales-e12d965b0fbc.herokuapp.com/) 🌸 [01/09/2024]
