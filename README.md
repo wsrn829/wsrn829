@@ -22,11 +22,10 @@ who could "effortlessly" implement all kinds of designs she likes with code. [*R
 |:---------------- |:------------------------------------------------------------------------------------------------------------------------- |
 | *Frontend*       | JavaScript, TypeScript, React, React Native, Next.js, Vite, Redux, Redux Toolkit, RTK Query, HTML, CSS, Tailwind CSS, Bootstrap |
 | *Backend*        | Node.js, Express.js, Python, Django, FastAPI, REST API, PostgreSQL, MongoDB, RabbitMQ, Postman, Insomnia                        |
-| *DevOps*         | Docker, Microservices, CI/CD, GitLab CI, GitHub Actions, Unit Testing, Heroku, DigitalOcean, AWS, Netlify       |
-| *Documentation*  | Markdown                                                                                                        |
+| *DevOps*         | Docker, Microservices, CI/CD, GitLab CI, GitHub Actions, Unit Testing, Heroku, DigitalOcean, AWS, Hostinger       |
+| *Documentation*  | Markdown                                                                                                          |
 
 -------------------------------------
-
 
 ![my Tech Stack](https://res.cloudinary.com/practicaldev/image/fetch/s--ThRQXaMn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://bezkoder.com/wp-content/uploads/2020/03/django-react-axios-rest-framework-crud-architecture.png)
 
