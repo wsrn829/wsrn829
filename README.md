@@ -70,7 +70,7 @@ I am excited about deploying this app because it shares similarities with TaskTa
 * We kept encountering CORS errors when deploying ThriveTogether, so I would go with the second option for this one.
 * The Django-based server and PostgreSQL database are already up and running on Heroku.
 * Now, I need to configure the React frontend to display in the browser.
-
+* Just now realized that deployment could be harder than development...Netlify's UI is my favorite so far though, better than Heroku, DigitalOcean, Hostinger, AWS, Azure, etc. It would be perfect if I became good at it. :)
 -------------------------------------
 
 ### Continuing Education
