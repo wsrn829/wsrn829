@@ -76,6 +76,13 @@ I am excited about deploying this app because it shares similarities with TaskTa
 * 2/3 Frontend is deployed on Netlify.\
   <img width="550" alt="2" src="https://github.com/wsrn829/wsrn829/assets/67284951/f2990741-8174-45c3-8de7-6cdaf70f76f6">
 * 3/3 I need to connect them and make them fully functioning...I'm so tired of debugging today. (Just learned about a position called 'DevOps Engineer.' Why am I doing this then? Because I was asked if I had experience during an interview last year.)
+* Isn't it exciting to finally see something appearing in the browser? Although there's a bunch of troubleshooting ahead. Fun fact: I was asked to design a parking lot ticketing system (and a movie theater ticketing system) during another interview last year, and guess what? :p Anyway, below is my car dealership app.
+  
+| Image 1 | Image 2 |
+| --------------- | ----------------------- |
+|<img width="300" alt="111" src="https://github.com/wsrn829/wsrn829/assets/67284951/09a0634e-5623-404b-89b9-0793a5e3bf05">|<img width="300" alt="222" src="https://github.com/wsrn829/wsrn829/assets/67284951/a3a5e6e3-8ed4-4946-a8b1-d3bb7c53b5ea">|
+
+
   
 -------------------------------
 
