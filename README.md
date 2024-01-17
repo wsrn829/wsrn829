@@ -22,7 +22,7 @@ who could "effortlessly" implement all kinds of designs she likes with code. [*R
 |:---------------- |:------------------------------------------------------------------------------------------------------------------------- |
 | *Frontend*       | JavaScript, TypeScript, React, React Native, Next.js, Vite, Redux, Redux Toolkit, RTK Query, HTML, CSS, Tailwind CSS, Bootstrap |
 | *Backend*        | Node.js, Express.js, Python, Django, FastAPI, REST API, PostgreSQL, MongoDB, RabbitMQ, Postman, Insomnia                        |
-| *DevOps*         | Docker, Microservices, CI/CD, GitLab CI, GitHub Actions, Unit Testing, Heroku, DigitalOcean, AWS, Hostinger       |
+| *DevOps*         | Docker, Microservices, CI/CD, GitLab CI, GitHub Actions, Unit Testing, Heroku, Netlify, DigitalOcean, AWS, Hostinger       |
 | *Documentation*  | Markdown                                                                                                          |
 
 -------------------------------------
