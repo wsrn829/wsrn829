@@ -71,7 +71,13 @@ I am excited about deploying this app because it shares similarities with TaskTa
 * The Django-based server and PostgreSQL database are already up and running on Heroku.
 * Now, I need to configure the React frontend to display in the browser.
 * Just now realized that deployment could be harder than development. Netlify's UI is my favorite so far though, better than Heroku, DigitalOcean, Hostinger, AWS, Azure, etc. It would be perfect if I became good at it. [*Build Configs*](https://docs.netlify.com/configure-builds/overview/?_gl=1%2ap93753%2a_gcl_aw%2aR0NMLjE3MDU0MjAzMzEuQ2p3S0NBaUE3NWl0QmhBNkVpd0FraG85ZTN1ZTZ6a05qV3I2aFVCQVdRT1lFcnhhU1hGblJOTzdQS09vNGxPMnA1ZnR1M3VxaVJ5V0FCb0N5bEFRQXZEX0J3RQ..%2a_gcl_au%2aMTQ4NjI5NjQyMC4xNzA1NDIwMTc1) [*Dependencies*](https://docs.netlify.com/configure-builds/manage-dependencies/) [*Debugging*](https://answers.netlify.com/t/support-guide-failed-build-debugging-advice-preparing-the-best-help-request/73269?_gl=1*1fjzb8j*_gcl_aw*R0NMLjE3MDU0MjAzMzEuQ2p3S0NBaUE3NWl0QmhBNkVpd0FraG85ZTN1ZTZ6a05qV3I2aFVCQVdRT1lFcnhhU1hGblJOTzdQS09vNGxPMnA1ZnR1M3VxaVJ5V0FCb0N5bEFRQXZEX0J3RQ..*_gcl_au*MTQ4NjI5NjQyMC4xNzA1NDIwMTc1) (I wouldn't say I'm dumb. It's just *hard*.)
--------------------------------------
+* 1/3 Backend is deployed on Heroku.\
+  <img width="550" alt="1" src="https://github.com/wsrn829/wsrn829/assets/67284951/2eaa3f2e-2bb5-4b37-81b6-884745b4bb4b">
+* 2/3 Frontend is deployed on Netlify.\
+  <img width="550" alt="2" src="https://github.com/wsrn829/wsrn829/assets/67284951/f2990741-8174-45c3-8de7-6cdaf70f76f6">
+* 3/3 I need to connect them and make them fully functioning...I'm so tired of debugging today. (Just learned about a position called 'DevOps Engineer.' Why am I doing this then? Because I was asked if I had experience during an interview last year.)
+  
+-------------------------------
 
 ### Continuing Education
 
