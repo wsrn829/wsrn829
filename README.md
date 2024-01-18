@@ -83,8 +83,8 @@ I am excited about deploying this app because it shares similarities with TaskTa
 |<img width="300" alt="111" src="https://github.com/wsrn829/wsrn829/assets/67284951/09a0634e-5623-404b-89b9-0793a5e3bf05">|<img width="300" alt="222" src="https://github.com/wsrn829/wsrn829/assets/67284951/a3a5e6e3-8ed4-4946-a8b1-d3bb7c53b5ea">|
 
 * Setting up CI/CD (Continuous Integration/Continuous Deployment) for my projects has been really cool! The automated build and deployment process every time I push updates to my Git repository not only streamlines the development workflow but also enables the quick detection of errors as soon as a build fails. “The power of CI/CD lies in its ability to enhance efficiency, minimize manual interventions, and provide instant feedback, ultimately contributing to a more robust and agile software development lifecycle."
-* Setting up CI/CD for full-stack apps has been quite a challenge, dealing with front-end and back-end deployment setups, managing database migrations, and handling environment variables, but the positive results make the effort totally worth it! 😊 🌸
-  
+* Configuring CI/CD for full-stack apps, which includes setting up front-end and back-end deployment pipelines, managing database migrations, handling environment variables, and numerous debugging, has indeed been a significant undertaking. However, the rewarding outcomes make the entire effort absolutely worthwhile! 😊 🌸
+* Thankful for someone who said the part I wrote is better than the AI-generated one... LOL.(I really appreciate that.)  
 -------------------------------
 
 ### Continuing Education
