@@ -82,8 +82,8 @@ I am excited about deploying this app because it shares similarities with TaskTa
 | --------------- | ----------------------- |
 |<img width="300" alt="111" src="https://github.com/wsrn829/wsrn829/assets/67284951/09a0634e-5623-404b-89b9-0793a5e3bf05">|<img width="300" alt="222" src="https://github.com/wsrn829/wsrn829/assets/67284951/a3a5e6e3-8ed4-4946-a8b1-d3bb7c53b5ea">|
 
-* Setting up CI/CD (Continuous Integration/Continuous Deployment) for my project has been really cool! With seamless automation of the build and deployment pipeline every time I push updates to my Git repository, it not only streamlines the development workflow but also enables the rapid identification of errors as soon as a build fails. “The power of CI/CD lies in its ability to enhance efficiency, minimize manual interventions, and provide instant feedback, ultimately contributing to a more robust and agile software development lifecycle."
-* Setting up CI/CD from scratch has been quite a challenge, but the results make the effort totally worth it! 😊
+* Setting up CI/CD (Continuous Integration/Continuous Deployment) pipeline for my project has been really cool! With seamless automation of the build and deployment pipeline every time I push updates to my Git repository, it not only streamlines the development workflow but also enables the rapid identification of errors as soon as a build fails. “The power of CI/CD lies in its ability to enhance efficiency, minimize manual interventions, and provide instant feedback, ultimately contributing to a more robust and agile software development lifecycle."
+* Setting up CI/CD from scratch has been quite a challenge, but the results make the effort totally worth it! 🌸
   
 -------------------------------
 
