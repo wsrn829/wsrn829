@@ -85,7 +85,9 @@ I am excited about deploying this app because it shares similarities with TaskTa
 
 * Setting up CI/CD (Continuous Integration/Continuous Deployment) for my projects has been really cool! The automated build and deployment process every time I push updates to my Git repository not only streamlines the development workflow but also enables the quick detection of errors as soon as a build fails. “The power of CI/CD lies in its ability to enhance efficiency, minimize manual interventions, and provide instant feedback, ultimately contributing to a more robust and agile software development lifecycle."
 * Configuring CI/CD for full-stack apps, which includes setting up front-end and back-end deployment pipelines, managing database migrations, handling environment variables, and numerous debugging, has been quite a challenge. However, the rewarding outcomes make the entire effort absolutely worthwhile! 🌸
-* Thankful for someone who said the part I wrote is better than the AI-generated one... LOL (I really appreciate that. 😊 )  
+* Thankful for someone who said the part I wrote is better than the AI-generated one... LOL (I really appreciate that. 😊 )
+* The CORS (Cross-Origin Resource Sharing) error turned out to be such a simple fix. Amazing.
+
 -------------------------------
 
 ### Continuing Education
