@@ -77,6 +77,7 @@ I am excited about deploying this app because it shares similarities with TaskTa
   <img width="550" alt="2" src="https://github.com/wsrn829/wsrn829/assets/67284951/f2990741-8174-45c3-8de7-6cdaf70f76f6">
 * 3/3 I need to connect them and make them fully functioning...I'm so tired of debugging today. (Just learned about a position called 'DevOps Engineer.' Why am I doing this then? Because I was asked if I had experience during an interview last year.)
 * Isn't it exciting to finally see something showing up in the browser? Although still a bunch of troubleshooting awaiting. Fun fact: I was asked to design a parking lot ticketing system (and a movie theater ticketing system) during another interview last year, and guess what? :p Anyway, below is my *Car Dealership App*.
+* The CORS (Cross-Origin Resource Sharing) error turned out to be such a simple fix. Amazing.
   
 | Image 1 | Image 2 |
 | --------------- | ----------------------- |
