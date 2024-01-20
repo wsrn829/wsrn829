@@ -93,6 +93,7 @@ I am excited about deploying this app because it shares similarities with TaskTa
 ![wireframe](https://github.com/wsrn829/wsrn829/assets/67284951/1df91053-b8e0-49a0-b7bd-5ea4d08a6650)
 * Just now thinking about why I didn't notice any difference when deploying an app with microservices. Then I discovered that the inventory part (monolith) is working perfectly (both frontend and backend), but the microservices are having a 404 error. I assume Heroku is not detecting the microservices (just like what happened with my frontend).
 * [**Solution:**] Deploying microservices separately, in line with the principle of separation of concerns, should be able to resolve this issue.
+* This is also the *essence* of microservices: being independent yet collaborative. :) 
 -------------------------------
 
 ### Continuing Education
