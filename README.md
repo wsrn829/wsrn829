@@ -89,7 +89,7 @@ I am excited about deploying this app because it shares similarities with TaskTa
 * The CORS (Cross-Origin Resource Sharing) error turned out to be such a simple fix. Amazing.
 * Look at my drawing for my team (using Excalidraw). This is the wireframe of the Car Dealership App.
 ![wireframe](https://github.com/wsrn829/wsrn829/assets/67284951/1df91053-b8e0-49a0-b7bd-5ea4d08a6650)
-* Just now thinking about how I didn't notice any differences when deploying an app with microservices. Then, I discovered that the inventory part (monolith) was working perfectly (both frontend and backend). However, the microservices were encountering a 404 error. I assume Heroku is having difficulty detecting the microservices (just like what happened with my frontend). The separation of concerns, which actually is the essence of microservices, by deploying them separately should be able to solve this issue.
+* Just now thinking about why I didn't notice any difference when deploying an app with microservices. Then, I discovered that the inventory part (monolith) was working perfectly (both frontend and backend). However, the microservices were encountering a 404 error. I assume Heroku is having difficulty detecting the microservices (just like what happened with my frontend). The separation of concerns, which actually is the essence of microservices, by deploying them separately should be able to solve this issue.
 -------------------------------
 
 ### Continuing Education
