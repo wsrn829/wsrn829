@@ -86,10 +86,10 @@ I am excited about deploying this app because it shares similarities with TaskTa
 * Configuring CI/CD for full-stack apps, which includes setting up front-end and back-end deployment pipelines, managing database migrations, handling environment variables, and numerous debugging, has been quite a challenge. However, the rewarding outcomes make the entire effort absolutely worthwhile! 🌸
 * Thankful for someone who said the part I wrote is better than the AI-generated one... LOL (I really appreciate that. 😊 )
 * The CORS (Cross-Origin Resource Sharing) error turned out to be such a simple fix. Amazing.
-* Look at my drawing for my team (using Excalidraw). This is the wireframe of the Car Dealership App.
- 
+* Look at my drawing for my team (using Excalidraw). This is the wireframe of the Car Dealership App. 
 
-![wireframe](https://github.com/wsrn829/wsrn829/assets/67284951/1df91053-b8e0-49a0-b7bd-5ea4d08a6650)
+
+![carwireframe](https://github.com/wsrn829/wsrn829/assets/67284951/289970e9-1c17-48be-bcd2-c94feef86593)
 * Just now thinking about why I didn't notice any difference when deploying an app with microservices. Then I discovered that the inventory part (monolith) is working perfectly (both frontend and backend), but the microservices are having a 404 error. I assume Heroku is not detecting the microservices (just like what happened with my frontend).
 * [**Solution:**] Deploying microservices separately, in line with the principle of separation of concerns, should be able to resolve this issue.
 * This is also the *essence* of microservices: being independent yet collaborative. :) 
