@@ -94,6 +94,10 @@ I am excited about deploying this app because it shares similarities with TaskTa
 * [**Solution:**] Deploying microservices separately, in line with the principle of separation of concerns, should be able to resolve this issue.
 * This is also the *essence* of microservices: being independent yet collaborative. :)
 * After deploying my microservices in minutes, CI/CD is no longer a concern. I will focus on React and AI for future projects. (SalesForm getting an "invalid VIN" error, which should be from the code itself, probably from React components. Everything else is working. BTW, my backend is always bug-free so far as long as I use Django. LOL)
+* This is my biggest confusion right now. I forgot to ask the instructors before graduation. TT
+
+  
+  ![VO](https://github.com/wsrn829/wsrn829/assets/67284951/c722e36d-2e01-42c8-a31d-616a35c498be)
   
 -------------------------------
 
