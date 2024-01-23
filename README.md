@@ -97,7 +97,9 @@ I am excited about deploying this app because it shares similarities with TaskTa
 
   
   ![VO](https://github.com/wsrn829/wsrn829/assets/67284951/c722e36d-2e01-42c8-a31d-616a35c498be)
-  
+
+* I'm thrilled to incorporate [this link](https://dealerdashboard.netlify.app/) into my resume, even as the project continues to evolve. To date, this application integrates four remote GitHub repositories, three remote Heroku repositories, one remote Netlify repository, and three PostgreSQL databases on Heroku. I have a comprehensive understanding of its wireframe, backend and frontend code, database interactions via SQL commands from the terminal, and CI/CD processes. In essence, I am well-versed in all aspects of this application. 
+
 -------------------------------
 
 ### Continuing Education
