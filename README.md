@@ -89,7 +89,7 @@ I am excited about deploying this app because it shares similarities with TaskTa
 * Look at my drawing for my team (using Excalidraw). This is the wireframe of the Car Dealership App. 
 
 
-![mywireframe](https://github.com/wsrn829/wsrn829/assets/67284951/8737a75c-77cb-4d73-b355-ba9f79482bbf)
+![mywireframe](https://github.com/wsrn829/wsrn829/assets/67284951/c7846198-e7a4-4496-99a7-b95523879e50)
 * Just now thinking about why I didn't notice any difference when deploying an app with microservices. Then I found the inventory part (monolith) is working perfectly (both frontend and backend), but the microservices are having a 404 error. I assume Heroku is not detecting the microservices (just like what had happened with my frontend previously).
 * [**Solution:**] Deploying microservices separately, in line with the principle of separation of concerns, should be able to resolve this issue. This is also the *essence* of microservices: being independent yet collaborative. :)
 * After deploying my microservices in minutes, CI/CD is no longer a concern. I will focus on React and AI for future projects. (SalesForm getting an "invalid VIN" error, which should be from the code itself, probably from React components. Everything else is working. BTW, my backend is always bug-free so far as long as I use Django. LOL)
