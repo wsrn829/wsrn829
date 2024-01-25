@@ -102,6 +102,13 @@ I am excited about deploying this app because it shares similarities with TaskTa
 * This 2 AM message that left me speechless .. 
   ![message](https://github.com/wsrn829/wsrn829/assets/67284951/ced03f5b-f2ab-4ab6-a8be-f50b88042874)
 
+* I do need to add features, but at least this site is [live now](https://coin-crest.netlify.app/).
+
+| Image 1 | Image 2 |
+|---------------|----------------------- |
+|<img width="300" alt="1" src="https://github.com/wsrn829/wsrn829/assets/67284951/06821b5d-05f1-410e-a6f5-322fb7d903f2">|<img width="300" alt="2" src="https://github.com/wsrn829/wsrn829/assets/67284951/79b57d25-8930-4f52-8b65-bdafaf338441">|
+
+
 
 -------------------------------
 
