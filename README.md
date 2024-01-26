@@ -88,25 +88,25 @@ I am excited about deploying this app because it shares similarities with TaskTa
 * The CORS (Cross-Origin Resource Sharing) error turned out to be such a simple fix. Amazing.
 * Look at my drawing for my team (using Excalidraw). This is the wireframe of the Car Dealership App. 
 
-
-![mywireframe](https://github.com/wsrn829/wsrn829/assets/67284951/c7846198-e7a4-4496-99a7-b95523879e50)
+  <img width="800" alt="wireframe" src="https://github.com/wsrn829/wsrn829/assets/67284951/c7846198-e7a4-4496-99a7-b95523879e50">
+  
 * Just now thinking about why I didn't notice any difference when deploying an app with microservices. Then I found the inventory part (monolith) is working perfectly (both frontend and backend), but the microservices are having a 404 error. I assume Heroku is not detecting the microservices (just like what had happened with my frontend previously).
 * [**Solution:**] Deploying microservices separately, in line with the principle of separation of concerns, should be able to resolve this issue. This is also the *essence* of microservices: being independent yet collaborative. :)
 * After deploying my microservices in minutes, CI/CD is no longer a concern. I will focus on React and AI for future projects. (SalesForm getting an "invalid VIN" error, which should be from the code itself, probably from React components. Everything else is working. BTW, my backend is always bug-free so far as long as I use Django. LOL)
 * This is my biggest confusion right now. I forgot to ask the instructors before graduation. TT
-
   
-  ![VO](https://github.com/wsrn829/wsrn829/assets/67284951/c722e36d-2e01-42c8-a31d-616a35c498be)
+  <img width="500" alt="ai" src="https://github.com/wsrn829/wsrn829/assets/67284951/c722e36d-2e01-42c8-a31d-616a35c498be">
 
 * I'm thrilled to incorporate [this link](https://dealerdashboard.netlify.app/) into my resume, even as the project continues to evolve. To date, this application integrates four remote GitHub repositories, three remote Heroku repositories, one remote Netlify repository, and three PostgreSQL databases on Heroku. I have a comprehensive understanding of its wireframe, backend and frontend code, database interactions via SQL commands from the terminal, and CI/CD processes. In essence, I am well-versed in all aspects of this application.
 * This 2 AM message that left me speechless .. 
-  ![message](https://github.com/wsrn829/wsrn829/assets/67284951/ced03f5b-f2ab-4ab6-a8be-f50b88042874)
+
+  <img width="300" alt="1" src="https://github.com/wsrn829/wsrn829/assets/67284951/ced03f5b-f2ab-4ab6-a8be-f50b88042874">
 
 * I do need to add features, but at least this site is [live now](https://coin-crest.netlify.app/).
 
 | Image 1 | Image 2 |
 |---------------|----------------------- |
-|<img width="300" alt="1" src="https://github.com/wsrn829/wsrn829/assets/67284951/06821b5d-05f1-410e-a6f5-322fb7d903f2">|<img width="300" alt="2" src="https://github.com/wsrn829/wsrn829/assets/67284951/79b57d25-8930-4f52-8b65-bdafaf338441">|
+|<img width="450" alt="1" src="https://github.com/wsrn829/wsrn829/assets/67284951/06821b5d-05f1-410e-a6f5-322fb7d903f2">|<img width="450" alt="2" src="https://github.com/wsrn829/wsrn829/assets/67284951/79b57d25-8930-4f52-8b65-bdafaf338441">|
 
 
 
