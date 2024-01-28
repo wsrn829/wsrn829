@@ -13,7 +13,7 @@ As a dedicated Full-Stack Engineer with over 1000 hours of training in Agile env
 * 🖥️  See my portfolio at [*https://sarinawuphd.com*](http://sarinawuphd.com)
 * 🧠  I'm learning React, Redux, AI, AWS, and TailwindCSS
 * 🧠  I thoroughly enjoyed dedicating my entire spring break last year to improving my Django skills.\
-      Upon reviewing my Django projects, I find that I am still comfortable using them and have already deployed some of them.
+      Upon reviewing my Django projects, I find that I am still comfortable using them and have recently deployed some of them.
 * 🤝  I'm open to collaborating on AI Projects.
 
 ------------------------------------
