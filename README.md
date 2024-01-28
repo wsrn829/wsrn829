@@ -4,7 +4,7 @@ Hi there 👋 My name is Sarina
 Full Stack Software Engineer
 ----------------------------
 
-As a dedicated Full-Stack Engineer with over 1000 hours of training in Agile environments, I bring hands-on experience spanning the entire software development lifecycle, from planning to implementation. Proficient in CI/CD processes, I specialize in ensuring smooth software deployments. Thriving in cross-functional teams, I foster collaborative problem-solving to guarantee the timely delivery of high-quality software solutions. Leveraging my background in social science research, I instill a user-centric approach, emphasizing the broader impact of development decisions. *Let's work together to bring your ideas to life!*
+As a dedicated Full-Stack Engineer with over 1000 hours of training in Agile environments, I bring hands-on experience spanning the entire software development lifecycle, from planning to implementation. Proficient in CI/CD processes, I specialize in ensuring smooth software deployments. Thriving in cross-functional teams, I foster collaborative problem-solving to ensure the timely delivery of high-quality software solutions. Leveraging my background in social science research, I instill a user-centric approach, emphasizing the broader impact of development decisions. *Let's work together to bring your ideas to life!*
 
 [*React Docs - Empowering efficient and responsive user interfaces with JavaScript.*](https://react.dev/)\
 [*MDN Web Docs - Your one-stop resource for web development.*](https://developer.mozilla.org/en-US/)\
