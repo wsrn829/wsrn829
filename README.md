@@ -12,8 +12,8 @@ who could "effortlessly" implement all kinds of designs she likes with code.\
 
 * 🖥️  See my portfolio at [*https://sarinawuphd.com*](http://sarinawuphd.com)
 * 🧠  I'm learning React, JavaScript, AI, TailwindCSS, CI/CD, and various Cloud Platforms.
-* 🧠  I thoroughly enjoyed dedicating my entire spring break last year to improving my Django skills. Upon reviewing my Django projects,\
-      I find that I am still comfortable using them and have already deployed some of them.
+* 🧠  I thoroughly enjoyed dedicating my entire spring break last year to improving my Django skills.\
+      Upon reviewing my Django projects, I find that I am still comfortable using them and have already deployed some of them.
 * 🤝  I'm open to collaborating on AI Projects.
 
 ------------------------------------
