@@ -12,8 +12,7 @@ As a dedicated Full-Stack Engineer with over 1000 hours of training in Agile env
 
 * 🖥️  See my portfolio at [*https://sarinawuphd.com*](http://sarinawuphd.com)
 * 🧠  I'm learning React, Redux, AI, AWS, and TailwindCSS
-* 🧠  I thoroughly enjoyed dedicating my entire spring break last year to improving my Django skills.\
-      Upon reviewing my Django projects, I find that I am still comfortable using them and have recently deployed some of them.
+* 🧠  I thoroughly enjoyed dedicating my entire spring break last year to improving my Django skills. *Upon reviewing my Django projects, I find that I am still comfortable using them and have recently deployed some of them.*
 * 🤝  I'm open to collaborating on AI Projects.
 
 ------------------------------------
@@ -41,8 +40,7 @@ As a dedicated Full-Stack Engineer with over 1000 hours of training in Agile env
 | *Frontend* | HTML | React |
 | *Authentication* | Built-In | Manual |
 
-All five aspects seem simpler for the former (not saying Django is "easier" than FastAPI, just that I'm better at it at the moment 🙂);\
-hence, when I set out to enhance my deployment skills, I decided to start with TaskTales. [*CI/CD - The Most Crucial DevOps Practice.*](https://www.simplilearn.com/tutorials/devops-tutorial/continuous-delivery-and-continuous-deployment)
+All five aspects seem simpler for the former (not saying Django is "easier" than FastAPI, just that I'm better at it at the moment 🙂); hence, when I set out to enhance my deployment skills, I decided to start with TaskTales. [*CI/CD - The Most Crucial DevOps Practice.*](https://www.simplilearn.com/tutorials/devops-tutorial/continuous-delivery-and-continuous-deployment)
 
 *  Django App Deployment on Heroku actually is pretty straightforward if we follow [these steps](https://devcenter.heroku.com/articles/getting-started-with-python), although it simply doesn't work as it does locally...Troubleshooting is *tricky*.
 *  OMG. I can't believe it...After 112 commits to the Repo (TaskTalesDeployment), it suddenly starts working as smoothly as in the local development mode (with zero console error on my end)...LOL. 🌸 [*My First Independently Deployed Django App on Heroku*](https://tasktales-e12d965b0fbc.herokuapp.com/) 🌸 [01/09/2024]
