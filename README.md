@@ -5,13 +5,15 @@ Full Stack Software Engineer
 ----------------------------
 
 Just like languages, designing is a form of communication. I am obsessed with the future me,\
-who could "effortlessly" implement all kinds of designs she likes with code. [*React Docs - Empowering efficient and responsive user interfaces with JavaScript.*](https://react.dev/) & [*MDN Web Docs - Your one-stop resource for web development.*](https://developer.mozilla.org/en-US/)
+who could "effortlessly" implement all kinds of designs she likes with code.\
+[*React Docs - Empowering efficient and responsive user interfaces with JavaScript.*](https://react.dev/)\
+[*MDN Web Docs - Your one-stop resource for web development.*](https://developer.mozilla.org/en-US/)\
+[*Django Docs - The web framework for perfectionists with deadlines.*](https://docs.djangoproject.com/en/4.2/ref/settings/)
 
-* 🖥️  See my portfolio at [*https://sarinawuphd.com/*](http://sarinawuphd.com/)
+* 🖥️  See my portfolio at [*https://sarinawuphd.com*](http://sarinawuphd.com)
 * 🧠  I'm learning React, JavaScript, AI, TailwindCSS, CI/CD, and various Cloud Platforms.
-* 🧠  I thoroughly enjoyed dedicating my entire spring break last year to improving my Django skills. Upon reviewing my Django projects,
-      I remain comfortable using it and am actively working on deploying some.
-      [*Django Docs - The web framework for perfectionists with deadlines.*](https://docs.djangoproject.com/en/4.2/ref/settings/)
+* 🧠  I thoroughly enjoyed dedicating my entire spring break last year to improving my Django skills. Upon reviewing my Django projects,\
+      I find that I am still comfortable using them and have already deployed some of them.
 * 🤝  I'm open to collaborating on AI Projects.
 
 ------------------------------------
