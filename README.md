@@ -8,7 +8,8 @@ As a dedicated Full-Stack Engineer with over 1000 hours of training in Agile env
 
 [*React Docs - Empowering efficient and responsive user interfaces with JavaScript.*](https://react.dev/)\
 [*MDN Web Docs - Your one-stop resource for web development.*](https://developer.mozilla.org/en-US/)\
-[*Django Docs - The web framework for perfectionists with deadlines.*](https://docs.djangoproject.com/en/4.2/ref/settings/)
+[*Django Docs - The web framework for perfectionists with deadlines.*](https://docs.djangoproject.com/en/4.2/ref/settings/)\
+[*Bootstrap - Powerful, extensible, and feature-packed frontend toolkit.*](https://getbootstrap.com/)
 
 My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building responsive user interfaces with modern JavaScript frameworks like React and secure server-side architectures with Django, Python, and FastAPI. My proficiency extends to working with databases such as PostgreSQL and MongoDB, ensuring efficient data management and retrieval. I have successfully implemented CI/CD for projects, incorporating database migrations, environment variable configuration, and extensive debugging to ensure continuous delivery. *Thriving at the forefront of innovation, I am a growth-driven developer, propelled by an insatiable desire for knowledge and mastery.*
 * 🧠  I'm learning React, Redux, AI, AWS, and TailwindCSS
