@@ -112,6 +112,10 @@ I am excited about deploying this app because it shares similarities with TaskTa
 * Sometimes, CSS takes longer than the backend. &I'm still working on it. :)
 <img width="500" alt="1" src="https://github.com/wsrn829/wsrn829/assets/67284951/3d937090-9e7b-456e-be91-e40711a271af">
 
+* Having fun is much more fun than job search..
+<img width="500" alt="carapp" src="https://github.com/wsrn829/wsrn829/assets/67284951/c7887808-095d-443b-b666-4fb55c8beb53">
+
+
 -------------------------------
 
 ### Continuing Education
