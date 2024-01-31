@@ -110,9 +110,6 @@ I am excited about deploying this app because it shares similarities with TaskTa
 |<img width="450" alt="1" src="https://github.com/wsrn829/wsrn829/assets/67284951/06821b5d-05f1-410e-a6f5-322fb7d903f2">|<img width="450" alt="2" src="https://github.com/wsrn829/wsrn829/assets/67284951/79b57d25-8930-4f52-8b65-bdafaf338441">|
 
 * Sometimes, CSS takes longer than the backend. &I'm still working on it. :)
-<img width="300" alt="1" src="https://github.com/wsrn829/wsrn829/assets/67284951/3d937090-9e7b-456e-be91-e40711a271af">
-
-* Having fun is much more fun than job search..
   
 <img width="300" alt="carapp" src="https://github.com/wsrn829/wsrn829/assets/67284951/c7887808-095d-443b-b666-4fb55c8beb53">\
 <img width="300" alt="carweb33" src="https://github.com/wsrn829/wsrn829/assets/67284951/73c6da0f-1d62-4309-9d4c-c379cbfbbba5">
