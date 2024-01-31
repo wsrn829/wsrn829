@@ -6,15 +6,19 @@ Full Stack Software Engineer
 
 As a dedicated Full-Stack Engineer with over 1000 hours of training in Agile environments, I bring hands-on experience spanning the entire software development lifecycle, from planning to implementation. Proficient in CI/CD processes, I specialize in ensuring smooth software deployments. Thriving in cross-functional teams, I foster collaborative problem-solving to guarantee the timely delivery of high-quality software solutions. Leveraging my background in social science research, I instill a user-centric approach, emphasizing the broader impact of development decisions. *Let's work together to bring your ideas to life!*
 
-[*React Docs - Empowering efficient and responsive user interfaces with JavaScript.*](https://react.dev/)\
-[*MDN Web Docs - Your one-stop resource for web development.*](https://developer.mozilla.org/en-US/)\
-[*Django Docs - The web framework for perfectionists with deadlines.*](https://docs.djangoproject.com/en/4.2/ref/settings/)\
-[*Bootstrap - Powerful, extensible, and feature-packed frontend toolkit.*](https://getbootstrap.com/)
-
 My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building responsive user interfaces with modern JavaScript frameworks like React and secure server-side architectures with Django, Python, and FastAPI. My proficiency extends to working with databases such as PostgreSQL and MongoDB, ensuring efficient data management and retrieval. I have successfully implemented CI/CD for projects, incorporating database migrations, environment variable configuration, and extensive debugging to ensure continuous delivery. *Thriving at the forefront of innovation, I am a growth-driven developer, propelled by an insatiable desire for knowledge and mastery.*
 * 🧠  I'm learning React, Redux, AI, AWS, and TailwindCSS
 * 🧠  I thoroughly enjoyed dedicating my entire spring break last year to improving my Django skills. *Upon reviewing my Django projects, I find that I am still comfortable using them and have recently deployed some of them.*
 * 🤝  I'm open to collaborating on AI Projects.
+  
+-----------------------------
+
+*Handy Officials Docs:*\
+[*React - Empowering efficient and responsive user interfaces with JavaScript.*](https://react.dev/)\
+[*MDN - Your one-stop resource for web development.*](https://developer.mozilla.org/en-US/)\
+[*Django - The web framework for perfectionists with deadlines.*](https://docs.djangoproject.com/en/4.2/ref/settings/)\
+[*Bootstrap - Powerful, extensible, and feature-packed frontend toolkit.*](https://getbootstrap.com/)\
+[*TailwindCSS - Rapidly build modern websites without ever leaving your HTML.*](https://tailwindcss.com/)
 
 ------------------------------------
 
