@@ -13,15 +13,6 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
   
 -----------------------------
 
-*Handy Officials Docs:*\
-[*React - Empowering efficient and responsive user interfaces with JavaScript.*](https://react.dev/)\
-[*MDN - Your one-stop resource for web development.*](https://developer.mozilla.org/en-US/)\
-[*Django - The web framework for perfectionists with deadlines.*](https://docs.djangoproject.com/en/4.2/ref/settings/)\
-[*Bootstrap - Powerful, extensible, and feature-packed frontend toolkit.*](https://getbootstrap.com/)\
-[*TailwindCSS - Rapidly build modern websites without ever leaving your HTML.*](https://tailwindcss.com/)
-
-------------------------------------
-
 ### Technical Skills
 
 |   |**Tools**                                                                                       |
@@ -31,11 +22,21 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 | *DevOps*         | Docker, Microservices, CI/CD, Unit Testing, Heroku, Netlify, Hostinger, DigitalOcean, AWS       |
 | *Agile*          | Scrum, Sprint, Daily Stand-Ups, User Stories, Pull/Merge Request Workflows                                                                                                         |
 
--------------------------------------
+------------------------------------
+
+*Handy Officials Docs:*\
+[*React - Empowering efficient and responsive user interfaces with JavaScript.*](https://react.dev/)\
+[*MDN - Your one-stop resource for web development.*](https://developer.mozilla.org/en-US/)\
+[*Django - The web framework for perfectionists with deadlines.*](https://docs.djangoproject.com/en/4.2/ref/settings/)\
+[*Bootstrap - Powerful, extensible, and feature-packed frontend toolkit.*](https://getbootstrap.com/)\
+[*TailwindCSS - Rapidly build modern websites without ever leaving your HTML.*](https://tailwindcss.com/)
+
+------------------------------------
 
 ![my Tech Stack](https://res.cloudinary.com/practicaldev/image/fetch/s--ThRQXaMn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://bezkoder.com/wp-content/uploads/2020/03/django-react-axios-rest-framework-crud-architecture.png)
 
-------------------------------------
+-------------------------------------
+
 ### 1/2 Compare TaskTales and ThriveTogether:
 |     |       **TaskTales**           |         **ThriveTogether**                                                        |
 |:--------------- |:------------------------------------------|:---------------------------------------------------------------- |
@@ -81,39 +82,22 @@ I am excited about deploying this app because it shares similarities with TaskTa
 * 2/3 Frontend is deployed on Netlify.\
   <img width="550" alt="2" src="https://github.com/wsrn829/wsrn829/assets/67284951/f2990741-8174-45c3-8de7-6cdaf70f76f6">
 * 3/3 I need to connect them and make them fully functioning...I'm so tired of debugging today. (Just learned about a position called 'DevOps Engineer.' Why am I doing this then? Because I was asked if I had experience during an interview last year.)
-* Isn't it exciting to finally see something showing up in the browser? Although still a bunch of troubleshooting awaiting. Fun fact: I was asked to design a parking lot ticketing system (and a movie theater ticketing system) during another interview last year, and guess what? :p Anyway, below is my *Car Dealership App*.
-  
-| Image 1 | Image 2 |
-| --------------- | ----------------------- |
-|<img width="300" alt="111" src="https://github.com/wsrn829/wsrn829/assets/67284951/09a0634e-5623-404b-89b9-0793a5e3bf05">|<img width="300" alt="222" src="https://github.com/wsrn829/wsrn829/assets/67284951/a3a5e6e3-8ed4-4946-a8b1-d3bb7c53b5ea">|
-
-* Setting up CI/CD (Continuous Integration/Continuous Deployment) for my projects has been really cool! The automated build and deployment process every time I push updates to my Git repository not only streamlines the development workflow but also enables the quick detection of errors as soon as a build fails. “The power of CI/CD lies in its ability to enhance efficiency, minimize manual interventions, and provide instant feedback, ultimately contributing to a more robust and agile software development lifecycle."
 * Configuring CI/CD for full-stack apps, which includes setting up front-end and back-end deployment pipelines, managing database migrations, handling environment variables, and numerous debugging, has been quite a challenge. However, the rewarding outcomes make the entire effort absolutely worthwhile! 🌸
-* Thankful for someone who said the part I wrote is better than the AI-generated one... LOL (I really appreciate that. 😊 )
 * The CORS (Cross-Origin Resource Sharing) error turned out to be such a simple fix. Amazing.
 * Look at my drawing for my team (using Excalidraw). This is the wireframe of the Car Dealership App. 
 
   <img width="800" alt="wireframe" src="https://github.com/wsrn829/wsrn829/assets/67284951/c7846198-e7a4-4496-99a7-b95523879e50">
   
-* Just now thinking about why I didn't notice any difference when deploying an app with microservices. Then I found the inventory part (monolith) is working perfectly (both frontend and backend), but the microservices are having a 404 error. I assume Heroku is not detecting the microservices (just like what had happened with my frontend previously).
-* [**Solution:**] Deploying microservices separately, in line with the principle of separation of concerns, should be able to resolve this issue. This is also the *essence* of microservices: being independent yet collaborative. :)
 * After deploying my microservices in minutes, CI/CD is no longer a concern. I will focus on React and AI for future projects. (SalesForm getting an "invalid VIN" error, which should be from the code itself, probably from React components. Everything else is working. BTW, my backend is always bug-free so far as long as I use Django. LOL)
-* This is my biggest confusion right now. I forgot to ask the instructors before graduation. TT
-  
-  <img width="500" alt="ai" src="https://github.com/wsrn829/wsrn829/assets/67284951/c722e36d-2e01-42c8-a31d-616a35c498be">
-
 * I'm thrilled to incorporate [this link](https://dealerdashboard.netlify.app/) into my resume, even as the project continues to evolve. To date, this application integrates four remote GitHub repositories, three remote Heroku repositories, one remote Netlify repository, and three PostgreSQL databases on Heroku. I have a comprehensive understanding of its wireframe, backend and frontend code, database interactions via SQL commands from the terminal, and CI/CD processes. In essence, I am well-versed in all aspects of this application.
-* This 2 AM message that left me speechless .. 
 
-  <img width="300" alt="1" src="https://github.com/wsrn829/wsrn829/assets/67284951/ced03f5b-f2ab-4ab6-a8be-f50b88042874">
-
-* I do need to add features, but at least this site is [live now](https://coin-crest.netlify.app/).
+* I'm still adding features, but my Crypto App is [live now](https://coin-crest.netlify.app/). 
 
 | Image 1 | Image 2 |
 |---------------|----------------------- |
 |<img width="450" alt="1" src="https://github.com/wsrn829/wsrn829/assets/67284951/06821b5d-05f1-410e-a6f5-322fb7d903f2">|<img width="450" alt="2" src="https://github.com/wsrn829/wsrn829/assets/67284951/79b57d25-8930-4f52-8b65-bdafaf338441">|
 
-* Sometimes, CSS takes longer than the backend. &I'm still working on it. :)
+* Sometimes, CSS takes longer than the backend. But at least I'm happy now. :)
   
 <img width="300" alt="carapp" src="https://github.com/wsrn829/wsrn829/assets/67284951/c7887808-095d-443b-b666-4fb55c8beb53">\
 <img width="300" alt="carweb33" src="https://github.com/wsrn829/wsrn829/assets/67284951/73c6da0f-1d62-4309-9d4c-c379cbfbbba5">
