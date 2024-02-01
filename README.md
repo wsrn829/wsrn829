@@ -89,9 +89,9 @@ I am excited about deploying this app because it shares similarities with TaskTa
   <img width="800" alt="wireframe" src="https://github.com/wsrn829/wsrn829/assets/67284951/c7846198-e7a4-4496-99a7-b95523879e50">
   
 * After deploying my microservices in minutes, CI/CD is no longer a concern. I will focus on React and AI for future projects. (SalesForm getting an "invalid VIN" error, which should be from the code itself, probably from React components. Everything else is working. BTW, my backend is always bug-free so far as long as I use Django. LOL)
-* I'm thrilled to incorporate [this link](https://dealerdashboard.netlify.app/) into my resume, even as the project continues to evolve. To date, this application integrates four remote GitHub repositories, three remote Heroku repositories, one remote Netlify repository, and three PostgreSQL databases on Heroku. I have a comprehensive understanding of its wireframe, backend and frontend code, database interactions via SQL commands from the terminal, and CI/CD processes. In essence, I am well-versed in all aspects of this application.
+* I'm thrilled to incorporate my [*Deployed* Car Dealership App](https://dealerdashboard.netlify.app/) into my resume, even as the project continues to evolve. To date, this application integrates four remote GitHub repositories, three remote Heroku repositories, one remote Netlify repository, and three PostgreSQL databases on Heroku. I have a comprehensive understanding of its wireframe, backend and frontend code, database interactions via SQL commands from the terminal, and CI/CD processes. In essence, I am well-versed in all aspects of this application.
 
-* I'm still adding features, but my Crypto App is [live now](https://coin-crest.netlify.app/). 
+* I'm still adding features, but here is my [*Deployed* Crypto App](https://coin-crest.netlify.app/).
 
 | Image 1 | Image 2 |
 |---------------|----------------------- |
