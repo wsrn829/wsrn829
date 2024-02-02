@@ -51,22 +51,19 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 
 [This is a helpful resource](https://dev.to/mdrhmn/deploying-react-django-app-using-heroku-2gfa). I wish I had discovered it when deploying my backend in the past two days. However, I managed to figure out the recommended practice on my own anyway. LOL. [*This one is worth reading too.*](https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react)
 
-* We kept encountering CORS errors when deploying ThriveTogether, so I would go with the second option for this one.
-* The Django-based server and PostgreSQL database are already up and running on Heroku.
-* Now, I need to configure the React frontend to display in the browser.
-* Just now realized that deployment could be harder than development. Netlify's UI is my favorite so far though, better than Heroku, DigitalOcean, Hostinger, AWS, Azure, etc. It would be perfect if I became good at it. [*Build Configs*](https://docs.netlify.com/configure-builds/overview/?_gl=1%2ap93753%2a_gcl_aw%2aR0NMLjE3MDU0MjAzMzEuQ2p3S0NBaUE3NWl0QmhBNkVpd0FraG85ZTN1ZTZ6a05qV3I2aFVCQVdRT1lFcnhhU1hGblJOTzdQS09vNGxPMnA1ZnR1M3VxaVJ5V0FCb0N5bEFRQXZEX0J3RQ..%2a_gcl_au%2aMTQ4NjI5NjQyMC4xNzA1NDIwMTc1) [*Dependencies*](https://docs.netlify.com/configure-builds/manage-dependencies/) [*Debugging*](https://answers.netlify.com/t/support-guide-failed-build-debugging-advice-preparing-the-best-help-request/73269?_gl=1*1fjzb8j*_gcl_aw*R0NMLjE3MDU0MjAzMzEuQ2p3S0NBaUE3NWl0QmhBNkVpd0FraG85ZTN1ZTZ6a05qV3I2aFVCQVdRT1lFcnhhU1hGblJOTzdQS09vNGxPMnA1ZnR1M3VxaVJ5V0FCb0N5bEFRQXZEX0J3RQ..*_gcl_au*MTQ4NjI5NjQyMC4xNzA1NDIwMTc1) 
+* The Django-based server and PostgreSQL database are already up and running on Heroku. I need to configure the React frontend to display in the browser.
+* Just now realized that deployment could be harder than development. [*Build Configs*](https://docs.netlify.com/configure-builds/overview/?_gl=1%2ap93753%2a_gcl_aw%2aR0NMLjE3MDU0MjAzMzEuQ2p3S0NBaUE3NWl0QmhBNkVpd0FraG85ZTN1ZTZ6a05qV3I2aFVCQVdRT1lFcnhhU1hGblJOTzdQS09vNGxPMnA1ZnR1M3VxaVJ5V0FCb0N5bEFRQXZEX0J3RQ..%2a_gcl_au%2aMTQ4NjI5NjQyMC4xNzA1NDIwMTc1) [*Dependencies*](https://docs.netlify.com/configure-builds/manage-dependencies/) [*Debugging*](https://answers.netlify.com/t/support-guide-failed-build-debugging-advice-preparing-the-best-help-request/73269?_gl=1*1fjzb8j*_gcl_aw*R0NMLjE3MDU0MjAzMzEuQ2p3S0NBaUE3NWl0QmhBNkVpd0FraG85ZTN1ZTZ6a05qV3I2aFVCQVdRT1lFcnhhU1hGblJOTzdQS09vNGxPMnA1ZnR1M3VxaVJ5V0FCb0N5bEFRQXZEX0J3RQ..*_gcl_au*MTQ4NjI5NjQyMC4xNzA1NDIwMTc1) 
 * a. Backend is deployed on Heroku.\
   <img width="550" alt="1" src="https://github.com/wsrn829/wsrn829/assets/67284951/2eaa3f2e-2bb5-4b37-81b6-884745b4bb4b">
 * b. Frontend is deployed on Netlify.\
   <img width="550" alt="2" src="https://github.com/wsrn829/wsrn829/assets/67284951/f2990741-8174-45c3-8de7-6cdaf70f76f6">
-* c. I need to connect them and make them fully functioning...I'm so tired of debugging today. (Just learned about a position called 'DevOps Engineer.' Why am I doing this then? Because I was asked if I had experience during an interview last year.)
+* c. I need to connect them and make them fully functioning.
 * 🌸 Configuring CI/CD for full-stack apps, which includes setting up front-end and back-end deployment pipelines, managing database migrations, handling environment variables, and numerous debugging, has been quite a challenge. However, the rewarding outcomes make the entire effort absolutely worthwhile! 🌸
-* The CORS (Cross-Origin Resource Sharing) error turned out to be such a simple fix. Amazing.
 * Look at my drawing for my team (using Excalidraw). This is the wireframe of the Car Dealership App. 
 
   <img width="800" alt="wireframe" src="https://github.com/wsrn829/wsrn829/assets/67284951/c7846198-e7a4-4496-99a7-b95523879e50">
   
-* After deploying my microservices in minutes, CI/CD is no longer a concern. I will focus on React and AI for future projects. (SalesForm getting an "invalid VIN" error, which should be from the code itself, probably from React components. Everything else is working. BTW, my backend is always bug-free so far as long as I use Django. LOL)
+* After deploying my microservices in minutes, CI/CD is no longer a concern. I will focus on React and AI for future projects.
 * I'm thrilled to incorporate my [Deployed Car Dealership App](https://dealerdashboard.netlify.app/) into my resume, even as the project continues to evolve. To date, this application integrates:
   - Four remote GitHub repositories;
   - Three remote Heroku repositories;
