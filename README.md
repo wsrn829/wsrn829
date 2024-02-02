@@ -40,24 +40,25 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 ### How I Taught Myself [*CI/CD - The Most Crucial DevOps Practice.*](https://www.simplilearn.com/tutorials/devops-tutorial/continuous-delivery-and-continuous-deployment)
 
 1. When I set out to enhance my CI/CD skills, I decided to start with TaskTales - my first full-stack app, built with Django and HTML. 
-*  Deploying a Django App on Heroku is straightforward if you follow [these steps](https://devcenter.heroku.com/articles/getting-started-with-python), although it can require tricky troubleshooting.
-*  After 112 commits to the TaskTalesDeployment repository, it suddenly started working as smoothly as it did in local development mode, with zero console errors on my end...LOL. 🌸 [*My First Independently Deployed Django App on Heroku*](https://tasktales-e12d965b0fbc.herokuapp.com/) 🌸 [01/09/2024]
+*  Deploying a Django App on Heroku is straightforward if you follow [these steps](https://devcenter.heroku.com/articles/getting-started-with-python), although it can require *tricky* troubleshooting.
+*  After 112 commits to the TaskTalesDeployment repository, it suddenly started working as smoothly as it did in local development mode, with zero console errors on my end...LOL. 🌸 [*My First Independently Deployed Django App on Heroku*](https://tasktales-e12d965b0fbc.herokuapp.com/) 🌸
 *  I'll focus on adding features and styling to this app in the future. :)
 *  A mandatory pull request has been implemented on the main branch for *Branch Protection*.
 -------------------------------------
-2. The second app I independently deployed (also on Heroku) is DealerDashboard because it shares similarities with TaskTales but exhibits greater complexity.
+2. The second app I independently deployed (also on Heroku) is DealerDashboard, which shares similarities with TaskTales but exhibits greater complexity.
 * Specifically, the incorporation of microservices, Docker, and polling, along with the React-based frontend, adds a layer of sophistication.
 * Deploying an app from scratch presents a valuable opportunity to enhance my understanding of configurations.
 
-[This is a helpful resource](https://dev.to/mdrhmn/deploying-react-django-app-using-heroku-2gfa). I wish I had discovered it when deploying my backend in the past two days. However, I managed to figure out the recommended practice on my own anyway. LOL. [*This one is worth reading too.*](https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react)
+Some Helpful Resources: 
+[*Build Configs*](https://docs.netlify.com/configure-builds/overview/?_gl=1%2ap93753%2a_gcl_aw%2aR0NMLjE3MDU0MjAzMzEuQ2p3S0NBaUE3NWl0QmhBNkVpd0FraG85ZTN1ZTZ6a05qV3I2aFVCQVdRT1lFcnhhU1hGblJOTzdQS09vNGxPMnA1ZnR1M3VxaVJ5V0FCb0N5bEFRQXZEX0J3RQ..%2a_gcl_au%2aMTQ4NjI5NjQyMC4xNzA1NDIwMTc1) 
+[*Dependencies*](https://docs.netlify.com/configure-builds/manage-dependencies/) 
+[*Debugging*](https://answers.netlify.com/t/support-guide-failed-build-debugging-advice-preparing-the-best-help-request/73269?_gl=1*1fjzb8j*_gcl_aw*R0NMLjE3MDU0MjAzMzEuQ2p3S0NBaUE3NWl0QmhBNkVpd0FraG85ZTN1ZTZ6a05qV3I2aFVCQVdRT1lFcnhhU1hGblJOTzdQS09vNGxPMnA1ZnR1M3VxaVJ5V0FCb0N5bEFRQXZEX0J3RQ..*_gcl_au*MTQ4NjI5NjQyMC4xNzA1NDIwMTc1) 
+[Article 1](https://dev.to/mdrhmn/deploying-react-django-app-using-heroku-2gfa) 
+[Article 2](https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react)
 
-* The Django-based server and PostgreSQL database are already up and running on Heroku. I need to configure the React frontend to display in the browser.
-* Just now realized that deployment could be harder than development. [*Build Configs*](https://docs.netlify.com/configure-builds/overview/?_gl=1%2ap93753%2a_gcl_aw%2aR0NMLjE3MDU0MjAzMzEuQ2p3S0NBaUE3NWl0QmhBNkVpd0FraG85ZTN1ZTZ6a05qV3I2aFVCQVdRT1lFcnhhU1hGblJOTzdQS09vNGxPMnA1ZnR1M3VxaVJ5V0FCb0N5bEFRQXZEX0J3RQ..%2a_gcl_au%2aMTQ4NjI5NjQyMC4xNzA1NDIwMTc1) [*Dependencies*](https://docs.netlify.com/configure-builds/manage-dependencies/) [*Debugging*](https://answers.netlify.com/t/support-guide-failed-build-debugging-advice-preparing-the-best-help-request/73269?_gl=1*1fjzb8j*_gcl_aw*R0NMLjE3MDU0MjAzMzEuQ2p3S0NBaUE3NWl0QmhBNkVpd0FraG85ZTN1ZTZ6a05qV3I2aFVCQVdRT1lFcnhhU1hGblJOTzdQS09vNGxPMnA1ZnR1M3VxaVJ5V0FCb0N5bEFRQXZEX0J3RQ..*_gcl_au*MTQ4NjI5NjQyMC4xNzA1NDIwMTc1) 
-* a. Backend is deployed on Heroku.\
+* Backend is deployed on Heroku. Frontend is deployed on Netlify. I need to connect them and make them fully functioning.
   <img width="550" alt="1" src="https://github.com/wsrn829/wsrn829/assets/67284951/2eaa3f2e-2bb5-4b37-81b6-884745b4bb4b">
-* b. Frontend is deployed on Netlify.\
   <img width="550" alt="2" src="https://github.com/wsrn829/wsrn829/assets/67284951/f2990741-8174-45c3-8de7-6cdaf70f76f6">
-* c. I need to connect them and make them fully functioning.
 * 🌸 Configuring CI/CD for full-stack apps, which includes setting up front-end and back-end deployment pipelines, managing database migrations, handling environment variables, and numerous debugging, has been quite a challenge. However, the rewarding outcomes make the entire effort absolutely worthwhile! 🌸
 * Look at my drawing for my team (using Excalidraw). This is the wireframe of the Car Dealership App. 
 
