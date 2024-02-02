@@ -37,37 +37,15 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 
 -------------------------------------
 
-### 1/2 Compare TaskTales and ThriveTogether:
-|     |       **TaskTales**           |         **ThriveTogether**                                                        |
-|:--------------- |:------------------------------------------|:---------------------------------------------------------------- |
-| *Backend Framework* | Django | FastAPI |
-| *Containerization* | Virtual Environment | Docker |
-| *Database* | SQLite | PostgreSQL |
-| *Frontend* | HTML | React |
-| *Authentication* | Built-In | Manual |
+### How I Taught Myself [*CI/CD - The Most Crucial DevOps Practice.*](https://www.simplilearn.com/tutorials/devops-tutorial/continuous-delivery-and-continuous-deployment)
 
-All five aspects seem simpler for the former (not saying Django is "easier" than FastAPI, just that I'm better at it at the moment 🙂); hence, when I set out to enhance my deployment skills, I decided to start with TaskTales. [*CI/CD - The Most Crucial DevOps Practice.*](https://www.simplilearn.com/tutorials/devops-tutorial/continuous-delivery-and-continuous-deployment)
-
-*  Django App Deployment on Heroku actually is pretty straightforward if we follow [these steps](https://devcenter.heroku.com/articles/getting-started-with-python), although it simply doesn't work as it does locally...Troubleshooting is *tricky*.
-*  OMG. I can't believe it...After 112 commits to the Repo (TaskTalesDeployment), it suddenly starts working as smoothly as in the local development mode (with zero console error on my end)...LOL. 🌸 [*My First Independently Deployed Django App on Heroku*](https://tasktales-e12d965b0fbc.herokuapp.com/) 🌸 [01/09/2024]
+1. When I set out to enhance my CI/CD skills, I decided to start with TaskTales - my first full-stack app, built with Django and HTML. 
+*  Deploying a Django App on Heroku is straightforward if you follow [these steps](https://devcenter.heroku.com/articles/getting-started-with-python), although it can require tricky troubleshooting.
+*  After 112 commits to the TaskTalesDeployment repository, it suddenly started working as smoothly as it did in local development mode, with zero console errors on my end...LOL. 🌸 [*My First Independently Deployed Django App on Heroku*](https://tasktales-e12d965b0fbc.herokuapp.com/) 🌸 [01/09/2024]
 *  I'll focus on adding features and styling to this app in the future. :)
 *  A mandatory pull request has been implemented on the main branch for *Branch Protection*.
-  
 -------------------------------------
-
-### 2/2 Compare DealerDashboard and TaskTales:
-|     |       **DealerDashboard**           |         **TaskTales**                                                        |
-|:--------------- |:------------------------------------------|:---------------------------------------------------------------- |
-| *Backend Framework* | Django | Django |
-| *Database* | PostgreSQL | PostgreSQL |
-| *Cloud Platform* | Heroku | Heroku |
-| *Authentication* | Built-In | Built-In |
-| *Containerization* | Docker | Virtual Environment |
-| *Microservices* | Yes | No |
-| *Polling* | Yes | No |
-| *Frontend* | React | HTML |
-
-I am excited about deploying this app because it shares similarities with TaskTales but exhibits greater complexity.
+2. The second app I independently deployed (also on Heroku) is DealerDashboard because it shares similarities with TaskTales but exhibits greater complexity.
 * Specifically, the incorporation of microservices, Docker, and polling, along with the React-based frontend, adds a layer of sophistication.
 * Deploying an app from scratch presents a valuable opportunity to enhance my understanding of configurations.
 
@@ -76,12 +54,12 @@ I am excited about deploying this app because it shares similarities with TaskTa
 * We kept encountering CORS errors when deploying ThriveTogether, so I would go with the second option for this one.
 * The Django-based server and PostgreSQL database are already up and running on Heroku.
 * Now, I need to configure the React frontend to display in the browser.
-* Just now realized that deployment could be harder than development. Netlify's UI is my favorite so far though, better than Heroku, DigitalOcean, Hostinger, AWS, Azure, etc. It would be perfect if I became good at it. [*Build Configs*](https://docs.netlify.com/configure-builds/overview/?_gl=1%2ap93753%2a_gcl_aw%2aR0NMLjE3MDU0MjAzMzEuQ2p3S0NBaUE3NWl0QmhBNkVpd0FraG85ZTN1ZTZ6a05qV3I2aFVCQVdRT1lFcnhhU1hGblJOTzdQS09vNGxPMnA1ZnR1M3VxaVJ5V0FCb0N5bEFRQXZEX0J3RQ..%2a_gcl_au%2aMTQ4NjI5NjQyMC4xNzA1NDIwMTc1) [*Dependencies*](https://docs.netlify.com/configure-builds/manage-dependencies/) [*Debugging*](https://answers.netlify.com/t/support-guide-failed-build-debugging-advice-preparing-the-best-help-request/73269?_gl=1*1fjzb8j*_gcl_aw*R0NMLjE3MDU0MjAzMzEuQ2p3S0NBaUE3NWl0QmhBNkVpd0FraG85ZTN1ZTZ6a05qV3I2aFVCQVdRT1lFcnhhU1hGblJOTzdQS09vNGxPMnA1ZnR1M3VxaVJ5V0FCb0N5bEFRQXZEX0J3RQ..*_gcl_au*MTQ4NjI5NjQyMC4xNzA1NDIwMTc1) (I wouldn't say I'm dumb. It's just *hard*.)
-* 1/3 Backend is deployed on Heroku.\
+* Just now realized that deployment could be harder than development. Netlify's UI is my favorite so far though, better than Heroku, DigitalOcean, Hostinger, AWS, Azure, etc. It would be perfect if I became good at it. [*Build Configs*](https://docs.netlify.com/configure-builds/overview/?_gl=1%2ap93753%2a_gcl_aw%2aR0NMLjE3MDU0MjAzMzEuQ2p3S0NBaUE3NWl0QmhBNkVpd0FraG85ZTN1ZTZ6a05qV3I2aFVCQVdRT1lFcnhhU1hGblJOTzdQS09vNGxPMnA1ZnR1M3VxaVJ5V0FCb0N5bEFRQXZEX0J3RQ..%2a_gcl_au%2aMTQ4NjI5NjQyMC4xNzA1NDIwMTc1) [*Dependencies*](https://docs.netlify.com/configure-builds/manage-dependencies/) [*Debugging*](https://answers.netlify.com/t/support-guide-failed-build-debugging-advice-preparing-the-best-help-request/73269?_gl=1*1fjzb8j*_gcl_aw*R0NMLjE3MDU0MjAzMzEuQ2p3S0NBaUE3NWl0QmhBNkVpd0FraG85ZTN1ZTZ6a05qV3I2aFVCQVdRT1lFcnhhU1hGblJOTzdQS09vNGxPMnA1ZnR1M3VxaVJ5V0FCb0N5bEFRQXZEX0J3RQ..*_gcl_au*MTQ4NjI5NjQyMC4xNzA1NDIwMTc1) 
+* a. Backend is deployed on Heroku.\
   <img width="550" alt="1" src="https://github.com/wsrn829/wsrn829/assets/67284951/2eaa3f2e-2bb5-4b37-81b6-884745b4bb4b">
-* 2/3 Frontend is deployed on Netlify.\
+* b. Frontend is deployed on Netlify.\
   <img width="550" alt="2" src="https://github.com/wsrn829/wsrn829/assets/67284951/f2990741-8174-45c3-8de7-6cdaf70f76f6">
-* 3/3 I need to connect them and make them fully functioning...I'm so tired of debugging today. (Just learned about a position called 'DevOps Engineer.' Why am I doing this then? Because I was asked if I had experience during an interview last year.)
+* c. I need to connect them and make them fully functioning...I'm so tired of debugging today. (Just learned about a position called 'DevOps Engineer.' Why am I doing this then? Because I was asked if I had experience during an interview last year.)
 * 🌸 Configuring CI/CD for full-stack apps, which includes setting up front-end and back-end deployment pipelines, managing database migrations, handling environment variables, and numerous debugging, has been quite a challenge. However, the rewarding outcomes make the entire effort absolutely worthwhile! 🌸
 * The CORS (Cross-Origin Resource Sharing) error turned out to be such a simple fix. Amazing.
 * Look at my drawing for my team (using Excalidraw). This is the wireframe of the Car Dealership App. 
@@ -89,11 +67,18 @@ I am excited about deploying this app because it shares similarities with TaskTa
   <img width="800" alt="wireframe" src="https://github.com/wsrn829/wsrn829/assets/67284951/c7846198-e7a4-4496-99a7-b95523879e50">
   
 * After deploying my microservices in minutes, CI/CD is no longer a concern. I will focus on React and AI for future projects. (SalesForm getting an "invalid VIN" error, which should be from the code itself, probably from React components. Everything else is working. BTW, my backend is always bug-free so far as long as I use Django. LOL)
-* I'm thrilled to incorporate my [Deployed Car Dealership App](https://dealerdashboard.netlify.app/) into my resume, even as the project continues to evolve. To date, this application integrates four remote GitHub repositories, three remote Heroku repositories, one remote Netlify repository, and three PostgreSQL databases on Heroku. I have a comprehensive understanding of its wireframe, backend and frontend code, database interactions via SQL commands from the terminal, and CI/CD processes. In essence, I am well-versed in all aspects of this application.
+* I'm thrilled to incorporate my [Deployed Car Dealership App](https://dealerdashboard.netlify.app/) into my resume, even as the project continues to evolve. To date, this application integrates:
+  - Four remote GitHub repositories;
+  - Three remote Heroku repositories;
+  - One remote Netlify repository;
+  - Three PostgreSQL databases on Heroku.
+  
+  I have a comprehensive understanding of its wireframe, backend and frontend code, database interactions via SQL commands from the terminal, and CI/CD processes. In essence, I am well-versed in all aspects of this application.
 
   <img width="600" alt="carweb33" src="https://github.com/wsrn829/wsrn829/assets/67284951/73c6da0f-1d62-4309-9d4c-c379cbfbbba5">
 
-* I'm still adding features, but here is my [Deployed Crypto App](https://coin-crest.netlify.app/).
+-------------------------------------------
+3. I'm still adding features, but here is my third independently [Deployed Crypto App](https://coin-crest.netlify.app/).
 
   | Image 1 | Image 2 |
   |---------------|----------------------- |
