@@ -73,7 +73,8 @@ Some Helpful Resources:
   
   I have a comprehensive understanding of its wireframe, backend and frontend code, database interactions via SQL commands from the terminal, and CI/CD processes. In essence, I am well-versed in all aspects of this application.
 
-  <img width="600" alt="dealershipapp" src="https://github.com/wsrn829/wsrn829/assets/67284951/a40dba79-c438-49bd-b7cd-44b34c6f7532">
+  <img width="600" alt="dealerdashboard" src="https://github.com/wsrn829/wsrn829/assets/67284951/9725b478-345e-464a-beb9-a206e55943e6">
+
 
 
 -------------------------------------------
