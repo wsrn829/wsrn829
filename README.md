@@ -73,7 +73,8 @@ Some Helpful Resources:
   
   I have a comprehensive understanding of its wireframe, backend and frontend code, database interactions via SQL commands from the terminal, and CI/CD processes. In essence, I am well-versed in all aspects of this application.
 
-  <img width="600" alt="carweb33" src="https://github.com/wsrn829/wsrn829/assets/67284951/73c6da0f-1d62-4309-9d4c-c379cbfbbba5">
+  <img width="600" alt="dealershipapp" src="https://github.com/wsrn829/wsrn829/assets/67284951/a40dba79-c438-49bd-b7cd-44b34c6f7532">
+
 
 -------------------------------------------
 3. I'm still adding features, but here is my third independently [Deployed Crypto App](https://coin-crest.netlify.app/).
