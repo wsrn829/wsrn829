@@ -75,6 +75,11 @@ Some Helpful Resources:
 
   <img width="600" alt="dealerdashboard" src="https://github.com/wsrn829/wsrn829/assets/67284951/9725b478-345e-464a-beb9-a206e55943e6">
 
+* After fixing the "Invalid automobile_vin" error, I feel like I could debug anything...
+  - The issue arose due to the poller not functioning correctly after deployment.
+  - I resolved it by configuring the Redis server, Celery worker, and Celery Beat both on Heroku and locally.
+  <br />
+  <img width="300" alt="Screenshot 2024-02-05 at 9 30 31 AM" src="https://github.com/wsrn829/wsrn829/assets/67284951/5f6b4504-3b17-4676-b8ec-e5c29c9362d4">
 
 
 -------------------------------------------
