@@ -76,7 +76,7 @@ Some Helpful Resources:
   - Backend and frontend code implementation;
   - Interactions with the databases using SQL commands;
   - The CI/CD processes for seamless integration and deployment on Heroku and Netlify;
-  - Task scheduling and distributed task processing using Celery (with worker processes and Beat scheduler) and Redis as the message broker;
+  - Distributed task processing and scheduling using Celery (with worker processes and Beat scheduler) and Redis as the message broker;
   - Styling and layout design using CSS and Bootstrap.
   <br />
   <img width="600" alt="dealerdashboard" src="https://github.com/wsrn829/wsrn829/assets/67284951/9725b478-345e-464a-beb9-a206e55943e6">
