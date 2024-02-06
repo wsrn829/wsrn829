@@ -62,7 +62,7 @@ Some Helpful Resources:
 * 🌸 Configuring CI/CD for full-stack apps, which includes setting up front-end and back-end deployment pipelines, managing database migrations, handling environment variables, and numerous debugging, has been quite a challenge. However, the rewarding outcomes make the entire effort absolutely worthwhile! 🌸
 * Look at my drawing for my team (using Excalidraw). This is the wireframe of the Car Dealership App. 
 
-  <img width="800" alt="wireframe" src="https://github.com/wsrn829/wsrn829/assets/67284951/c7846198-e7a4-4496-99a7-b95523879e50">
+  <img width="800" alt="wireframe" src="https://github.com/wsrn829/wsrn829/assets/67284951/898834b9-20c4-416b-b788-387b2342e9ae">
   
 * After deploying my microservices in minutes, CI/CD is no longer a concern. I will focus on React and AI for future projects.
 * I'm thrilled to incorporate my [Deployed Car Dealership App](https://dealerdashboard.netlify.app/) into my resume, even as the project continues to evolve. To date, this application integrates:
