@@ -70,9 +70,15 @@ Some Helpful Resources:
   - Three remote Heroku repositories;
   - One remote Netlify repository;
   - Three PostgreSQL databases on Heroku.
-  
-  I have a comprehensive understanding of its wireframe, backend and frontend code, database interactions via SQL commands from the terminal, and CI/CD processes. I also have experience with Task Scheduling and Distributed Task Processing using Celery and Redis. In essence, I am well-versed in all aspects of this application.
 
+* I have a comprehensive understanding of this application, including:
+  - Wireframe design;
+  - Backend and frontend code implementation;
+  - Interactions with the databases using SQL commands;
+  - The CI/CD processes for seamless integration and deployment;
+  - Task scheduling and distributed task processing using Celery and Redis;
+  - Styling and layout design using CSS and Bootstrap.
+  <br />
   <img width="600" alt="dealerdashboard" src="https://github.com/wsrn829/wsrn829/assets/67284951/9725b478-345e-464a-beb9-a206e55943e6">
 
 * After fixing the "Invalid automobile_vin" error, I feel like I could debug anything...
