@@ -19,7 +19,7 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 |:---------------- |:------------------------------------------------------------------------------------------------------------------------- |
 | *Frontend*       | JavaScript, React, Redux Toolkit, RTK Query, Vite, HTML, CSS, Tailwind CSS, Bootstrap |
 | *Backend*        | Python, Django, Node.js, SQL, FastAPI, REST API, PostgreSQL, MongoDB, RabbitMQ, Postman, Insomnia, pgAdmin                        |
-| *DevOps*         | Docker, Microservices, CI/CD, Unit Testing, Heroku, Netlify, Hostinger, DigitalOcean, AWS       |
+| *DevOps*         | Docker, Microservices, CI/CD, Unit Testing, Heroku, Netlify, Hostinger, DigitalOcean, AWS, Task Scheduling and Distributed Task Processing with Celery and Redis       |
 | *Agile*          | Scrum, Sprint, Daily Stand-Ups, User Stories, Pull/Merge Request Workflows, Jira                                                  |
 
 ------------------------------------
