@@ -109,7 +109,7 @@ Some Helpful Resources:
 | [ - ]  Week 10 - Cybersecurity                       |                                                               |
 
 
-* This is how I learn the content I already learned, for *fun*. Or more accurately, for certificate.
+* This is how I learn the content I already learned, for *fun*. Or more accurately, for another *certificate*.
   <img width="775" alt="course" src="https://github.com/wsrn829/wsrn829/assets/67284951/aca8ec73-237a-4311-9cae-96ce3299d5c5">
 
   
