@@ -89,8 +89,8 @@ Some Helpful Resources:
   |<img width="450" alt="1" src="https://github.com/wsrn829/wsrn829/assets/67284951/06821b5d-05f1-410e-a6f5-322fb7d903f2">|<img width="450" alt="2" src="https://github.com/wsrn829/wsrn829/assets/67284951/79b57d25-8930-4f52-8b65-bdafaf338441">|
 
 -------------------------------
-4. If I know nothing about something, I would simply build an app with a basic search function and start from there. You can currently search for movie names on my [Deployed Movie App](https://moviemasterweb.netlify.app/) right now. 😊
-  <img width="1900" alt="moviemaster" src="https://github.com/wsrn829/wsrn829/assets/67284951/fcf613a8-cc47-42cd-9d08-edb5ec4b5ba4">
+4. If I know nothing about something, I would simply build an app with a basic search function and start from there. You can currently search for movie names on my [Deployed Movie App](https://moviemasterweb.netlify.app/).
+  <img width="800" alt="moviemaster" src="https://github.com/wsrn829/wsrn829/assets/67284951/fcf613a8-cc47-42cd-9d08-edb5ec4b5ba4">
 
 -------------------------------
 
