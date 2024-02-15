@@ -38,6 +38,10 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 
 -------------------------------------
 
+<img width="700px" alt="Redux" src="https://redux.js.org/assets/images/ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26.gif">
+
+-------------------------------------
+
 ### How I Taught Myself [*CI/CD - The Most Crucial DevOps Practice.*](https://www.simplilearn.com/tutorials/devops-tutorial/continuous-delivery-and-continuous-deployment)
 
 1. When I set out to enhance my CI/CD skills, I decided to start with TaskTales - my first full-stack app, built with Django and HTML. 
