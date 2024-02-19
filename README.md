@@ -24,6 +24,11 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 
 ------------------------------------
 
+### A Typical Job Post (What Else Am I Missing?)
+<img width="777" alt="Ad" src="https://github.com/wsrn829/wsrn829/assets/67284951/74835889-de1e-4ecb-aaf2-3e5ac6ae517f">
+
+-------------------------------------
+
 *Handy Officials Docs:*\
 [*React - Empowering efficient and responsive user interfaces with JavaScript.*](https://react.dev/)\
 [*Redux Toolkit - The opinionated, batteries-included toolset for Redux development.*](https://redux-toolkit.js.org/introduction/getting-started)\
