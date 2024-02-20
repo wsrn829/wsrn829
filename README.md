@@ -98,10 +98,6 @@ Some Helpful Resources:
   <img width="800" alt="moviemaster" src="https://github.com/wsrn829/wsrn829/assets/67284951/fcf613a8-cc47-42cd-9d08-edb5ec4b5ba4">
 
 -------------------------------
-5. Finally, something is showing up in my browser for the first time, although I've never seen any of them before. 
-<img width="800" alt="pic" src="https://github.com/wsrn829/wsrn829/assets/67284951/fc1736fd-17ea-4420-a089-c0fd65615f14">
-
-
 
 ### Continuing Education
 
