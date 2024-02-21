@@ -8,6 +8,7 @@ As a dedicated Full-Stack Engineer with over 1000 hours of training in Agile env
 
 My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building responsive user interfaces with modern JavaScript frameworks like React and secure server-side architectures with Django, Python, and FastAPI. My proficiency extends to working with databases such as PostgreSQL and MongoDB, ensuring efficient data management and retrieval. I have successfully implemented CI/CD for projects, incorporating database migrations, environment variable configuration, and extensive debugging to ensure continuous delivery. *Thriving at the forefront of innovation, I am a growth-driven developer, propelled by an insatiable desire for knowledge and a relentless drive for excellence.*
 * 🧠  I'm learning AI, NLP，ChatBot, AWS, React Native, TypeScript, Next.js, BlockChain, and Java.
+* 🧠  I thoroughly enjoyed dedicating my entire spring break last year to improving my Django skills. *Upon reviewing my Django projects, I find that I am still comfortable using them and have recently deployed some of them.*
 * 🤝  I'm open to collaborating on AI Projects.
   
 -----------------------------
