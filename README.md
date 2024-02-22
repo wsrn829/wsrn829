@@ -28,6 +28,7 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 [*React - Empowering efficient and responsive user interfaces with JavaScript.*](https://react.dev/)\
 [*Redux Toolkit - The opinionated, batteries-included toolset for Redux development.*](https://redux-toolkit.js.org/introduction/getting-started)\
 [*MDN - Your one-stop resource for web development.*](https://developer.mozilla.org/en-US/)\
+[*Python - No need to explain.*](https://docs.python.org/3.12/tutorial/index.html)\
 [*Django - The web framework for perfectionists with deadlines.*](https://docs.djangoproject.com/en/4.2/ref/settings/)\
 [*Bootstrap - Powerful, extensible, and feature-packed frontend toolkit.*](https://getbootstrap.com/)\
 [*TailwindCSS - Rapidly build modern websites without ever leaving your HTML.*](https://tailwindcss.com/)
