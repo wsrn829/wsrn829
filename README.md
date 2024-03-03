@@ -7,20 +7,21 @@ Full Stack Software Engineer
 As a dedicated Full-Stack Software Engineer with over 1000 hours of hands-on training in Agile environments, I bring expertise spanning the entire software development lifecycle, from planning to implementation. Proficient in CI/CD processes, I specialize in ensuring smooth software deployments. Thriving in cross-functional teams, I foster collaborative problem-solving to guarantee the timely delivery of high-quality software solutions. Leveraging my background in social science research, I instill a user-centric approach, emphasizing the broader impact of development decisions. *Let's work together to bring your ideas to life!*
 
 My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building responsive user interfaces with modern JavaScript frameworks like React and secure server-side architectures with Django, Python, and FastAPI. My proficiency extends to working with both SQL and NoSQL databases, ensuring efficient data management and retrieval. I have successfully implemented CI/CD for projects, incorporating database migrations, environment variable configuration, and extensive debugging to ensure continuous delivery. *Thriving at the forefront of innovation, I am a growth-driven developer, propelled by an insatiable desire for knowledge and an unwavering commitment to excellence.*
-* 🧠  I'm learning AI, NLP，ChatBot, AWS, React Native, TypeScript, Next.js, BlockChain, and Java.
-* 🧠  I'm pursuing the Harvard University Professional Certificate in Computer Science for Web Programming.
-* 🧠  I thoroughly enjoyed dedicating my entire spring break last year to improving my Django skills. *Upon reviewing my Django projects, I find that I am still comfortable using them and have recently deployed some of them.*
-* 🤝  I'm open to collaborating on AI Projects.
+
+- 🧠  I'm learning AI, NLP，ChatBot, AWS, React Native, TypeScript, Next.js, BlockChain, and Java.
+- 🧠  I'm pursuing the Harvard University Professional Certificate in Computer Science for Web Programming.
+- 🧠  I thoroughly enjoyed dedicating my entire spring break last year to improving my Django skills. *Upon reviewing my Django projects, I find that I am still comfortable using them and have recently deployed some of them.*
+- 🤝  I'm open to collaborating on AI Projects.
+
+------------------------------------
   
------------------------------
-
-### Technical Skills
-
-|   |**Tools**                                                                                       |
-|:---------------- |:------------------------------------------------------------------------------------------------------------------------- |
-| *Frontend*       | JavaScript, React, React Native, Redux Toolkit, RTK Query, Vite, HTML, CSS, Tailwind CSS, Bootstrap |
-| *Backend*        | Python, Django, Node.js, SQL, FastAPI, REST API, PostgreSQL, MongoDB, RabbitMQ, Postman, Insomnia, pgAdmin                        |
-| *DevOps*         | Docker, Microservices, CI/CD, Unit Testing, Heroku, Netlify, Hostinger, DigitalOcean, Celery, Redis                          |
+|   |*Technical Skills*                                                                                      |
+|:---------------- |:-------------------------------------------------------------------------------------------------------------- |
+| *Languages*      | Python 3, JavaScript ES6+, SQL, HTML5, CSS3
+| *Frontend*       | DOM Manipulation, WebSockets, React, React Native, Redux Toolkit, Tailwind CSS, Bootstrap, Vite  |
+| *Backend*        | Django 4, Node.js, PostgreSQL, MongoDB, REST API, FastAPI, RabbitMQ, Postman, Insomnia, pgAdmin                        |
+| *System Design*  | Microservices, Domain-Driven Design, Message Passing, Event Sourcing    |   
+| *DevOps*         | Docker, CI/CD, Unit Testing, Heroku, Netlify, Hostinger, DigitalOcean, Celery, Redis                               |
 | *Agile*          | Scrum, Sprint, Daily Stand-Ups, User Stories, Pull/Merge Request Workflows, Trello, Jira                                                  |
 
 ------------------------------------
