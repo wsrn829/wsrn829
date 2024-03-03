@@ -65,17 +65,19 @@ Some Helpful Resources:
 * Backend is deployed on Heroku. Frontend is deployed on Netlify. I need to connect them and make them fully functioning.
   <img width="550" alt="1" src="https://github.com/wsrn829/wsrn829/assets/67284951/2eaa3f2e-2bb5-4b37-81b6-884745b4bb4b">
   <img width="550" alt="2" src="https://github.com/wsrn829/wsrn829/assets/67284951/f2990741-8174-45c3-8de7-6cdaf70f76f6">
+* I'm thrilled to incorporate my [Deployed Car Dealership App](https://dealerdashboard.netlify.app/) into my resume, even as the project continues to evolve. To date, this application integrates:
+  - Four remote GitHub repositories;
+  - Three remote Heroku repositories;
+  - One Heroku Redis add-on;
+  - Three PostgreSQL databases on Heroku;
+  - One remote Netlify repository.
+    
 * 🌸 Configuring CI/CD for full-stack apps, which includes setting up front-end and back-end deployment pipelines, managing database migrations, handling environment variables, and numerous debugging, has been quite a challenge. However, the rewarding outcomes make the entire effort absolutely worthwhile! 🌸
 * Look at my drawing for my team (using Excalidraw). This is the wireframe of the Car Dealership App. 
 
   <img width="800" alt="wireframe" src="https://github.com/wsrn829/wsrn829/assets/67284951/898834b9-20c4-416b-b788-387b2342e9ae">
   
 * After deploying my microservices in minutes, CI/CD is no longer a concern. I will focus on React and AI for future projects.
-* I'm thrilled to incorporate my [Deployed Car Dealership App](https://dealerdashboard.netlify.app/) into my resume, even as the project continues to evolve. To date, this application integrates:
-  - Four remote GitHub repositories;
-  - Three remote Heroku repositories;
-  - One remote Netlify repository;
-  - Three PostgreSQL databases on Heroku.
 
 * I have a comprehensive understanding of this application, including:
   - Wireframe design;
