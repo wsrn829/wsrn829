@@ -20,7 +20,7 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 | *Languages*      | Python 3, JavaScript ES6+, SQL, HTML5, CSS3
 | *Frontend*       | DOM Manipulation, WebSockets, React, React Native, Redux Toolkit, Tailwind CSS, Bootstrap, Vite  |
 | *Backend*        | Django 4, Node.js, PostgreSQL, MongoDB, REST API, FastAPI, RabbitMQ, Postman, Insomnia, pgAdmin                        |
-| *System Design*  | Microservices, Domain-Driven Design, Message Passing, Event Sourcing    |   
+| *System Design*  | Microservices, Domain-Driven Design, Message Passing, Event Sourcing, Distributed Task Processing    |   
 | *DevOps*         | Docker, CI/CD, Unit Testing, Heroku, Netlify, Hostinger, DigitalOcean, Celery, Redis                               |
 | *Agile*          | Scrum, Sprint, Daily Stand-Ups, User Stories, Pull/Merge Request Workflows, Trello, Jira                                                  |
 
