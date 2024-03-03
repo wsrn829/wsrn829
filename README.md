@@ -25,21 +25,12 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 ------------------------------------
 
 *Handy Officials Docs:*\
-[*React - Empowering efficient and responsive user interfaces with JavaScript.*](https://react.dev/)\
-[*Redux Toolkit - The opinionated, batteries-included toolset for Redux development.*](https://redux-toolkit.js.org/introduction/getting-started)\
-[*MDN - Your one-stop resource for web development.*](https://developer.mozilla.org/en-US/)\
-[*Python - No need to explain.*](https://docs.python.org/3.12/tutorial/index.html)\
-[*Django - The web framework for perfectionists with deadlines.*](https://docs.djangoproject.com/en/4.2/ref/settings/)\
-[*Bootstrap - Powerful, extensible, and feature-packed frontend toolkit.*](https://getbootstrap.com/)\
-[*TailwindCSS - Rapidly build modern websites without ever leaving your HTML.*](https://tailwindcss.com/)
+[React](https://react.dev/)   [Redux Toolkit](https://redux-toolkit.js.org/introduction/getting-started)   [MDN](https://developer.mozilla.org/en-US/)   [Python](https://docs.python.org/3.12/tutorial/index.html)   [Django](https://docs.djangoproject.com/en/4.2/ref/settings/)   [Bootstrap](https://getbootstrap.com/)   [TailwindCSS](https://tailwindcss.com/)
 
 ------------------------------------
-
-![my Tech Stack](https://res.cloudinary.com/practicaldev/image/fetch/s--ThRQXaMn--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://bezkoder.com/wp-content/uploads/2020/03/django-react-axios-rest-framework-crud-architecture.png)
-
--------------------------------------
-
-<img width="700px" alt="Redux" src="https://redux.js.org/assets/images/ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26.gif">
+| Django-React-Axios-REST-Framework | Redux |
+|---------------|----------------------- |
+|<img width="600" alt="1" src="https://bezkoder.com/wp-content/uploads/2020/03/django-react-axios-rest-framework-crud-architecture.png">|<img width="300" alt="2" src="https://redux.js.org/assets/images/ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26.gif">|
 
 -------------------------------------
 
