@@ -8,6 +8,7 @@ As a dedicated Full-Stack Software Engineer with over 1000 hours of hands-on tra
 
 My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building responsive user interfaces with modern JavaScript frameworks like React and secure server-side architectures with Django, Python, and FastAPI. My proficiency extends to working with both SQL and NoSQL databases, ensuring efficient data management and retrieval. I have successfully implemented CI/CD for projects, incorporating database migrations, environment variable configuration, and extensive debugging to ensure continuous delivery. *Thriving at the forefront of innovation, I am a growth-driven developer, propelled by an insatiable desire for knowledge and an unwavering commitment to excellence.*
 * 🧠  I'm learning AI, NLP，ChatBot, AWS, React Native, TypeScript, Next.js, BlockChain, and Java.
+* 🧠  I'm pursuing the Harvard University Professional Certificate in Computer Science for Web Programming.
 * 🧠  I thoroughly enjoyed dedicating my entire spring break last year to improving my Django skills. *Upon reviewing my Django projects, I find that I am still comfortable using them and have recently deployed some of them.*
 * 🤝  I'm open to collaborating on AI Projects.
   
@@ -71,7 +72,7 @@ Some Helpful Resources:
 * After deploying my microservices in minutes, CI/CD is no longer a concern. I will focus on React and AI for future projects.
 
 * I have a comprehensive understanding of this application, including:
-  - Wireframe design;
+  - Wireframe and diagram;
   - Backend and frontend code implementation;
   - Interactions with the databases using SQL commands;
   - The CI/CD processes for seamless integration and deployment on Heroku and Netlify;
