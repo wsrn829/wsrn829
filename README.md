@@ -6,24 +6,22 @@ Full Stack Software Engineer
 
 As a dedicated Full-Stack Software Engineer with over 1000 hours of hands-on training in Agile environments, I bring expertise spanning the entire software development lifecycle, from planning to implementation. Proficient in CI/CD processes, I specialize in ensuring smooth software deployments. Thriving in cross-functional teams, I foster collaborative problem-solving to guarantee the timely delivery of high-quality software solutions. Leveraging my background in social science research, I instill a user-centric approach, emphasizing the broader impact of development decisions. *Let's work together to bring your ideas to life!*
 
-My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building responsive user interfaces with modern JavaScript frameworks like React and secure server-side architectures with Django, Python, and FastAPI. My proficiency extends to working with both SQL and NoSQL databases, ensuring efficient data management and retrieval. I have successfully implemented CI/CD for projects, incorporating database migrations, environment variable configuration, and extensive debugging to ensure continuous delivery. *Thriving at the forefront of innovation, I am a growth-driven developer, propelled by an insatiable desire for knowledge and an unwavering commitment to excellence.*
+My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building responsive user interfaces with modern JavaScript frameworks like React and secure server-side architectures with Python, Django, and FastAPI. My proficiency extends to working with both SQL and NoSQL databases, ensuring efficient data management and retrieval. I have successfully implemented CI/CD for projects, incorporating database migrations, environment variable configuration, and extensive debugging to ensure continuous delivery. *Thriving at the forefront of innovation, I am a growth-driven developer, propelled by an insatiable desire for knowledge and an unwavering commitment to excellence.*
 
-- 🧠  I'm learning AI, NLP，ChatBot, AWS, React Native, TypeScript, Next.js, BlockChain, and Java.
+- 🧠  I'm learning AI, NLP，ChatBot, Next.js, BlockChain, and Java.
 - 🧠  I'm pursuing the Harvard University Professional Certificate in Computer Science for Web Programming.
-- 🧠  I thoroughly enjoyed dedicating my entire spring break last year to improving my Django skills. *Upon reviewing my Django projects, I find that I am still comfortable using them and have recently deployed some of them.*
 - 🤝  I'm open to collaborating on AI Projects.
 
 ------------------------------------
   
 |   |*Technical Skills*                                                                                      |
 |:---------------- |:-------------------------------------------------------------------------------------------------------------- |
-| *Languages*      | Python 3, JavaScript ES6+, SQL, HTML5, CSS3
+| *Languages*      | Python 3, JavaScript ES6+, TypeScript, SQL, HTML5, CSS3
 | *Frontend*       | DOM Manipulation, WebSockets, React, React Native, Redux Toolkit, Tailwind CSS, Bootstrap, Vite  |
-| *Backend*        | Django 4, Node.js, PostgreSQL, MongoDB, REST API, FastAPI, RabbitMQ, Postman, Insomnia, pgAdmin                        |
+| *Backend*        | Django 4, FastAPI, Node.js, REST API, OAuth2, JWT, PostgreSQL, MongoDB, RabbitMQ, Postman, pgAdmin     |
 | *System Design*  | Microservices, Domain-Driven Design, Message Passing, Event Sourcing, Distributed Task Processing    |   
-| *DevOps*         | Docker, CI/CD, Unit Testing, Heroku, Netlify, Hostinger, DigitalOcean, Celery, Redis                               |
+| *DevOps*         | Docker, CI/CD, Unit Testing, Heroku, Netlify, AWS, DigitalOcean, Celery, Redis                |
 | *Agile*          | Scrum, Sprint, Daily Stand-Ups, User Stories, Pull/Merge Request Workflows, Trello, Jira                                                  |
-
 ------------------------------------
 
 *Handy Officials Docs:*\
@@ -58,19 +56,13 @@ Some Helpful Resources:
 * Backend is deployed on Heroku. Frontend is deployed on Netlify. I need to connect them and make them fully functioning.
   <img width="550" alt="1" src="https://github.com/wsrn829/wsrn829/assets/67284951/2eaa3f2e-2bb5-4b37-81b6-884745b4bb4b">
   <img width="550" alt="2" src="https://github.com/wsrn829/wsrn829/assets/67284951/f2990741-8174-45c3-8de7-6cdaf70f76f6">
-* I'm thrilled to incorporate my [Deployed Car Dealership App](https://dealerdashboard.netlify.app/) into my resume, even as the project continues to evolve. To date, this application integrates:
-  - Four remote GitHub repositories;
-  - Three remote Heroku repositories;
-  - One Heroku Redis add-on;
-  - Three PostgreSQL databases on Heroku;
-  - One remote Netlify repository.
+* I'm thrilled to incorporate my [Deployed Car Dealership App](https://dealerdashboard.netlify.app/) into my resume, even as the project continues to evolve.
     
 * 🌸 Configuring CI/CD for full-stack apps, which includes setting up front-end and back-end deployment pipelines, managing database migrations, handling environment variables, and numerous debugging, has been quite a challenge. However, the rewarding outcomes make the entire effort absolutely worthwhile! 🌸
   
 * After deploying my microservices in minutes, CI/CD is no longer a concern. I will focus on React and AI for future projects.
 
 * I have a comprehensive understanding of this application, including:
-  - Wireframe and diagram;
   - Backend and frontend code implementation;
   - Interactions with the databases using SQL commands;
   - The CI/CD processes for seamless integration and deployment on Heroku and Netlify;
@@ -82,13 +74,22 @@ Some Helpful Resources:
 -------------------------------------------
 3. I'm still adding features, but here is my third independently [Deployed Crypto App](https://coin-crest.netlify.app/).
 
-  | Image 1 | Image 2 |
-  |---------------|----------------------- |
-  |<img width="450" alt="1" src="https://github.com/wsrn829/wsrn829/assets/67284951/06821b5d-05f1-410e-a6f5-322fb7d903f2">|<img width="450" alt="2" src="https://github.com/wsrn829/wsrn829/assets/67284951/79b57d25-8930-4f52-8b65-bdafaf338441">|
-
 -------------------------------
-4. If I know nothing about something, I would simply build an app with a basic search function and start from there. You can currently search for movie names on my [Deployed Movie App](https://moviemasterweb.netlify.app/).
-  <img width="800" alt="moviemaster" src="https://github.com/wsrn829/wsrn829/assets/67284951/fcf613a8-cc47-42cd-9d08-edb5ec4b5ba4">
+4. ThriveTogether is a comprehensive, full-stack mental health peer support application, meticulously developed by our team from inception to implementation. The journey began with brainstorming and voting on project ideas, followed by wireframing to design the UI/UX. The entire process was carried out with minimal mentorship, demonstrating our team's self-reliance and technical acumen. We leveraged a robust tech stack including React, Redux Toolkit, FastAPI, OAuth2, JWT, and PostgreSQL. This month, I worked solo on this project and accomplished the following:
+
+    - Rebuilt the Postgres database and refined the database schemas by updating column names and adding Foreign Keys.
+
+    - Set up CI/CD pipelines, deployed the project on Heroku (backend) and Netlify (frontend), and connected it to a Postgresql database running on Heroku.
+
+    - Implemented OAuth2 with JWT tokens for backend authentication, and React's useContext hook for login, logout, registration, and fetching tokens from the API for frontend authentication.
+
+    - Developed peer-adding and peer list functionalities utilizing React on the frontend and FastAPI on the backend.
+    
+    - Developed comprehensive unit tests to ensure the reliability and stability of the application. 
+
+    - Revamped the landing page design and applied responsive styling for optimal display on both desktop and mobile devices.
+    <br />
+    <img width="800" alt="thrive" src="https://github.com/wsrn829/wsrn829/assets/67284951/0addc08d-3277-4d64-9df9-b5d475b76441">
 
 -------------------------------
 
