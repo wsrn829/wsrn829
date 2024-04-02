@@ -75,21 +75,22 @@ Some Helpful Resources:
 3. I'm still adding features, but here is my third independently [Deployed Crypto App](https://coin-crest.netlify.app/).
 
 -------------------------------
-4. ThriveTogether is a comprehensive, full-stack mental health peer support application, meticulously developed by our team from inception to implementation. The journey began with brainstorming and voting on project ideas, followed by wireframing to design the UI/UX. The entire process was carried out with minimal mentorship, demonstrating our team's self-reliance and technical acumen. We leveraged a robust tech stack including React, Redux Toolkit, FastAPI, OAuth2, JWT, and PostgreSQL. This month, I worked solo on this project and accomplished the following:
-
+4. ThriveTogether is a comprehensive, full-stack mental health peer support application, meticulously developed by our team from inception to implementation. The journey began with brainstorming and voting on project ideas, followed by wireframing to design the UI/UX. The entire process was carried out with minimal mentorship, demonstrating our team's self-reliance and technical acumen. We leveraged a robust tech stack including React, Redux Toolkit, FastAPI, OAuth2, JWT, PostgreSQL, Unit Testing, and CI/CD. In this project, I accomplished the following:
     - Rebuilt the Postgres database and refined the database schemas by updating column names and adding Foreign Keys.
-
+  
     - Set up CI/CD pipelines, deployed the project on Heroku (backend) and Netlify (frontend), and connected it to a Postgresql database running on Heroku.
-
+  
+    - Implemented Redux Toolkit and Redux Thunk for efficient central state management and handling of asynchronous operations.
+  
     - Implemented OAuth2 with JWT tokens for backend authentication, and React's useContext hook for login, logout, registration, and fetching tokens from the API for frontend authentication.
-
+  
     - Developed peer-adding and peer list functionalities utilizing React on the frontend and FastAPI on the backend.
-    
-    - Developed comprehensive unit tests to ensure the reliability and stability of the application. 
-
+  
+    - Developed comprehensive unit tests to ensure the reliability and stability of the application.
+  
     - Revamped the landing page design and applied responsive styling for optimal display on both desktop and mobile devices.
     <br />
-    <img width="800" alt="thrive" src="https://github.com/wsrn829/wsrn829/assets/67284951/0addc08d-3277-4d64-9df9-b5d475b76441">
+    <img width="700" alt="thrive" src="https://github.com/wsrn829/wsrn829/assets/67284951/0addc08d-3277-4d64-9df9-b5d475b76441">
 
 -------------------------------
 
