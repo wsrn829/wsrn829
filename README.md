@@ -96,20 +96,21 @@ Some Helpful Resources:
 
 ### Continuing Education
 
-| *Harvard CS50: Introduction to Computer Science*    | *Harvard CS50: Web Programming with Python and JavaScript*   |
+| *Harvard CS50: Introduction to Computer Science*     | *Harvard CS50: Web Programming with Python and JavaScript*   |
 |------------------------------------------------------|---------------------------------------------------------------|
-| [ x ]  Week 0 - Scratch                              | [ - ]  HTML, CSS                                              |
-| [ x ]  Week 1 - C                                    | [ - ]  Git                                                    |
-| [ x ]  Week 2 - Arrays                               | [ - ]  Python                                                 |
-| [ x ]  Week 3 - Algorithms                           | [ - ]  Django                                                 |
-| [ x ]  Week 4 - Memory                               | [ - ]  SQL, Models, and Migrations                            |
-| [ x ]  Week 5 - Data Structures                      | [ - ]  JavaScript                                             | 
-| [ x ]  Week 6 - Python                               | [ - ]  User Interfaces                                        |
-| [ - ]  Artificial Intelligence                       | [ - ]  Testing, CI/CD                                         |
-| [ - ]  Week 7 - SQL                                  | [ - ]  Scalability and Security                               |
-| [ - ]  Week 8 - HTML, CSS, JavaScript                |                                                               |  
+| [ x ]  Week 0 - Scratch                              | [ - ]  Introduction                                               |
+| [ x ]  Week 1 - C                                    | [ - ]  HTML, CSS                                              |
+| [ x ]  Week 2 - Arrays                               | [ - ]  Git                                                 |
+| [ x ]  Week 3 - Algorithms                           | [ - ]  Python                                                 |
+| [ x ]  Week 4 - Memory                               | [ - ]  Django                                               |
+| [ x ]  Week 5 - Data Structures                      | [ - ]  SQL, Models, and Migrations                             | 
+| [ x ]  Week 6 - Python                               | [ - ]  JavaScript                                            |
+| [ - ]  Artificial Intelligence                       | [ - ]  User Interfaces                                         |
+| [ - ]  Week 7 - SQL                                  | [ - ]  Testing, CI/CD                                         |
+| [ - ]  Week 8 - HTML, CSS, JavaScript                | [ - ]  Scalability and Security                                |  
 | [ - ]  Week 9 - Flask                                |                                                               |
-| [ - ]  Week 10 - Cybersecurity                       |                                                               |
+| [ - ]  Week 10 - Emoji                               |                                                               |
+| [ - ] Cybersecurity                                  |                                                               |
 
   
 -------------------------------------
