@@ -112,7 +112,8 @@ Some Helpful Resources:
 | [ - ]  Week 10 - Emoji                               |                                                               |
 | [ - ] Cybersecurity                                  |                                                               |
 
-  
+>>> Have been working on course projects and pushing commits to the assigned private repository branches, and just noticed they may not show up in my contributions or may disappear once I set another branch as active (I guess). It's ok though. 4 days would be affected (probably). I may or may not be a perfectionist, but I know I've been working every day.
+
 -------------------------------------
 
 
