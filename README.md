@@ -104,7 +104,7 @@ Some Helpful Resources:
 | [ - ]  Week 3 - Algorithms                           | [ x ]  Python                                                 |
 | [ - ]  Week 4 - Memory                               | [ x ]  Django                                               |
 | [ - ]  Week 5 - Data Structures                      | [ x ]  SQL, Models, and Migrations                             | 
-| [ - ]  Week 6 - Python                               | [ - ]  JavaScript                                            |
+| [ - ]  Week 6 - Python                               | [ x ]  JavaScript                                            |
 | [ - ]  Artificial Intelligence                       | [ - ]  User Interfaces                                         |
 | [ - ]  Week 7 - SQL                                  | [ - ]  Testing, CI/CD                                         |
 | [ - ]  Week 8 - HTML, CSS, JavaScript                | [ - ]  Scalability and Security                                |  
