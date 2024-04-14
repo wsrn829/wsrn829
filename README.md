@@ -113,6 +113,13 @@ Some Helpful Resources:
 | [ - ] Cybersecurity                                  |                                                               |
 
 -------------------------------------
+1. Just my 3rd homework/practice project (6 in total) & already feeling more complex than DealerDashboard (or even ThriveTogether). The final personal/customized project should be more complex than ThriveTogether. (No wonder it says this course is not for beginners, and I'm glad all projects are required to use Django for the backend. I love Django.)
+2. No teammate. I tend to spend 24 hours a day on these, but mom calls me to sleep every night.
+   
+| Image 1 | Image 2 |
+|:-------:|:-------:|
+| ![1](https://github.com/wsrn829/wsrn829/assets/67284951/5d0dcae0-8fab-4a25-bfaf-0dfa6e3fb239) | ![2](https://github.com/wsrn829/wsrn829/assets/67284951/dbf85891-142e-42f8-b35d-096e33ca88e4) |
+
 
 
 ### Socials
