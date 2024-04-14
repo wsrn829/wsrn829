@@ -105,7 +105,7 @@ Some Helpful Resources:
 | [ - ]  Week 4 - Memory                               | [ x ]  Django                                               |
 | [ - ]  Week 5 - Data Structures                      | [ x ]  SQL, Models, and Migrations                             | 
 | [ - ]  Week 6 - Python                               | [ x ]  JavaScript                                            |
-| [ - ]  Artificial Intelligence                       | [ - ]  User Interfaces                                         |
+| [ - ]  Artificial Intelligence                       | [ x ]  User Interfaces                                         |
 | [ - ]  Week 7 - SQL                                  | [ - ]  Testing, CI/CD                                         |
 | [ - ]  Week 8 - HTML, CSS, JavaScript                | [ - ]  Scalability and Security                                |  
 | [ - ]  Week 9 - Flask                                |                                                               |
