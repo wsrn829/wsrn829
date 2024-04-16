@@ -106,7 +106,7 @@ Some Helpful Resources:
 | [ - ]  Week 5 - Data Structures                      | [ x ]  SQL, Models, and Migrations                             | 
 | [ - ]  Week 6 - Python                               | [ x ]  JavaScript                                            |
 | [ - ]  Artificial Intelligence                       | [ x ]  User Interfaces                                         |
-| [ - ]  Week 7 - SQL                                  | [ - ]  Testing, CI/CD                                         |
+| [ - ]  Week 7 - SQL                                  | [ x ]  Testing, CI/CD                                         |
 | [ - ]  Week 8 - HTML, CSS, JavaScript                | [ - ]  Scalability and Security                                |  
 | [ - ]  Week 9 - Flask                                |                                                               |
 | [ - ]  Week 10 - Emoji                               |                                                               |
