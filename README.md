@@ -115,6 +115,7 @@ Some Helpful Resources:
 -------------------------------------
 1. Just my 3rd homework/practice project (6 in total) & already feeling more complex than DealerDashboard (or even ThriveTogether). The final personal/customized project should be more complex than ThriveTogether. (No wonder it says this course is not for beginners, and I'm glad all projects are required to use Django for the backend. I love Django.)
 2. No teammate. I tend to spend 24 hours a day on these, but mom calls me to sleep every night.
+3. Paid for this course at the end of 2021 when on sale but wasn't able to finish it (a bit too hard back then). It seems I don't need to pay again but may need to resubmit some of the homework (?). 
    
 | Image 1 | Image 2 | Image 3 |
 |:-------:|:-------:| :------:  |
