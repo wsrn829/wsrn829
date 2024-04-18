@@ -122,7 +122,9 @@ Some Helpful Resources:
 |:-------:|:-------:| :------:  |
 | ![11](https://github.com/wsrn829/wsrn829/assets/67284951/43cc7c3c-b6aa-4a9c-89f3-e00d7ba98bdb) | ![22](https://github.com/wsrn829/wsrn829/assets/67284951/10f4eead-9927-442e-883b-ed57470c2c41) | ![3](https://github.com/wsrn829/wsrn829/assets/67284951/8c6ae81d-a4a9-47a0-80f6-9909a590446e) |
 
-
+<img src="https://github.com/wsrn829/wsrn829/assets/67284951/7b717225-e294-467d-841c-bee0d8b55afa" width="200px">
+5. "Up to 3 weeks grading time" turned out to be much faster (maybe the final project will take longer?).
+6. Project 4 is a Gmail clone using vanilla JavaScript. God, I thought I would never need to use vanilla JavaScript after learning React but had to write hundreds of lines of JavaScript code without any React TT 
 
 
 ### Socials
