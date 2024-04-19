@@ -128,6 +128,8 @@ Some Helpful Resources:
 
 7. Project 4 is a Gmail clone using vanilla JavaScript. God, I thought I would never need to use vanilla JavaScript after learning React but had to write hundreds of lines of JavaScript code without any React TT
 
+8. Project 5 is a Twitter clone. (Idk what it will bring me, but I know I want it.)
+
 ### Socials
 
 <p align="left"> 
