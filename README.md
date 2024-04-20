@@ -130,6 +130,11 @@ Some Helpful Resources:
 
 8. Project 5 is a Twitter clone. (Idk what it will bring me, but I know I want it.)
 
+9. Oh someone always knows what I'm in need of when working solo TT
+    
+    <img src="https://github.com/wsrn829/wsrn829/assets/67284951/a48f9321-d746-4121-8ac8-c84433842776" width="200px">
+
+
 ### Socials
 
 <p align="left"> 
