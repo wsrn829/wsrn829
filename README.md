@@ -124,7 +124,8 @@ Some Helpful Resources:
 
 5. "Up to 3 weeks grading time" turned out to be much faster (maybe the final project will take longer?).
    
-   <img src="https://github.com/wsrn829/wsrn829/assets/67284951/b16d32fe-8e1e-4c09-b2cc-4c57b542fd6d" width="200px">
+   <img src="https://github.com/wsrn829/wsrn829/assets/67284951/bd8f1ed1-5d98-4d04-aa05-3548816c37aa" width="200px">
+
 
 7. Project 4 is a Gmail clone using vanilla JavaScript. God, I thought I would never need to use vanilla JavaScript after learning React but had to write hundreds of lines of JavaScript code without any React TT
 
