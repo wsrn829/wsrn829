@@ -107,7 +107,7 @@ Some Helpful Resources:
 | [ - ]  Week 6 - Python                               | [ x ]  JavaScript                                            |
 | [ - ]  Artificial Intelligence                       | [ x ]  User Interfaces                                         |
 | [ - ]  Week 7 - SQL                                  | [ x ]  Testing, CI/CD                                         |
-| [ - ]  Week 8 - HTML, CSS, JavaScript                | [ - ]  Scalability and Security                                |  
+| [ - ]  Week 8 - HTML, CSS, JavaScript                | [ x ]  Scalability and Security                                |  
 | [ - ]  Week 9 - Flask                                |                                                               |
 | [ - ]  Week 10 - Emoji                               |                                                               |
 | [ - ] Cybersecurity                                  |                                                               |
@@ -135,6 +135,9 @@ Some Helpful Resources:
     
     <img src="https://github.com/wsrn829/wsrn829/assets/67284951/a48f9321-d746-4121-8ac8-c84433842776" width="200px">
 
+10. "Twitter" done. Final projecting rn.
+
+    <img src="https://github.com/wsrn829/wsrn829/assets/67284951/53e56c74-c6c9-4728-ad93-ca3a2e936fab" width="400px">
 
 ### Socials
 
