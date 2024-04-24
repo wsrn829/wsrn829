@@ -139,6 +139,8 @@ Some Helpful Resources:
 
     <img src="https://github.com/wsrn829/wsrn829/assets/67284951/53e56c74-c6c9-4728-ad93-ca3a2e936fab" width="400px">
 
+11. Wouldn't be me if I ever compromised my standards (?).
+
 ### Socials
 
 <p align="left"> 
