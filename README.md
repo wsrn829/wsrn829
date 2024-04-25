@@ -143,6 +143,8 @@ Some Helpful Resources:
     
 12. God. I literally set up a whole new authentication system (both frontend and backend) from scratch tonight for the final project and got it working just now. Used Django REST framework for backend auth, React for frontend auth, and useContext for global state management. I think I could reuse this system for all my future Django projects. Authentication is so hard, for sure. Glad I still enjoy it. Good night.
 
+13. Should be able to submit my final project tmr. Fingers crossed.
+
 
 ### Socials
 
