@@ -147,6 +147,7 @@ Some Helpful Resources:
 
 14. Typing & debugging the whole day /I don't wanna sleep if I don't finish/.
 
+15. I would say I implemented everything I wanted and ready for submission. Mom is calling me again, gosh. Does she have an alarm?
 
 ### Socials
 
