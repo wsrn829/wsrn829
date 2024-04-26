@@ -145,6 +145,8 @@ Some Helpful Resources:
 
 13. Should be able to submit my final project tmr. Fingers crossed.
 
+14. Typing & debugging the whole day /I don't wanna sleep if I don't finish/.
+
 
 ### Socials
 
