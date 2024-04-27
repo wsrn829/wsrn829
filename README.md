@@ -107,7 +107,7 @@ Some Helpful Resources:
 | [ - ]  Week 6 - Python                               | [ x ]  JavaScript                                            |
 | [ - ]  Artificial Intelligence                       | [ x ]  User Interfaces                                         |
 | [ - ]  Week 7 - SQL                                  | [ x ]  Testing, CI/CD                                         |
-| [ - ]  Week 8 - HTML, CSS, JavaScript                | [ x ]  Scalability and Security                                |  
+| [ x ]  Week 8 - HTML, CSS, JavaScript                | [ x ]  Scalability and Security                                |  
 | [ - ]  Week 9 - Flask                                |                                                               |
 | [ - ]  Week 10 - Emoji                               |                                                               |
 | [ - ] Cybersecurity                                  |                                                               |
@@ -143,11 +143,9 @@ Some Helpful Resources:
     
 12. God. I literally set up a whole new authentication system (both frontend and backend) from scratch tonight for the final project and got it working just now. Used Django REST framework for backend auth, React for frontend auth, and useContext for global state management. I think I could reuse this system for all my future Django projects. Authentication is so hard, for sure. Glad I still enjoy it. Good night.
 
-13. Should be able to submit my final project tmr. Fingers crossed.
+13.
+    <img src="https://github.com/wsrn829/wsrn829/assets/67284951/d63d6a5a-312b-4be3-8857-8a41ee1b148c" width="200px">
 
-14. Typing & debugging the whole day /I don't wanna sleep if I don't finish/.
-
-15. I would say I implemented everything I wanted and ready for submission. Mom is calling me again, gosh. Does she have an alarm?
 
 ### Socials
 
