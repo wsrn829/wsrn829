@@ -99,7 +99,7 @@ Some Helpful Resources:
 | *Harvard CS50: Introduction to Computer Science*     | *Harvard CS50: Web Programming with Python and JavaScript*   |
 |------------------------------------------------------|---------------------------------------------------------------|
 | [ x ]  Week 0 - Scratch                              | [ x ]  Introduction                                               |
-| [ - ]  Week 1 - C                                    | [ x ]  HTML, CSS                                              |
+| [ x ]  Week 1 - C                                    | [ x ]  HTML, CSS                                              |
 | [ - ]  Week 2 - Arrays                               | [ x ]  Git                                                 |
 | [ - ]  Week 3 - Algorithms                           | [ x ]  Python                                                 |
 | [ - ]  Week 4 - Memory                               | [ x ]  Django                                               |
