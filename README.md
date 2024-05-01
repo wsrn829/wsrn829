@@ -102,7 +102,7 @@ Some Helpful Resources:
 | [ x ]  Week 1 - C                                    | [ x ]  HTML, CSS                                              |
 | [ x ]  Week 2 - Arrays                               | [ x ]  Git                                                 |
 | [ x ]  Week 3 - Algorithms                           | [ x ]  Python                                                 |
-| [ - ]  Week 4 - Memory                               | [ x ]  Django                                               |
+| [ x ]  Week 4 - Memory                               | [ x ]  Django                                               |
 | [ - ]  Week 5 - Data Structures                      | [ x ]  SQL, Models, and Migrations                             | 
 | [ - ]  Week 6 - Python                               | [ x ]  JavaScript                                            |
 | [ - ]  Artificial Intelligence                       | [ x ]  User Interfaces                                         |
