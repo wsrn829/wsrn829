@@ -103,10 +103,10 @@ Some Helpful Resources:
 | [ x ]  Week 2 - Arrays                               | [ x ]  Git                                                 |
 | [ x ]  Week 3 - Algorithms                           | [ x ]  Python                                                 |
 | [ x ]  Week 4 - Memory                               | [ x ]  Django                                               |
-| [ - ]  Week 5 - Data Structures                      | [ x ]  SQL, Models, and Migrations                             | 
-| [ - ]  Week 6 - Python                               | [ x ]  JavaScript                                            |
-| [ - ]  Artificial Intelligence                       | [ x ]  User Interfaces                                         |
-| [ - ]  Week 7 - SQL                                  | [ x ]  Testing, CI/CD                                         |
+| [ x ]  Week 5 - Data Structures                      | [ x ]  SQL, Models, and Migrations                             | 
+| [ x ]  Week 6 - Python                               | [ x ]  JavaScript                                            |
+| [ x ]  Artificial Intelligence                       | [ x ]  User Interfaces                                         |
+| [ x ]  Week 7 - SQL                                  | [ x ]  Testing, CI/CD                                         |
 | [ x ]  Week 8 - HTML, CSS, JavaScript                | [ x ]  Scalability and Security                                |  
 | [ - ]  Week 9 - Flask                                |                                                               |
 | [ - ]  Week 10 - Emoji                               |                                                               |
