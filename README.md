@@ -108,9 +108,9 @@ Some Helpful Resources:
 | [ x ]  Artificial Intelligence                       | [ x ]  User Interfaces                                         |
 | [ x ]  Week 7 - SQL                                  | [ x ]  Testing, CI/CD                                         |
 | [ x ]  Week 8 - HTML, CSS, JavaScript                | [ x ]  Scalability and Security                                |  
-| [ - ]  Week 9 - Flask                                |                                                               |
-| [ - ]  Week 10 - Emoji                               |                                                               |
-| [ - ] Cybersecurity                                  |                                                               |
+| [ x ]  Week 9 - Flask                                |                                                               |
+| [ - ]  Week 10 - Cybersecurity                               |                                                               |
+| [ - ]  Final Project                                 |                                                               |
 
 -------------------------------------
 1. Just my 3rd homework/practice project (6 in total) & already feeling more complex than DealerDashboard (or even ThriveTogether). The final personal/customized project should be more complex than ThriveTogether. (No wonder it says this course is not for beginners, and I'm glad all projects are required to use Django for the backend. I love Django.)
