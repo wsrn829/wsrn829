@@ -109,7 +109,7 @@ Some Helpful Resources:
 | [ x ]  Week 7 - SQL                                  | [ x ]  Testing, CI/CD                                         |
 | [ x ]  Week 8 - HTML, CSS, JavaScript                | [ x ]  Scalability and Security                                |  
 | [ x ]  Week 9 - Flask                                |                                                               |
-| [ - ]  Week 10 - Cybersecurity                               |                                                               |
+| [ x ]  Week 10 - Cybersecurity                               |                                                               |
 | [ - ]  Final Project                                 |                                                               |
 
 -------------------------------------
