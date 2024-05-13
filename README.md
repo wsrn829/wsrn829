@@ -110,7 +110,7 @@ Some Helpful Resources:
 | [ x ]  Week 8 - HTML, CSS, JavaScript                | [ x ]  Scalability and Security                                |  
 | [ x ]  Week 9 - Flask                                |                                                               |
 | [ x ]  Week 10 - Cybersecurity                               |                                                               |
-| [ - ]  Final Project                                 |                                                               |
+| [ x ]  Final Project                                 |                                                               |
 
 -------------------------------------
 1. Just my 3rd homework/practice project (6 in total) & already feeling more complex than DealerDashboard (or even ThriveTogether). The final personal/customized project should be more complex than ThriveTogether. (No wonder it says this course is not for beginners, and I'm glad all projects are required to use Django for the backend. I love Django.)
