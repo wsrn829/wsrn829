@@ -34,6 +34,23 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 
 -------------------------------------
 
+### How I've Been Reducing Costs Post-Deployment (To Be Continued)
+
+After gaining proficiency in CI/CD processes, my main concern shifted to cost reduction post-deployment, prompted by the substantial Heroku bills I've received over the past few months (one of them as below).
+
+<img src="https://github.com/wsrn829/wsrn829/assets/67284951/03b88c98-3fbe-4bd5-b219-619fbf752115" width="200px">
+
+Below are some of my solutions:
+
+1. Converted the previous Microservices architecture of DealerDashboard into a Monolithic architecture called WheelWorld to reduce costs post-deployment.
+2. Replaced Polling in DealerDashboard with HTTP requests in WheelWorld to improve data synchronization efficiency and reduce costs post-deployment.
+3. Turned the previous three databases for three microservices in DealerDashboard into one for WheelWorld also to reduce cost post-deployment.
+4. My team project, ThriveTogether, added a "peers" table and a "peer_requests" table other than the "users" table to prioritize speed.
+5. My solo project, CodeConnect, utilized advanced filtering techniques in Python syntax by using only the "users" table to prioritize cost reduction. 
+6. ......
+
+-----------------------
+
 ### How I Taught Myself [*CI/CD - The Most Crucial DevOps Practice.*](https://www.simplilearn.com/tutorials/devops-tutorial/continuous-delivery-and-continuous-deployment)
 
 1. When I set out to enhance my CI/CD skills, I decided to start with TaskTales - my first full-stack app, built with Django and HTML. 
