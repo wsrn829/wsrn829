@@ -6,21 +6,22 @@ Full Stack Software Engineer
 
 As a dedicated Full-Stack Software Engineer with over 1000 hours of hands-on training in Agile environments, I bring expertise spanning the entire software development lifecycle, from planning to implementation. Proficient in CI/CD processes, I specialize in ensuring smooth software deployments. Thriving in cross-functional teams, I foster collaborative problem-solving to guarantee the timely delivery of high-quality software solutions. Leveraging my background in social science research, I instill a user-centric approach, emphasizing the broader impact of development decisions. *Let's work together to bring your ideas to life!*
 
-My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building responsive user interfaces with modern JavaScript frameworks like React and secure server-side architectures with Python, Django, and FastAPI. My proficiency extends to working with both SQL and NoSQL databases, ensuring efficient data management and retrieval. I have successfully implemented CI/CD for projects, incorporating database migrations, environment variable configuration, and extensive debugging to ensure continuous delivery. *Thriving at the forefront of innovation, I am a growth-driven developer, propelled by an insatiable desire for knowledge and an unwavering commitment to excellence.*
+My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building responsive user interfaces with JavaScript, React, and Redux Toolkit, and secure server-side architectures with Python, Django, FastAPI, and Flask. My proficiency extends to working with both SQL and NoSQL databases, ensuring efficient data management and retrieval. I have successfully implemented CI/CD for projects, incorporating database migrations, environment variable configuration, and extensive debugging to ensure continuous delivery. *Thriving at the forefront of innovation, I am a growth-driven developer, propelled by an insatiable desire for knowledge and an unwavering commitment to excellence.*
 
-- 🧠  I'm learning AI, NLP，ChatBot, Next.js, BlockChain, and Java.
-- 🧠  I'm pursuing the Harvard University Professional Certificate in Computer Science for Web Programming.
+- 🧠  I recently obtained the Harvard Professional Certificate in Computer Science for Web Programming.
+- 🧠  I enjoy solving complex problems and learning new technologies.
+- 🧠  I'm currently learning AI, NLP, and ChatBot.
 - 🤝  I'm open to collaborating on AI Projects.
 
 ------------------------------------
   
 |   |*Technical Skills*                                                                                      |
 |:---------------- |:-------------------------------------------------------------------------------------------------------------- |
-| *Languages*      | Python 3, JavaScript ES6+, TypeScript, SQL, HTML5, CSS3
-| *Frontend*       | DOM Manipulation, WebSockets, React, React Native, Redux Toolkit, Tailwind CSS, Bootstrap, Vite  |
-| *Backend*        | Django 4, FastAPI, Node.js, REST API, OAuth2, JWT, PostgreSQL, MongoDB, RabbitMQ, Postman, pgAdmin     |
+| *Languages*      | Python 3, JavaScript ES6+, SQL, HTML5, CSS3
+| *Frontend*       | React, Redux Toolkit, DOM Manipulation, WebSockets, Tailwind CSS, Bootstrap       |
+| *Backend*        | Django 4, FastAPI, Flask, REST API, Token-Based Authentication, PostgreSQL, MongoDB, RabbitMQ     |
 | *System Design*  | Microservices, Domain-Driven Design, Message Passing, Event Sourcing, Distributed Task Processing    |   
-| *DevOps*         | Docker, CI/CD, Unit Testing, Heroku, Netlify, AWS, DigitalOcean, Celery, Redis                |
+| *DevOps*         | Docker, CI/CD, Unit Testing, Heroku, Netlify, DigitalOcean, AWS                |
 | *Agile*          | Scrum, Sprint, Daily Stand-Ups, User Stories, Pull/Merge Request Workflows, Trello, Jira                                                  |
 ------------------------------------
 
@@ -55,7 +56,7 @@ Below are some of my solutions:
 
 1. When I set out to enhance my CI/CD skills, I decided to start with TaskTales - my first full-stack app, built with Django and HTML. 
 *  Deploying a Django App on Heroku is straightforward if you follow [these steps](https://devcenter.heroku.com/articles/getting-started-with-python), although it can require *tricky* troubleshooting.
-*  After 112 commits to the TaskTalesDeployment repository, it suddenly started working as smoothly as it did in local development mode, with zero console errors on my end...LOL. 🌸 [*My First Independently Deployed Django App on Heroku*](https://tasktales-e12d965b0fbc.herokuapp.com/) 🌸
+*  After 112 commits to the TaskTalesDeployment repository, it suddenly started working as smoothly as it did in local development mode, with zero console errors on my end...LOL. 🌸 *My First Independently Deployed Django App on Heroku* 🌸
 *  I'll focus on adding features and styling to this app in the future. :)
 *  A mandatory pull request has been implemented on the main branch for *Branch Protection*.
 -------------------------------------
@@ -63,7 +64,7 @@ Below are some of my solutions:
 * Specifically, the incorporation of microservices, Docker, and polling, along with the React-based frontend, adds a layer of sophistication.
 * Deploying an app from scratch presents a valuable opportunity to enhance my understanding of configurations.
 
-Some Helpful Resources: 
+* Some Helpful Resources: 
 [*Build Configs*](https://docs.netlify.com/configure-builds/overview/?_gl=1%2ap93753%2a_gcl_aw%2aR0NMLjE3MDU0MjAzMzEuQ2p3S0NBaUE3NWl0QmhBNkVpd0FraG85ZTN1ZTZ6a05qV3I2aFVCQVdRT1lFcnhhU1hGblJOTzdQS09vNGxPMnA1ZnR1M3VxaVJ5V0FCb0N5bEFRQXZEX0J3RQ..%2a_gcl_au%2aMTQ4NjI5NjQyMC4xNzA1NDIwMTc1) 
 [*Dependencies*](https://docs.netlify.com/configure-builds/manage-dependencies/) 
 [*Debugging*](https://answers.netlify.com/t/support-guide-failed-build-debugging-advice-preparing-the-best-help-request/73269?_gl=1*1fjzb8j*_gcl_aw*R0NMLjE3MDU0MjAzMzEuQ2p3S0NBaUE3NWl0QmhBNkVpd0FraG85ZTN1ZTZ6a05qV3I2aFVCQVdRT1lFcnhhU1hGblJOTzdQS09vNGxPMnA1ZnR1M3VxaVJ5V0FCb0N5bEFRQXZEX0J3RQ..*_gcl_au*MTQ4NjI5NjQyMC4xNzA1NDIwMTc1) 
