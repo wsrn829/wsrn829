@@ -13,6 +13,11 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - 🧠  I'm currently learning AI, NLP, and ChatBot.
 - 🤝  I'm open to collaborating on AI Projects.
 
+- You probably cannot see this, but I'm still grateful for your quick response on the second day of my "graduation" and within minutes of my online application, among hundreds of other applicants. It greatly boosted my confidence, regardless of whether there is an offer or not. In return for your appreciation, I've decided to invest a substantial amount of energy in learning SwiftUI. :p
+- <img src="https://github.com/wsrn829/wsrn829/assets/67284951/458bd48d-a9d6-430c-9f3f-379ab17ff466" width="200px">
+
+
+
 ------------------------------------
   
 |   |*Technical Skills*                                                                                      |
