@@ -8,7 +8,9 @@ As a dedicated Full-Stack Software Engineer with over 1000 hours of hands-on tra
 
 My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building responsive user interfaces with JavaScript, React, and Redux Toolkit, and secure server-side architectures with Python, Django, FastAPI, and Flask. My proficiency extends to working with both SQL and NoSQL databases, ensuring efficient data management and retrieval. I have successfully implemented CI/CD for projects, incorporating database migrations, environment variable configuration, and extensive debugging to ensure continuous delivery. *Thriving at the forefront of innovation, I am a growth-driven developer, propelled by an insatiable desire for knowledge and an unwavering commitment to excellence.*
 
-- 🧠  I recently obtained the Harvard Professional Certificate in Computer Science for Web Programming.
+- 🧠  I recently obtained the Harvard Professional Certificate in Computer Science for Web Programming. [Official Credential Link](https://credentials.edx.org/credentials/c2baa87dfd594781be286140430f59a1)
+
+    <img src="https://github.com/wsrn829/wsrn829/assets/67284951/9c0306c9-2ca1-41bc-92e7-0080689b7041" width="300px">
 - 🧠  I enjoy solving complex problems and learning new technologies.
 - 🧠  I'm currently learning AI, NLP, and ChatBot.
 - 🤝  I'm open to collaborating on AI Projects.
@@ -18,8 +20,6 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - In-person interview next week! Fingers crossed.
 - Once again, I'm excited that I deployed my whole new full-stack app (including the backend, database, frontend) within a few hours while listening to music the entire time, LOL.
 - I could also create slides describing the entire cycle of web development purely from memory. So proud of myself. :）
-- <img src="https://github.com/wsrn829/wsrn829/assets/67284951/9c0306c9-2ca1-41bc-92e7-0080689b7041" width="300px">
-
 
 ------------------------------------
   
