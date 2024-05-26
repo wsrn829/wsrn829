@@ -12,7 +12,10 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 
     <img src="https://github.com/wsrn829/wsrn829/assets/67284951/9c0306c9-2ca1-41bc-92e7-0080689b7041" width="300px">
 - 🧠  I enjoy solving complex problems and learning new technologies.
-- 🧠  I'm currently learning Swift, SwiftUI, AI, NLP, and ChatBot.
+- 🧠  I'm currently learning Swift, SwiftUI, AI, NLP, and ChatBot. BTW, Swift's async and await syntax is so much similar to what we've learned in JavaScript. 
+  
+  <img src="https://github.com/wsrn829/wsrn829/assets/67284951/2f0bc2fa-7bfe-454c-848f-2cc775ea9e1f" width="250px">
+
 - 🤝  I'm open to collaborating on AI Projects.
 
 - You probably cannot see this, but I'm still grateful for your quick response on the second day of my "graduation" and within minutes of my online application, among hundreds of other applicants. It greatly boosted my confidence, regardless of whether there is an offer or not. In return for your appreciation, I've decided to invest a substantial amount of energy in learning SwiftUI. :p
