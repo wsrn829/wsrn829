@@ -12,10 +12,10 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 
     <img src="https://github.com/wsrn829/wsrn829/assets/67284951/9c0306c9-2ca1-41bc-92e7-0080689b7041" width="300px">
 - 🧠  I enjoy solving complex problems and learning new technologies.
-- 🧠  I'm currently learning Swift, SwiftUI, AI, NLP, and ChatBot. BTW, Swift's async and await syntax is so much similar to what we've learned in JavaScript. Created my first Swift file and pushed to GitHub today.
+- 🧠  I'm currently learning Swift, SwiftUI, AI, NLP, and ChatBot. BTW, Swift's async and await syntax is so much similar to what we've learned in JavaScript. After a little bit of self-debugging, completed my first Swift/SwiftUI feature today - fetching JSON data from an external API and display it.
   
-  <img src="https://github.com/wsrn829/wsrn829/assets/67284951/d7375397-a6c8-41ea-979b-32852edcd2bd" width="250px">
-  <img src="https://github.com/wsrn829/wsrn829/assets/67284951/f8e1484b-bfd2-433f-a288-d944bc5eb89e" width="250px">
+  <img src="https://github.com/wsrn829/wsrn829/assets/67284951/b7ea5206-5f1a-418b-a4ee-a24fe11b57e8" width="250px">
+
 
 - 🤝  I'm open to collaborating on AI Projects.
 
