@@ -9,19 +9,15 @@ As a dedicated Full-Stack Software Engineer with over 1000 hours of hands-on tra
 My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building responsive user interfaces with JavaScript, React, and Redux Toolkit, and secure server-side architectures with Python, Django, FastAPI, and Flask. My proficiency extends to working with both SQL and NoSQL databases, ensuring efficient data management and retrieval. I have successfully implemented CI/CD for projects, incorporating database migrations, environment variable configuration, and extensive debugging to ensure continuous delivery. *Thriving at the forefront of innovation, I am a growth-driven developer, propelled by an insatiable desire for knowledge and an unwavering commitment to excellence.*
 
 - 🧠  I recently obtained the Harvard Professional Certificate in Computer Science for Web Programming. [Official Credential Link](https://credentials.edx.org/credentials/c2baa87dfd594781be286140430f59a1)
-
-    <img src="https://github.com/wsrn829/wsrn829/assets/67284951/9c0306c9-2ca1-41bc-92e7-0080689b7041" width="300px">
 - 🧠  I enjoy solving complex problems and learning new technologies.
-- 🧠  I'm currently learning Swift, SwiftUI, AI, NLP, and ChatBot. BTW, Swift's async and await syntax is so much similar to what we've learned in JavaScript. After a little bit of self-debugging, completed my first Swift/SwiftUI feature today - fetching JSON data from an external API and displaying data model. (Three steps involved: fetching data - storing data locally in a class - displaying data model in the UI. Btw, Swift views are very similar to React components.) 
+- 🧠  I'm currently learning Swift, SwiftUI, AI, NLP, and ChatBot. BTW, Swift's async and await syntax is so much similar to what we've learned in JavaScript. After a little bit of self-debugging, completed my first Swift/SwiftUI feature today - fetching JSON data from an external API, storing data in a local class, and displaying data model. (Swift views are also very similar to React components.)
   
   <img src="https://github.com/wsrn829/wsrn829/assets/67284951/5abf44a9-c187-4a17-b375-d1af063a90ad" width="300px">
 
 
 - 🤝  I'm open to collaborating on AI Projects.
 
-- You probably cannot see this, but I'm still grateful for your quick response on the second day of my "graduation" and within minutes of my online application, among hundreds of other applicants. It greatly boosted my confidence, regardless of whether there is an offer or not. In return for your appreciation, I've decided to invest a substantial amount of energy in learning SwiftUI. :p
-- <img src="https://github.com/wsrn829/wsrn829/assets/67284951/458bd48d-a9d6-430c-9f3f-379ab17ff466" width="200px">
-- In-person interview next week! Fingers crossed.
+- You probably cannot see this, but I'm still grateful for your quick response on the second day of my "graduation" and within minutes of my online application, among hundreds of other applicants. In return for your appreciation, I've decided to invest a substantial amount of energy in learning SwiftUI. :p
 - Once again, I'm excited that I deployed my whole new full-stack app (including the backend, database, frontend) within a few hours while listening to music the entire time, LOL.
 - I could also create slides describing the entire cycle of web development purely from memory. So proud of myself. :）
 
