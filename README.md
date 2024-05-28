@@ -14,7 +14,8 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - 🧠  I enjoy solving complex problems and learning new technologies.
 - 🧠  I'm currently learning Swift, SwiftUI, AI, NLP, and ChatBot. BTW, Swift's async and await syntax is so much similar to what we've learned in JavaScript. After a little bit of self-debugging, completed my first Swift/SwiftUI feature today - fetching JSON data from an external API and displaying data model. (Three steps involved: fetching data - storing data locally in a class - displaying data model in the UI. Btw, Swift views are very similar to React components.) 
   
-  <img src="https://github.com/wsrn829/wsrn829/assets/67284951/43156cdf-1da2-4892-8f24-a7af3276e4b1" height="450px">
+  <img src="https://github.com/wsrn829/wsrn829/assets/67284951/5abf44a9-c187-4a17-b375-d1af063a90ad" width="300px">
+
 
 - 🤝  I'm open to collaborating on AI Projects.
 
