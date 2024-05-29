@@ -56,7 +56,6 @@ Below are some of my solutions:
 3. Turned the previous three databases for three microservices in DealerDashboard into one for WheelWorld also to reduce cost post-deployment.
 4. My team project, ThriveTogether, added a "peers" table and a "peer_requests" table other than the "users" table to prioritize speed.
 5. My solo project, CodeConnect, utilized advanced filtering techniques in Python syntax by using only the "users" table to prioritize cost reduction. 
-6. ......
 
 -----------------------
 
