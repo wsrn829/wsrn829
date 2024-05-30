@@ -10,11 +10,7 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 
 - 🧠  I recently obtained the Harvard Professional Certificate in Computer Science for Web Programming. [Official Credential Link](https://credentials.edx.org/credentials/c2baa87dfd594781be286140430f59a1)
 - 🧠  I enjoy solving complex problems and learning new technologies.
-- 🧠  I'm currently learning Swift, SwiftUI, AI, NLP, and ChatBot. BTW, Swift's async and await syntax is so much similar to what we've learned in JavaScript. After a little bit of self-debugging, completed my first Swift/SwiftUI feature today - fetching JSON data from an external API, storing data in a local class, and displaying data model. (Swift views are also very similar to React components.)
-  
-  <img src="https://github.com/wsrn829/wsrn829/assets/67284951/5abf44a9-c187-4a17-b375-d1af063a90ad" width="300px">
-
-
+- 🧠  I'm currently learning Swift, SwiftUI, React Native, AI, NLP, and ChatBot. 
 - 🤝  I'm open to collaborating on AI Projects.
 
 - You probably cannot see this, but I'm still grateful for your quick response on the second day of my "graduation" and within minutes of my online application, among hundreds of other applicants. In return for your appreciation, I've decided to invest a substantial amount of energy in learning SwiftUI. :p
