@@ -17,6 +17,9 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - Once again, I'm excited that I deployed my whole new full-stack app (including the backend, database, frontend) within a few hours while listening to music the entire time, LOL.
 - I could also create slides describing the entire cycle of web development purely from memory. So proud of myself. :）
 
+- <img src="https://github.com/wsrn829/wsrn829/assets/67284951/054f63e4-82b1-4c0d-81ca-41b5e733024d" width="250px">
+
+
 ------------------------------------
   
 |   |*Technical Skills*                                                                                      |
