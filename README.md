@@ -20,6 +20,11 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - <img src="https://github.com/wsrn829/wsrn829/assets/67284951/054f63e4-82b1-4c0d-81ca-41b5e733024d" width="250px">
 
 - Busy interviewing (every day?)...
+  
+- Another me?
+  
+  <img src="https://github.com/wsrn829/wsrn829/assets/67284951/08118cd5-e714-4e38-b825-142ba9a98aea" width="800px">
+
 
 ------------------------------------
   
