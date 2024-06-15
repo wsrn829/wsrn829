@@ -23,7 +23,7 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
   
 - Another me?
   
-  <img src="https://github.com/wsrn829/wsrn829/assets/67284951/08118cd5-e714-4e38-b825-142ba9a98aea" width="800px">
+  <img src="https://github.com/wsrn829/wsrn829/assets/67284951/08118cd5-e714-4e38-b825-142ba9a98aea" width="250px">
 
 
 ------------------------------------
