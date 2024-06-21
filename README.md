@@ -10,8 +10,7 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 
 - 🧠  I recently obtained the Harvard Professional Certificate in Computer Science for Web Programming. [Official Credential Link](https://credentials.edx.org/credentials/c2baa87dfd594781be286140430f59a1)
 - 🧠  I enjoy solving complex problems and learning new technologies.
-- 🧠  I'm currently learning Java, Swift, SwiftUI, React Native, AI, NLP, and ChatBot. I'm also doing LeetCode with Python and Javascript.
-- 🤝  I'm open to collaborating on AI Projects.
+- 🧠  I'm currently learning Java, Swift, SwiftUI, React Native, AI, NLP, and ChatBot. 
 
 - You probably cannot see this, but I'm still grateful for your quick response on the second day of my "graduation" and within minutes of my online application, among hundreds of other applicants. In return for your appreciation, I've decided to invest a substantial amount of energy in learning SwiftUI. :p
 - Once again, I'm excited that I deployed my whole new full-stack app (including the backend, database, frontend) within a few hours while listening to music the entire time, LOL.
