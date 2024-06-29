@@ -10,7 +10,7 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 
 - 🧠  I recently obtained the Harvard Professional Certificate in Computer Science for Web Programming. [Official Credential Link](https://credentials.edx.org/credentials/c2baa87dfd594781be286140430f59a1)
 - 🧠  I enjoy solving complex problems and learning new technologies.
-- 🧠  I'm currently learning Java, Swift, SwiftUI, React Native, AI, NLP, and ChatBot. Finally got to read this awesome book, which I bought during Covid. Stay hungry. God bless me. (Don't be surprised if I become a certified Java developer one day though.) /Java Syntax ing/
+- 🧠  I'm currently learning Java, Swift, SwiftUI, React Native, AI, NLP, and ChatBot. Finally got to read this awesome book, which I bought during Covid. Stay hungry. God bless me. (Don't be surprised if I become a certified Java developer one day though.) /Java Syntax ing/ Happy weekend.
 
   
   <img src="https://github.com/wsrn829/wsrn829/assets/67284951/746c4094-18f1-4b56-94bb-e164069fc706" width="250px">
