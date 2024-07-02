@@ -25,9 +25,9 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
   
 |   |*Technical Skills*                                                                                      |
 |:---------------- |:-------------------------------------------------------------------------------------------------------------- |
-| *Languages*      | Python 3, JavaScript ES6+, SQL, HTML5, CSS3
+| *Languages*      | Java, Python 3, JavaScript ES6+, SQL, HTML5, CSS3
 | *Frontend*       | React, Redux Toolkit, DOM Manipulation, WebSockets, Tailwind CSS, Bootstrap       |
-| *Backend*        | Django 4, FastAPI, Flask, REST API, Token-Based Authentication, PostgreSQL, MongoDB, RabbitMQ     |
+| *Backend*        | Spring, Django 4, FastAPI, Flask, REST, Token-Based Authentication, PostgreSQL, MongoDB, RabbitMQ     |
 | *System Design*  | Microservices, Domain-Driven Design, Message Passing, Event Sourcing, Distributed Task Processing    |   
 | *DevOps*         | Docker, CI/CD, Unit Testing, Heroku, Netlify, DigitalOcean, AWS                |
 | *Agile*          | Scrum, Sprint, Daily Stand-Ups, User Stories, Pull/Merge Request Workflows, Trello, Jira                                                  |
