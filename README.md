@@ -11,10 +11,10 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - 🧠  I recently obtained the Harvard Professional Certificate in Computer Science for Web Programming. [Official Credential Link](https://credentials.edx.org/credentials/c2baa87dfd594781be286140430f59a1)
 - 🧠  I enjoy solving complex problems and learning new technologies.  
 - 🧠  I'm currently learning Java, Spring, Maven, JDBC, AWS RDS, DBeaver, JUnit, Mockito, SLF4J, Logback. Finally got to read this awesome book, which I bought during Covid. Stay hungry. God bless me. (Don't be surprised if I become a certified Java developer one day though.) /Java Syntax ing/ Happy weekend. /I truly enjoyed everything I learned in the past week, full-time Java & upcoming Spring Boot framework/ Set up my first banking app using Java. /Simplicity and elegance come with experience/ Excited to learn Spring tomorrow. /I'm doing the follow/unfollow feature and the chat/message feature for a React/Java/Spring/AWS social media app to establish social connectivity/ 
-With the support of an experienced game developer on my team, I am confident in proceeding with the implementation of a chatroom feature using WebSockets in Java Spring. 
+With the support of an experienced game developer on my team, I am confident in proceeding with the implementation of a chatroom feature using WebSockets in Java Spring.
 
-  
-  <img src="https://github.com/wsrn829/wsrn829/assets/67284951/746c4094-18f1-4b56-94bb-e164069fc706" width="250px">
+![Java Spring Journey](https://github.com/user-attachments/assets/199c8e98-d485-4c00-b026-1ea6919af544)
+
 
 - You probably cannot see this, but I'm still grateful for your quick response on the second day of my "graduation" and within minutes of my online application, among hundreds of other applicants. In return for your appreciation, I've decided to invest a substantial amount of energy in learning SwiftUI. :p
 - Once again, I'm excited that I deployed my whole new full-stack app (including the backend, database, frontend) within a few hours while listening to music the entire time, LOL.
