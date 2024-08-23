@@ -10,9 +10,8 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 
 - 🧠  I recently obtained the Harvard Professional Certificate in Computer Science for Web Programming. [Official Credential Link](https://credentials.edx.org/credentials/c2baa87dfd594781be286140430f59a1)
 - 🧠  I enjoy solving complex problems and learning new technologies.  
-- 🧠  I'm currently learning Java, Spring, Maven, JDBC, AWS RDS, DBeaver, JUnit, Mockito, SLF4J, Logback. Finally got to read this awesome book, which I bought during Covid. Stay hungry. God bless me. (Don't be surprised if I become a certified Java developer one day though.) /Java Syntax ing/ Happy weekend. /I truly enjoyed everything I learned in the past week, full-time Java & upcoming Spring Boot framework/ Set up my first banking app using Java. /Simplicity and elegance come with experience/ Excited to learn Spring tomorrow. /I'm doing the follow/unfollow feature and the chat/message feature for a React/Java/Spring/AWS social media app to establish social connectivity/ 
-With the support of an experienced game developer on my team, I am confident in proceeding with the implementation of a chatroom feature using WebSockets in Java Spring.
-
+- 🧠  Today marks the official end of our Java-SQL-React Full Stack training track. Words cannot express how much I enjoyed and learned during this training. This has been a crucial milestone in my growth as a Full Stack Software Engineer. I am deeply grateful for my cohort and the journey we've shared together. I love you, folks. :) 
+![Survey](https://github.com/user-attachments/assets/5cf0a4f0-1fb4-43c7-b200-710bbd08eb65)
 ![Sarina Java Journey](https://github.com/user-attachments/assets/6a5e978f-71de-4627-aa14-3bf965a0be11)
 
 - You probably cannot see this, but I'm still grateful for your quick response on the second day of my "graduation" and within minutes of my online application, among hundreds of other applicants. In return for your appreciation, I've decided to invest a substantial amount of energy in learning SwiftUI. :p
