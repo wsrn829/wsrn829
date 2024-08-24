@@ -12,7 +12,8 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - 🧠  I enjoy solving complex problems and learning new technologies.  
 - 🧠  Today marks the official end of our Java-SQL-React Full Stack training track. Words cannot express how much I enjoyed and learned during this training. This has been a crucial milestone in my growth as a Full Stack Software Engineer. I am deeply grateful for my cohort and the journey we've shared together. I love you, folks. :) 
 ![Survey](https://github.com/user-attachments/assets/5cf0a4f0-1fb4-43c7-b200-710bbd08eb65)
-![Sarina Java Journey](https://github.com/user-attachments/assets/6a5e978f-71de-4627-aa14-3bf965a0be11)
+![MyJourney](https://github.com/user-attachments/assets/22537f11-7809-431d-a470-c3a1133005eb)
+
 
 - You probably cannot see this, but I'm still grateful for your quick response on the second day of my "graduation" and within minutes of my online application, among hundreds of other applicants. In return for your appreciation, I've decided to invest a substantial amount of energy in learning SwiftUI. :p
 - Once again, I'm excited that I deployed my whole new full-stack app (including the backend, database, frontend) within a few hours while listening to music the entire time, LOL.
