@@ -14,6 +14,8 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 ![Survey](https://github.com/user-attachments/assets/5cf0a4f0-1fb4-43c7-b200-710bbd08eb65)
 ![SarinaJavaJourney](https://github.com/user-attachments/assets/abc734ac-ffea-46f4-987f-9f22bec25074)
 
+- Was demoing my voice-assisted AI chatbot during our final project presentation, thinking maybe only I could hear the WebSpeechAPI's response, but it turned out my headset wasn't very soundproof & everyone else in the virtual meeting heard it too, LOL. BTW, I plan to implement more complex voice-assisted features in my future projects to address accessibility issues, which I think is really cool too. :)
+![WebSpeechAPI](https://github.com/user-attachments/assets/9fc00421-25ef-4891-9c7d-7fdc18eef55b)
 
 - You probably cannot see this, but I'm still grateful for your quick response on the second day of my "graduation" and within minutes of my online application, among hundreds of other applicants. In return for your appreciation, I've decided to invest a substantial amount of energy in learning SwiftUI. :p
 - Once again, I'm excited that I deployed my whole new full-stack app (including the backend, database, frontend) within a few hours while listening to music the entire time, LOL.
