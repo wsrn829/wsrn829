@@ -17,6 +17,9 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - Was demoing my voice-assisted AI chatbot during our final project presentation, thinking maybe only I could hear the WebSpeechAPI's response, but it turned out my headset wasn't very soundproof & everyone else in the virtual meeting heard it too, LOL. BTW, I plan to implement more complex voice-assisted features in my future projects to address accessibility issues, which I think is really cool too. :)
   ![WebSpeech](https://github.com/user-attachments/assets/853ab77c-f80f-4aee-a843-39811232c713)
 
+
+  ![image](https://github.com/user-attachments/assets/c8cd9baf-9fdc-4b57-b3eb-98e65714cfca)
+
 - You probably cannot see this, but I'm still grateful for your quick response on the second day of my "graduation" and within minutes of my online application, among hundreds of other applicants. In return for your appreciation, I've decided to invest a substantial amount of energy in learning SwiftUI. :p
 - Once again, I'm excited that I deployed my whole new full-stack app (including the backend, database, frontend) within a few hours while listening to music the entire time, LOL.
 - "Good memory doesn't make a good developer; good understanding does."
