@@ -59,8 +59,7 @@ Below are some of my solutions:
 1. Converted the previous Microservices architecture of DealerDashboard into a Monolithic architecture called WheelWorld to reduce costs post-deployment.
 2. Replaced Polling in DealerDashboard with HTTP requests in WheelWorld to improve data synchronization efficiency and reduce costs post-deployment.
 3. Turned the previous three databases for three microservices in DealerDashboard into one for WheelWorld also to reduce cost post-deployment.
-4. My team project, ThriveTogether, added a "peers" table and a "peer_requests" table other than the "users" table to prioritize speed.
-5. My solo project, CodeConnect, utilized advanced filtering techniques in Python syntax by using only the "users" table to prioritize cost reduction. 
+4. // My team project, ThriveTogether, added a "peers" table other than the "users" table to simplify code. My solo project, CodeConnect, created a junction table to take advantage of the referential integrity. However, I'm not quite sure which is more cost-effective for now. //
 
 -----------------------
 
