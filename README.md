@@ -34,8 +34,9 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 | *Frontend*       | React, React Native, Redux, Redux Toolkit, DOM Manipulation, WebSockets, Tailwind CSS, Bootstrap 5       |
 | *Backend*        | REST APIs, PostgreSQL, MySQL, MongoDB, Spring 6, sPRING bOOT 3, Django 4, FastAPI, Flask, RabbitMQ     |
 | *System Design*  | Microservices, Test-Driven Design, Event-Driven Architecture, Domain-Driven Design, Message Passing, Event Sourcing, Distributed Task Processing    |   
-| *Testing & QA*  | Manual Testing, Unit Testing, Jest, JUnit, Mockito, Postman, Insomnia |   
+| *Testing & QA*   | Manual Testing, Unit Testing, Jest, JUnit, Mockito, Postman, Insomnia |   
 | *DevOps*         | Docker, CI/CD, AWS, Azure, GCP, Heroku, Netlify                |
+| *AI & NLP*       | OpenAI, Generative AI, Web Speech API                |
 | *Agile*          | Scrum, Sprint, Stand-Ups, User Stories, Pull/Merge Request Workflows, Trello, Jira                                                  |
 ------------------------------------
 
