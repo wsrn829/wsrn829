@@ -40,7 +40,7 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 ------------------------------------
 
 *Handy Officials Docs:*\
-[React](https://react.dev/)   [Redux Toolkit](https://redux-toolkit.js.org/introduction/getting-started)   [MDN](https://developer.mozilla.org/en-US/)   [Python](https://docs.python.org/3.12/tutorial/index.html)   [Django](https://docs.djangoproject.com/en/4.2/ref/settings/)   [Bootstrap](https://getbootstrap.com/)   [TailwindCSS](https://tailwindcss.com/)
+[React](https://react.dev/)  [Redux](https://redux.js.org/introduction/getting-started) [Redux Toolkit](https://redux-toolkit.js.org/introduction/getting-started)   [MDN](https://developer.mozilla.org/en-US/)   [Python](https://docs.python.org/3.12/tutorial/index.html)   [Django](https://docs.djangoproject.com/en/4.2/ref/settings/)   [Bootstrap](https://getbootstrap.com/)   [TailwindCSS](https://tailwindcss.com/)
 
 ------------------------------------
 | Django-React-Axios-REST-Framework | Redux |
