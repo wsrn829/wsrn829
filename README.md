@@ -30,12 +30,13 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
   
 |   |*Technical Skills*                                                                                      |
 |:---------------- |:-------------------------------------------------------------------------------------------------------------- |
-| *Languages*      | Java, Python 3, JavaScript ES6+, SQL, HTML5, CSS3
-| *Frontend*       | React, Redux Toolkit, DOM Manipulation, WebSockets, Tailwind CSS, Bootstrap       |
-| *Backend*        | Spring, Django 4, FastAPI, Flask, REST, Token-Based Authentication, PostgreSQL, MongoDB, RabbitMQ     |
-| *System Design*  | Microservices, Domain-Driven Design, Message Passing, Event Sourcing, Distributed Task Processing    |   
-| *DevOps*         | Docker, CI/CD, Unit Testing, Heroku, Netlify, DigitalOcean, AWS                |
-| *Agile*          | Scrum, Sprint, Daily Stand-Ups, User Stories, Pull/Merge Request Workflows, Trello, Jira                                                  |
+| *Languages*      | JavaScript ES6+, TypeScript, SQL, Java 17, Python 3, HTML5, CSS3
+| *Frontend*       | React, React Native, Redux, Redux Toolkit, DOM Manipulation, WebSockets, Tailwind CSS, Bootstrap 5       |
+| *Backend*        | REST APIs, PostgreSQL, MySQL, MongoDB, Spring 6, sPRING bOOT 3, Django 4, FastAPI, Flask, RabbitMQ     |
+| *System Design*  | Microservices, Test-Driven Design, Event-Driven Architecture, Domain-Driven Design, Message Passing, Event Sourcing, Distributed Task Processing    |   
+| *Testing & QA*  | Manual Testing, Unit Testing, Jest, JUnit, Mockito, Postman, Insomnia |   
+| *DevOps*         | Docker, CI/CD, AWS, Azure, GCP, Heroku, Netlify                |
+| *Agile*          | Scrum, Sprint, Stand-Ups, User Stories, Pull/Merge Request Workflows, Trello, Jira                                                  |
 ------------------------------------
 
 *Handy Officials Docs:*\
