@@ -25,6 +25,8 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - "Good memory doesn't make a good developer; good understanding does."
 
 - <img src="https://github.com/wsrn829/wsrn829/assets/67284951/054f63e4-82b1-4c0d-81ca-41b5e733024d" width="250px">
+- What I'm doing today...Excited to visit the Pfizer team next week and learn more! :) ![Screenshot 2024-12-06 102626](https://github.com/user-attachments/assets/f4508a0c-5b82-4a68-a739-133d844392b5)
+
 
 ------------------------------------
   
