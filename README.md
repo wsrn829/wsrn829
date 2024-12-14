@@ -6,7 +6,7 @@ Full Stack Software Engineer
 
 As a dedicated Full-Stack Software Engineer with over 1000 hours of hands-on training in Agile environments, I bring expertise spanning the entire software development lifecycle, from planning to implementation. Proficient in CI/CD processes, I specialize in ensuring smooth software deployments. Thriving in cross-functional teams, I foster collaborative problem-solving to guarantee the timely delivery of high-quality software solutions. Leveraging my background in social science research, I instill a user-centric approach, emphasizing the broader impact of development decisions. *Let's work together to bring your ideas to life!*
 
-My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building responsive user interfaces with JavaScript, React, and Redux Toolkit, and secure server-side architectures with Java, Spring, Python, Django, FastAPI, and Flask. My proficiency extends to working with both SQL and NoSQL databases, ensuring efficient data management and retrieval. I have successfully implemented CI/CD for projects, incorporating database migrations, environment variable configuration, and extensive debugging to ensure continuous delivery. *Thriving at the forefront of innovation, I am a growth-driven developer, propelled by an insatiable desire for knowledge and an unwavering commitment to excellence.*
+My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building responsive user interfaces with React, JavaScript, TypeScript, and Redux (Toolkit), and secure server-side architectures with Python, Django, FastAPI, Flask, Java, and Spring. My proficiency extends to working with both SQL and NoSQL databases, ensuring efficient data management and retrieval. I have successfully implemented CI/CD for projects, incorporating database migrations, environment variable configuration, and extensive debugging to ensure continuous delivery. *Thriving at the forefront of innovation, I am a growth-driven developer, propelled by an insatiable desire for knowledge and an unwavering commitment to excellence.*
 
 - 🧠  I recently obtained the Harvard Professional Certificate in Computer Science for Web Programming. [Official Credential Link](https://credentials.edx.org/credentials/c2baa87dfd594781be286140430f59a1)
 - 🧠  I enjoy solving complex problems and learning new technologies. My industries include Technology (with expertise in Software Development, Application Development, and Cloud Computing), as well as Pharmaceutical and Healthcare.
@@ -37,8 +37,8 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 | *Backend*        | REST APIs, PostgreSQL, MySQL, MongoDB, Spring 6, Spring Boot 3, Django 4, FastAPI, Flask, RabbitMQ     |
 | *System Design*  | Microservices, Test-Driven Design, Event-Driven Architecture, Domain-Driven Design, Message Passing, Event Sourcing, Distributed Task Processing    |   
 | *Testing & QA*   | Manual Testing, Unit Testing, Jest, JUnit, Mockito, Postman, Insomnia |   
-| *DevOps*         | Docker, CI/CD, AWS, Azure, GCP, Heroku, Netlify                |
-| *AI & NLP*       | OpenAI, Generative AI, Web Speech API                |
+| *DevOps*         | Docker, CI/CD, AWS (RDS, EC2, S3, Lambda), Azure, GCP, Heroku, Netlify                |
+| *AI & NLP*       | Generative AI, OpenAI, Web Speech API                |
 | *Agile*          | Scrum, Sprint, Stand-Ups, User Stories, Pull/Merge Request Workflows, Trello, Jira                                                  |
 ------------------------------------
 
