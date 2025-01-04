@@ -23,7 +23,7 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - You probably cannot see this, but I'm still grateful for your quick response on the second day of my "graduation" and within minutes of my online application, among hundreds of other applicants. In return for your appreciation, I've decided to invest a substantial amount of energy in learning SwiftUI. :p
 - Once again, I'm excited that I deployed my whole new full-stack app (including the backend, database, frontend) within a few hours while listening to music the entire time, LOL.
 - "Good memory doesn't make a good developer; good understanding does."
-
+- "Having been taught so many times that JS is gradually being replaced by TS because the former is dynamically typed, I suddenly wonder why Python, which is also dynamically typed, isn’t being replaced by languages such as Java lol" Oh, I miss everyone I've ever co-coded with..
 - <img src="https://github.com/wsrn829/wsrn829/assets/67284951/054f63e4-82b1-4c0d-81ca-41b5e733024d" width="250px">
 - What I'm doing today...Excited to visit the Pfizer team next week and learn more! :) ![Screenshot 2024-12-06 102626](https://github.com/user-attachments/assets/f4508a0c-5b82-4a68-a739-133d844392b5)
 
