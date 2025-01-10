@@ -26,7 +26,7 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - "Having been taught so many times that JS is gradually being replaced by TS because the former is dynamically typed, I suddenly wonder why Python, which is also dynamically typed, isn’t being replaced by languages such as Java lol" Oh, I miss everyone I've ever co-coded with..
 - I truly appreciate someone who gave me the exciting opportunity to implement a stretch goal feature, which is directly related to the industry project I’m working on right now. 😊
 - <img src="https://github.com/wsrn829/wsrn829/assets/67284951/054f63e4-82b1-4c0d-81ca-41b5e733024d" width="250px">
-- What I'm doing today...Excited to visit the Pfizer team next week and learn more! :) ![Screenshot 2024-12-06 102626](https://github.com/user-attachments/assets/f4508a0c-5b82-4a68-a739-133d844392b5)
+- What I'm doing today...Excited to visit our Dev team next week and learn more! :) ![Screenshot 2024-12-06 102626](https://github.com/user-attachments/assets/f4508a0c-5b82-4a68-a739-133d844392b5)
 - The happiest thing in my life is the ability to learn different things from different people. I love talking to people and always learn something new with every conversation. :)
 - I’d be satisfied if I could be as comfortable coding as I'm posting. Keep it up, S. lol. 
 
