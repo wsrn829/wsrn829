@@ -30,6 +30,7 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - What I'm doing today...Excited to visit our Dev team next week and learn more! :) ![Screenshot 2024-12-06 102626](https://github.com/user-attachments/assets/f4508a0c-5b82-4a68-a739-133d844392b5)
 - The happiest thing in my life is the ability to learn different things from different people. I love talking to people and always learn something new with every conversation. :)
 - I’d be satisfied if I could be as comfortable coding as I'm posting. Keep it up, S. lol.
+- Having used JavaScript so heavily recently, I feel it would be a waste of energy not to take the opportunity to learn Node.js, which will undoubtedly enhance my JavaScript skills in return.
 - I'm glad I finally get to work on the APIs.
 
 ------------------------------------
