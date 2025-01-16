@@ -27,7 +27,8 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - I truly appreciate someone who gave me the exciting opportunity to implement a stretch goal feature, which is directly related to the industry project I’m working on right now. 😊
 - Invited by the editor of a prestigious journal in my PhD field to review a manuscript & felt deeply honored. Thank you for remembering me. :)
 - One Node.js expert promised to help me out if I ever ran into trouble. Now I feel safe, even while doing all the work myself - *that's* the beauty of a Promise (in React).
-- "If you don't know what you want, knowing what you don't want is still a step forward." 
+- "If you don't know what you want, knowing what you don't want is still a step forward."
+- I don't know if it's my favorite, but I've definitely spent plenty of time on it: I refactored it from an old monolith to a microservices architecture, then later transformed it into a new monolith (after deploying the microservices). Throughout this journey, I used it to practice deployment, CI/CD, authentication, database interactions, polling, Bootstrap, and more, while performing extensive debugging which significantly improved my proficiency with Django. Now, my next goal is to convert the Django backend into an Express/Node.js backend for seamless integration with the JavaScript/React frontend. I'm so excited about it. :)
 - <img src="https://github.com/wsrn829/wsrn829/assets/67284951/054f63e4-82b1-4c0d-81ca-41b5e733024d" width="250px">
 - What I'm doing today...Excited to visit our Dev team next week and learn more! :) ![Screenshot 2024-12-06 102626](https://github.com/user-attachments/assets/f4508a0c-5b82-4a68-a739-133d844392b5)
 - The happiest thing in my life is the ability to learn different things from different people. I love talking to people and always learn something new with every conversation. :)
