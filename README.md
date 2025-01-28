@@ -34,6 +34,7 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - The happiest thing in my life is the ability to learn different things from different people. I love talking to people and always learn something new with every conversation. :)
 - I’d be satisfied if I could be as comfortable coding as I'm posting. Keep it up, S. lol.
 - Having used JavaScript so heavily recently, I feel it would be a waste of energy not to take the opportunity to learn Node.js, which will undoubtedly enhance my JavaScript skills in return.
+- While Node.js doesn't come with built-in authentication like Django, it's undoubtedly one of the easiest environments to set up WebSockets thanks to libraries like ws. :p
 - I'm glad I finally get to work on the APIs.
 
 ------------------------------------
