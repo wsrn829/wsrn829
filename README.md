@@ -40,6 +40,7 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - Haven't worked with SQL for a while, surprised that I still remember the commands well..:)
 - I love my job because it makes me happy. And by 'happy,' I mean debugging for hours but still thinking, 'Wow, I get paid for *this*' 😍😊
 - Snow Day = Work Day (cause cannot go out :p)
+- Busy refreshing my Python&AWS memory these days..
 
 ------------------------------------
   
