@@ -41,6 +41,9 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - I love my job because it makes me happy. And by 'happy,' I mean debugging for hours but still thinking, 'Wow, I get paid for *this*' 😍😊
 - Snow Day = Work Day (cause cannot go out :p)
 - Busy refreshing my Python&AWS memory these days..
+- Snow day again, scrolling through this book...for fun. (Someone sent it to me in March or April 2023, I guess?)
+<img width="500" alt="python" src="https://github.com/user-attachments/assets/e45e2535-1200-4b29-b94c-6e470c8182ae" />
+
 
 ------------------------------------
   
