@@ -42,7 +42,8 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - Snow Day = Work Day (cause cannot go out :p)
 - Busy refreshing my Python&AWS memory these days..
 - Snow day again, scrolling through this book...for fun. (Someone sent it to me in March or April 2023, I guess?)
-<img width="500" alt="python" src="https://github.com/user-attachments/assets/e45e2535-1200-4b29-b94c-6e470c8182ae" />
+  <img width="500" alt="python25" src="https://github.com/user-attachments/assets/c733fbdf-dc63-491f-ae1e-e2f364341246" />
+
 
 
 ------------------------------------
