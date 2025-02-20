@@ -37,6 +37,7 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - Having used JavaScript so heavily recently, I feel it would be a waste of energy not to take the opportunity to learn Node.js, which will undoubtedly enhance my JavaScript skills in return.
 - While Node.js doesn't come with built-in authentication like Django, it's undoubtedly one of the easiest environments to set up WebSockets thanks to libraries like ws. :p
 - I'm glad I finally get to work on the APIs.
+- Trying to do password encryption in 10 min...Wish me luck :P 
 - Haven't worked with SQL for a while, surprised that I still remember the commands well..:)
 - I love my job because it makes me happy. And by 'happy,' I mean debugging for hours but still thinking, 'Wow, I get paid for *this*' 😍😊
 - Snow Day = Work Day (cause cannot go out :p)
