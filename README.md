@@ -41,6 +41,7 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - Trying to do password encryption in 10 min...Wish me luck :P 
 - Haven't worked with SQL for a while, surprised that I still remember the commands well..:)
 - I love my job because it makes me happy. And by 'happy,' I mean debugging for hours but still thinking, 'Wow, I get paid for *this*' 😍😊
+- When your “hobby” of collecting certificates aligns perfectly with your job’s requirement 👀
 - Snow Day = Work Day (cause cannot go out :p)
 - Busy refreshing my Python&AWS memory these days..
 - Snow day again, scrolling through this book...for fun. (Someone sent it to me in March or April 2023, I guess?)
