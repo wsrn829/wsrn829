@@ -49,8 +49,7 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - <img width="500" alt="aws" src="https://github.com/user-attachments/assets/f9212e6c-f8c7-4945-a96b-a1273e4cc099" />
 - I've been studying elsewhere recently (while on leave). Although I've been primarily preparing for AWS, I found out that I need to pass the Microsoft AZ-900 exam before I can take my AWS exam (bc my employer has already paid for it). Here it is - I got my first cloud certificate (after sitting for a timed, proctored exam today). Onward to the next. :)
 - <img width="500" alt="AZ 900" src="https://github.com/user-attachments/assets/7104bd5d-18a5-4652-a784-d7ba9c0d3bb2" />
-
-
+- Passed two proctored exams in three days...😵‍💫 Microsoft AZ900 (on Friday) and AWS Certified Cloud Practitioner (on Sunday)😅 Onward to the next. :)  
 
 ------------------------------------
   
