@@ -10,16 +10,12 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 
 - 🧠  I recently obtained the Harvard Professional Certificate in Computer Science for Web Programming. [Official Credential Link](https://credentials.edx.org/credentials/c2baa87dfd594781be286140430f59a1)
 - 🧠  I enjoy solving complex problems and learning new technologies. My industries include Technology (with expertise in Software Development, Application Development, and Cloud Computing), as well as Pharmaceutical and Healthcare.
-- 🧠  Today marks the official end of our Java-SQL-React Full Stack training track. Words cannot express how much I enjoyed and learned during this training. This has been a crucial milestone in my growth as a Full Stack Software Engineer. I am deeply grateful for my cohort and the journey we've shared together. I love you, folks. :) 
-![Survey](https://github.com/user-attachments/assets/5cf0a4f0-1fb4-43c7-b200-710bbd08eb65)
-![SarinaJavaJourney](https://github.com/user-attachments/assets/abc734ac-ffea-46f4-987f-9f22bec25074)
-
+- 🧠  Today marks the official end of our Java-SQL-React Full Stack training track. Words cannot express how much I enjoyed and learned during this training. This has been a crucial milestone in my growth as a Full Stack Software Engineer. I am deeply grateful for my cohort and the journey we've shared together. I love you, folks. :)
+- <img width="1000" src="https://github.com/user-attachments/assets/5cf0a4f0-1fb4-43c7-b200-710bbd08eb65" />
+- <img width="1000" src="https://github.com/user-attachments/assets/abc734ac-ffea-46f4-987f-9f22bec25074" />
 - Was demoing my voice-assisted AI chatbot during our final project presentation, thinking maybe only I could hear the WebSpeechAPI's response, but it turned out my headset wasn't very soundproof & everyone else in the virtual meeting heard it too, LOL. BTW, I plan to implement more complex voice-assisted features in my future projects to address accessibility issues, which I think is really cool too. :)
-  ![WebSpeech](https://github.com/user-attachments/assets/853ab77c-f80f-4aee-a843-39811232c713)
-
-
-  ![image](https://github.com/user-attachments/assets/c8cd9baf-9fdc-4b57-b3eb-98e65714cfca)
-
+- <img width="500" src="https://github.com/user-attachments/assets/853ab77c-f80f-4aee-a843-39811232c713" />
+- <img width="1000" src="https://github.com/user-attachments/assets/c8cd9baf-9fdc-4b57-b3eb-98e65714cfca" />
 - You probably cannot see this, but I'm still grateful for your quick response on the second day of my "graduation" and within minutes of my online application, among hundreds of other applicants. In return for your appreciation, I've decided to invest a substantial amount of energy in learning SwiftUI. :p
 - Finally started having fun debugging my MaterialReactTable..
 - Once again, I'm excited that I deployed my whole new full-stack app (including the backend, database, frontend) within a few hours while listening to music the entire time, LOL.
@@ -31,8 +27,9 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - One Node.js expert promised to help me out if I ever ran into trouble. Now I feel safe, even while doing all the work myself - *that's* the beauty of a Promise (in React).
 - "If you don't know what you want, knowing what you don't want is still a step forward."
 - I don't know if it's my favorite, but I've definitely spent plenty of time on it: I refactored it from an old monolith to a microservices architecture, then later transformed it into a new monolith (after deploying the microservices). Throughout this journey, I used it to practice deployment, CI/CD, authentication, database interactions, polling, Bootstrap, and more, while performing extensive debugging which significantly improved my proficiency with Django. Now, my next goal is to convert the Django backend into an Express/Node.js backend for seamless integration with the JavaScript/React frontend. I'm so excited about it. (Oh, I immediately realized I probably underestimated the difficulty of this refactor. Django offers so many built-in features that make everything so convenient and "effortless." I still miss Django — I wish I had spent more time using it.)
-- <img src="https://github.com/wsrn829/wsrn829/assets/67284951/054f63e4-82b1-4c0d-81ca-41b5e733024d" width="250px">
-- What I'm doing today...Excited to visit our Dev team next week and learn more! :) ![Screenshot 2024-12-06 102626](https://github.com/user-attachments/assets/f4508a0c-5b82-4a68-a739-133d844392b5)
+- <img width="500" src="https://github.com/wsrn829/wsrn829/assets/67284951/054f63e4-82b1-4c0d-81ca-41b5e733024d" width="250px">
+- What I'm doing today...Excited to visit our Dev team next week and learn more! :)
+- <img width="500" alt="pharma" src="https://github.com/user-attachments/assets/f4508a0c-5b82-4a68-a739-133d844392b5" />
 - The happiest thing in my life is the ability to learn different things from different people. I love talking to people and always learn something new with every conversation. :)
 - I’d be satisfied if I could be as comfortable coding as I'm posting. Keep it up, S. lol.
 - Having used JavaScript so heavily recently, I feel it would be a waste of energy not to take the opportunity to learn Node.js, which will undoubtedly enhance my JavaScript skills in return.
