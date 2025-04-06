@@ -49,7 +49,10 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - Passed two proctored exams in three days...😵‍💫 Microsoft AZ900 (on Friday) and AWS Certified Cloud Practitioner (on Sunday)😅 Onward to the next. :)
 - <img width="500" alt="AWS_CCP" src="https://github.com/user-attachments/assets/afbbfea4-c842-434d-b8cc-8c61bf5b7ea7" />
 - The next one won’t be too soon bc I’m still working as a Full-Stack Developer in the industry (with very limited spare time). I truly appreciate the opportunity to work with AWS on the job though 🙂
-- First time opening our team's AWS console after returning from leave—and surprised to realize that I now understand exactly what every part is doing...Used to look at this console every single day and feel like I wasn’t really *seeing* anything. Funny how much difference focused learning makes! 😆 (Next goal: AWS Certified Solutions Architect – Associate, so I can not only understand each part but also design and optimize it. 🚀☁️) 
+- First time opening our team's AWS console after returning from leave—and surprised to realize that I now understand exactly what every part is doing...Used to look at this console every single day and feel like I wasn’t really *seeing* anything. Funny how much difference focused learning makes! 😆 (Next goal: AWS Certified Solutions Architect – Associate, so I can not only understand each part but also design and optimize it. 🚀☁️)
+- I love AI :)
+- <img width="500" alt="AI" src="https://github.com/user-attachments/assets/081fa456-f95d-42de-9b58-751cf2cca6da" />
+
 
 ------------------------------------
   
