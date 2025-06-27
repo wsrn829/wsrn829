@@ -113,8 +113,10 @@ Below are some of my solutions:
 [Article 2](https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react)
 
 * Backend is deployed on Heroku. Frontend is deployed on Netlify. I need to connect them and make them fully functioning.
-  <img width="550" alt="1" src="https://github.com/wsrn829/wsrn829/assets/67284951/2eaa3f2e-2bb5-4b37-81b6-884745b4bb4b">
-  <img width="550" alt="2" src="https://github.com/wsrn829/wsrn829/assets/67284951/f2990741-8174-45c3-8de7-6cdaf70f76f6">
+
+   <img width="550" alt="1" src="https://github.com/wsrn829/wsrn829/assets/67284951/2eaa3f2e-2bb5-4b37-81b6-884745b4bb4b">
+  
+   <img width="550" alt="2" src="https://github.com/wsrn829/wsrn829/assets/67284951/f2990741-8174-45c3-8de7-6cdaf70f76f6">
 * I'm thrilled to incorporate my [Deployed Car Dealership App](https://dealerdashboard.netlify.app/) into my resume, even as the project continues to evolve.
     
 * 🌸 Configuring CI/CD for full-stack apps, which includes setting up front-end and back-end deployment pipelines, managing database migrations, handling environment variables, and numerous debugging, has been quite a challenge. However, the rewarding outcomes make the entire effort absolutely worthwhile! 🌸
