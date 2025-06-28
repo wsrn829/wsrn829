@@ -52,7 +52,8 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - First time opening our team's AWS console after returning from leave—and surprised to realize that I now understand exactly what every part is doing...Used to look at this console every single day and feel like I wasn’t really *seeing* anything. Funny how much difference focused learning makes! 😆 (Next goal: AWS Certified Solutions Architect – Associate, so I can not only understand each part but also design and optimize it. 🚀☁️)
 - I love AI :)
 - <img width="500" alt="AI" src="https://github.com/user-attachments/assets/081fa456-f95d-42de-9b58-751cf2cca6da" />
-
+- Just a dev, her iPad, and a stack of cloud functions..😌☁️💻
+- <img width="500" alt="Cloud" src="https://github.com/user-attachments/assets/d246e59c-a9f4-46e2-9a9c-b074b5c64075" />
 
 ------------------------------------
   
