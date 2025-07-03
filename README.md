@@ -59,6 +59,10 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - AI said I am correct, folks 🙂
 
   <img width="500" alt="Lambda" src="https://github.com/user-attachments/assets/659ca332-123a-4861-bd19-1f0e983bebc8" />
+- Going to bed feeling a teeny tiny bit smarter than I was this morning...🤣 Progress. 
+
+  <img width="500" alt="Props" src="https://github.com/user-attachments/assets/8ac34ba7-6cea-46e5-9a02-7c5b135d8dcc" />
+
 
 
 ------------------------------------
