@@ -54,8 +54,12 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - <img width="500" alt="AI" src="https://github.com/user-attachments/assets/081fa456-f95d-42de-9b58-751cf2cca6da" />
 - Just a dev, her iPad, and a stack of cloud functions..😌☁️💻
 - <img width="500" alt="Cloud" src="https://github.com/user-attachments/assets/d246e59c-a9f4-46e2-9a9c-b074b5c64075" />
-- Arrived at the office before 7 and left after 5 today. Swiped twice, pulled twice-nothing. Just as I was about to push the door open, a colleague on a phone call right behind me said, “There’s a button…” 😵‍💫 BTW, is that a new button?? Because I swear I’ve left this building before..🫣
+- Arrived at the office before 7 and left after 5 today. Swiped twice, pulled twice - nothing. Just as I was about to push the door open, a colleague on a phone call right behind me said, “There’s a button…” 😵‍💫 BTW, is that a new button?? Because I swear I’ve left this building before..🫣
 - Can you believe that if you keep wondering why you’re not seeing someone in the office anymore, they’ll reach out to you out of the blue? 😅
+- AI said I am correct, folks 🙂
+
+  <img width="500" alt="Lambda" src="https://github.com/user-attachments/assets/659ca332-123a-4861-bd19-1f0e983bebc8" />
+
 
 ------------------------------------
   
