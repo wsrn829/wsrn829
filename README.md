@@ -64,6 +64,8 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
   <img width="500" alt="Props" src="https://github.com/user-attachments/assets/8ac34ba7-6cea-46e5-9a02-7c5b135d8dcc" />
 - Marking a first: all my assigned tasks today are backend.
 - Had a meeting with two of the best on my team this Independence Day morning, and I feel truly grateful and fulfilled..🎆 *Learn from the best.* 😄
+- Had a surprisingly peaceful day styling… but from the backend 😎
+Whenever I got bored fiddling with CSS, I just switched over to Python to do the same thing — from the server side. Gotta love the full-stack flexibility 😌✨
 
 
 ------------------------------------
