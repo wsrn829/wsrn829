@@ -66,6 +66,10 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - Had a meeting with two of the best on my team this Independence Day morning, and I feel truly grateful and fulfilled..🎆 *Learn from the best.* 😄
 - Had a surprisingly peaceful day styling… but from the backend 😎
 Whenever I got bored fiddling with CSS, I just switched over to Python to do the same thing — from the server side. Gotta love the full-stack flexibility 😌✨
+- Actually starting to enjoy this whole "document automation" thing after a few days. Only thing is, I've been stress-testing my Lambda from the frontend way too many times, and low-key worried that I might exceed the free tier limit ⬇️😜
+  <img width="500" src="https://github.com/user-attachments/assets/995fef25-20a6-4f12-9aa6-1865067b507f" />
+  <img width="500" src="https://github.com/user-attachments/assets/b33c9938-b0b3-4e93-b845-ad2916c32303" />
+
 
 
 ------------------------------------
