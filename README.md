@@ -69,8 +69,7 @@ Whenever I got bored fiddling with CSS, I just switched over to Python to do the
 - Actually starting to enjoy this whole "document automation" thing after a few days. Only thing is, I've been stress-testing my Lambda from the frontend way too many times, and low-key worried that I might exceed the free tier limit ⬇️😜
   <img width="500" src="https://github.com/user-attachments/assets/995fef25-20a6-4f12-9aa6-1865067b507f" />
   <img width="500" src="https://github.com/user-attachments/assets/b33c9938-b0b3-4e93-b845-ad2916c32303" />
-
-
+- Do you think someone who talks all the time could really be friends with someone who posts all the time? Probably not. Because the one who talks non-stop doesn’t even post, and the one who posts non-stop doesn’t even talk.
 
 ------------------------------------
   
