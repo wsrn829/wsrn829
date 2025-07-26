@@ -72,6 +72,7 @@ Whenever I got bored fiddling with CSS, I just switched over to Python to do the
 - Do you think someone who talks all the time could really be friends with someone who posts all the time? Probably not. Because the one who talks non-stop doesn’t even post, and the one who posts non-stop doesn’t even talk.
 - I took some pride in updating the task tracker with ‘All styling was done in Python’ during our standup today.
 - 😏 DSA again. Guess what language I’m using rn? 😌
+- Have been studying the whole day, and *finally*—suddenly—understood what Generics means..😎
 
 ------------------------------------
   
