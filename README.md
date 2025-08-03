@@ -75,6 +75,10 @@ Whenever I got bored fiddling with CSS, I just switched over to Python to do the
 - Have been studying the whole day, and *finally*—suddenly—understood what Generics means..😎
 - The recent dilemma: I really like pools… but I also really don’t want another sunburn.🙈 Remembering a time when I was floating in the pool down south while it was raining so heavily — the raindrops were so warm on me though.🌦️🙂
 - There’s something oddly comforting about sitting by my monitor in the office 😌 Like it’s just me, my screen, and a little peace.
+- Not just a palette, but a mood board (with buttons). 🤫
+  
+  <img width="500" src="https://github.com/user-attachments/assets/0527d60c-cd1d-4881-a62f-2a6692ee0312" />
+
 
 ------------------------------------
   
