@@ -82,6 +82,7 @@ Whenever I got bored fiddling with CSS, I just switched over to Python to do the
 - Ask me anything (tech-related only though 😜)
 
   <img width="500" src="https://github.com/user-attachments/assets/62d08b47-f46c-4032-abf4-42d7ac377c27" />
+- Had a pretty peaceful week studying. 🥰✨
 
 
 ------------------------------------
