@@ -83,7 +83,8 @@ Whenever I got bored fiddling with CSS, I just switched over to Python to do the
 
   <img width="500" src="https://github.com/user-attachments/assets/62d08b47-f46c-4032-abf4-42d7ac377c27" />
 - Had a pretty peaceful week studying. 🥰✨
-
+- Just finished my BFF certification - I'll learn whatever I need to deliver the best for my clients. :)
+  <img width="500" height="794" alt="BFF" src="https://github.com/user-attachments/assets/0fdc75df-3ad7-4804-ab0a-6af80fb1ae36" />
 
 ------------------------------------
   
