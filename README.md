@@ -85,7 +85,7 @@ Whenever I got bored fiddling with CSS, I just switched over to Python to do the
 - Had a pretty peaceful week studying. 🥰✨
 - Just finished my BFF certification - I'll learn whatever I need to deliver the best for my clients. :)
   <img width="500" height="794" alt="BFF" src="https://github.com/user-attachments/assets/0fdc75df-3ad7-4804-ab0a-6af80fb1ae36" />
-
+- On my last finance cert before I go all in on Java + Spring 😎✨
 ------------------------------------
   
 |   |*Technical Skills*                                                                                      |
