@@ -89,7 +89,7 @@ Whenever I got bored fiddling with CSS, I just switched over to Python to do the
 - Here it is. ⬇️
   
   <img width="500" height="760" alt="BMC" src="https://github.com/user-attachments/assets/157acb00-3139-4a57-a884-c4fdb956a428" />
-
+- Can’t believe it’s been a year since I got my offer letter — still the best birthday gift ever 🥰✨ I’ve had such a great time in the Hub, and I’ll always look back on this part of my journey with a smile ❤️
   
 ------------------------------------
   
