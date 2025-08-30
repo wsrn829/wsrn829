@@ -22,6 +22,8 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - "Good memory doesn't make a good developer; good understanding does."
 - "Having been taught so many times that JS is gradually being replaced by TS because the former is dynamically typed, I suddenly wonder why Python, which is also dynamically typed, isn’t being replaced by languages such as Java lol" Oh, I miss everyone I've ever co-coded with..
 - I may not remember all their faces, but I remember many of their voices. Q&A sessions (whether formal or informal) were my favorite lol (Oh I remember many of the questions too..)
+- I truly appreciate those who shared their wisdom with me when I was just starting out on my own, saving me countless detours and precious time. Please rest assured, I have a pretty good memory. 😜
+  <img width="500" src="https://github.com/user-attachments/assets/7c4a758e-9598-4dc2-8fe1-64ccf69a174f" />
 - I truly appreciate someone who gave me the exciting opportunity to implement a stretch goal feature, which is directly related to the industry project I’m working on right now. 😊
 - Invited by the editor of a prestigious journal in my PhD field to review a manuscript & felt deeply honored. Thank you for remembering me. :)
 - One Node.js expert promised to help me out if I ever ran into trouble. Now I feel safe, even while doing all the work myself - *that's* the beauty of a Promise (in React).
