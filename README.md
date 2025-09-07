@@ -99,7 +99,7 @@ Whenever I got bored fiddling with CSS, I just switched over to Python to do the
 |   |*Technical Skills*                                                                                      |
 |:---------------- |:-------------------------------------------------------------------------------------------------------------- |
 | *Full-Stack Development* | Java (11&17), Spring (Boot, MVC, Data, Security), Python, Django, TypeScript, React, Redux, SQL, PostgreSQL, MongoDB, HTML5, CSS3, AWS |
-| *Generative AI & Document Automation* | Generative AI, LLM prompt engineering, Python-docx, Base64 encoding |
+| *Generative AI & Document Automation* | Generative AI, LLM prompt engineering, Python-docx, Docx generation & merging (Word document automation), Base64 encoding |
 | *Cloud & DevOps* | AWS (Lambda, API Gateway, S3, CloudWatch, Elastic Beanstalk), Docker |
 | *Security & Authentication* | AES encryption/decryption, CryptoJS, JWT Authentication |   
 | *SDLC (Agile & Waterfall)* | Scrum, Sprint, Standups, User stories, Pull/Merge Request Workflows, Trello, Jira |   
