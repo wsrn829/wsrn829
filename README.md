@@ -93,6 +93,7 @@ Whenever I got bored fiddling with CSS, I just switched over to Python to do the
   <img width="500" height="760" alt="BMC" src="https://github.com/user-attachments/assets/157acb00-3139-4a57-a884-c4fdb956a428" />
 - Can’t believe it’s been a year since I got my offer letter — still the best birthday gift ever 🥰✨ I’ve had such a great time learning and growing in the Hub, and I’ll always look back on this chapter of my journey with a smile ❤️
 - Excited to finally catch up with someone I hadn’t seen in months - just like when I kept wondering where they’d gone and they suddenly popped up on Teams lol.
+- Can you believe I’ve been walking past mac&cheese in the store for so long, and only just realized it’s actually one of my favorites? 🧀✨😍
   
 ------------------------------------
   
