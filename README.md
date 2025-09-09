@@ -94,10 +94,12 @@ Whenever I got bored fiddling with CSS, I just switched over to Python to do the
 - Can’t believe it’s been a year since I got my offer letter — still the best birthday gift ever 🥰✨ I’ve had such a great time learning and growing in the Hub, and I’ll always look back on this chapter of my journey with a smile ❤️
 - Excited to finally catch up with someone I hadn’t seen in months - just like when I kept wondering where they’d gone and they suddenly popped up on Teams lol.
 - Can you believe I’ve been walking past mac&cheese in the store for so long, and only just realized it’s actually one of my favorites? 🧀✨😍
+- Had a pretty busy day today — first time meeting our dev team. A brand new project with no legacy code for me to read. Should I be excited..or nervous？🤪 
+
   
 ------------------------------------
   
-|   |*Technical Skills*                                                                                      |
+|   |*Technical Skills*                                                                                    |
 |:---------------- |:-------------------------------------------------------------------------------------------------------------- |
 | *Full-Stack Development* | Java (11&17), Spring (Boot, MVC, Data, Security), Python, Django, TypeScript, React, Redux, SQL, PostgreSQL, MongoDB, HTML5, CSS3, AWS |
 | *Generative AI & Document Automation* | Generative AI, LLM Prompt Engineering, Python-docx, Docx Generation & Merging, Base64 Encoding |
