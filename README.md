@@ -94,7 +94,11 @@ Whenever I got bored fiddling with CSS, I just switched over to Python to do the
 - Can’t believe it’s been a year since I got my offer letter — still the best birthday gift ever 🥰✨ I’ve had such a great time learning and growing in the Hub, and I’ll always look back on this chapter of my journey with a smile ❤️
 - Excited to finally catch up with someone I hadn’t seen in months - just like when I kept wondering where they’d gone and they suddenly popped up on Teams lol.
 - Can you believe I’ve been walking past mac&cheese in the store for so long, and only just realized it’s actually one of my favorites? 🧀✨😍
-- Had a pretty busy day today — first time meeting our dev team. A brand new project with no legacy code for me to read. Should I be excited..or nervous？🤪 
+- Had a pretty busy day today — first time meeting our dev team. A brand new project with no legacy code for me to read. Should I be excited..or nervous？🤪
+- Celebrating my ***work*** anniversary today 🙏❤️🥰
+
+  <img width="500" src="https://github.com/user-attachments/assets/c9d1224b-8e6c-499b-a15c-984e2afed1f9" />
+ 
 
   
 ------------------------------------
