@@ -99,6 +99,10 @@ Whenever I got bored fiddling with CSS, I just switched over to Python to do the
 
   <img width="500" src="https://github.com/user-attachments/assets/c9d1224b-8e6c-499b-a15c-984e2afed1f9" />
  
+- Missed a stop and found myself at MIT —didn’t realize they had a subway station right on campus lol..
+
+  <img width="500" src="https://github.com/user-attachments/assets/efcfb58c-47c0-402c-b529-ef92861e0008" />
+
 
   
 ------------------------------------
