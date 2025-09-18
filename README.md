@@ -103,7 +103,7 @@ Whenever I got bored fiddling with CSS, I just switched over to Python to do the
 
   <img width="500" src="https://github.com/user-attachments/assets/efcfb58c-47c0-402c-b529-ef92861e0008" />
 
-
+- Just two days after receiving GitHub access, I deployed to enterprise production — going through the full workflow of code changes, testing, pull requests, reviews, builds, and multi-layer approvals. Currently preparing for my second deployment — can't wait to contribute more. :) 
   
 ------------------------------------
   
