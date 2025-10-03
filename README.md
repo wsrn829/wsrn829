@@ -105,6 +105,10 @@ Whenever I got bored fiddling with CSS, I just switched over to Python to do the
 
 - Just two days after receiving GitHub access, I deployed to the enterprise UAT environment, after going through the full workflow of code changes, testing, pull requests, reviews, builds, and multi-layer approvals. Currently preparing for my second deployment — can't wait to contribute more. :)
 - <img width="500" src="https://github.com/user-attachments/assets/16d43f66-04a2-4aa3-96d9-0ec878176069" />
+- Every time I miss a stop, I don't realize I missed a stop until I'm at MIT...second time already 🙈😎✨
+  
+  <img width="500" src="https://github.com/user-attachments/assets/64ebe764-9921-43bb-9222-0dc8f3a89e91" />
+
 
   
 ------------------------------------
