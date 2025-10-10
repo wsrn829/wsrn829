@@ -18,6 +18,8 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - <img width="1000" src="https://github.com/user-attachments/assets/c8cd9baf-9fdc-4b57-b3eb-98e65714cfca" />
 - You probably cannot see this, but I'm still grateful for your quick response on the second day of my "graduation" and within minutes of my online application, among hundreds of other applicants. In return for your appreciation, I've decided to invest a substantial amount of energy in learning SwiftUI. :p
 - "I was impressed by how patient XXX was when helping other teammates, which allowed me to focus on the stretch goal features. As a result, our team managed to deliver not only the MVP but also the stretch goals." 🐣✨
+- Is there anything better than hearing “Your code looks good. You can build and deploy now.” in a code review?
+Can’t think of one rn..😌
 - Finally started having fun debugging my MaterialReactTable..
 - Once again, I'm excited that I deployed my whole new full-stack app (including the backend, database, frontend) within a few hours while listening to music the entire time, LOL.
 - "Good memory doesn't make a good developer; good understanding does."
