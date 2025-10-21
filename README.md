@@ -99,8 +99,9 @@ Whenever I got bored fiddling with CSS, I just switched over to Python to do the
 - Can you believe I’ve been walking past mac&cheese in the store for so long, and only just realized it’s actually one of my favorites? 🧀✨😍
 - Had a pretty busy day today — first time meeting our dev team. A brand new project with no legacy code for me to read. Should I be excited..or nervous？🤪
 - Celebrating my ***work*** anniversary today 🙏❤️🥰
-
-  <img width="500" src="https://github.com/user-attachments/assets/c9d1224b-8e6c-499b-a15c-984e2afed1f9" />
+- After several rounds of deployment to enterprise UAT (and Dev), I finally deployed to Production last Friday. Grateful for the opportunity to explore various enterprise environments - truly a great way to grow fast.. #Just realized I gotta wear sth with a collar at work (although I like the previous one more🤪)# ⬇️
+  
+  <img width="500" src="https://github.com/user-attachments/assets/f9fd9b09-248c-43c9-a8a6-b87bf41a927a" />
  
 - Missed a stop and found myself at MIT —didn’t realize they had a subway station right on campus lol..
 
