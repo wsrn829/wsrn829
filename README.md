@@ -114,7 +114,7 @@ Whenever I got bored fiddling with CSS, I just switched over to Python to do the
   <img width="500" src="https://github.com/user-attachments/assets/64ebe764-9921-43bb-9222-0dc8f3a89e91" />
 - Someone in the crowd asked, "How did you manage to start the process before we even got here?" The agent said, "She slipped in on the very first day - I actually saw her run all the way down here." 🐣✨ Sometimes I don't explain. I just move.
 - Can you believe one day I’d be working from morning to evening with Java?☕💻 Now it’s getting easier and easier to answer the question, “What do you do for a living?” — “Java.” 😌
-- Met people. Got a yoghurt from Keerthana. Purple.
+- POM.xml the whole night (?) - haha I love Maven more and more now..🥰😎
 
   
 ------------------------------------
