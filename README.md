@@ -120,7 +120,9 @@ But just a few days later, they started asking, “Did you forget your yogurt to
 (No, I didn’t - the flavor I like was just sold out.)
 They even began recommending brands to me, and this week one of them brought me the exact same yogurt when I wasn’t feeling well. 🤧
 See? When you stay true to your own little habits, people eventually accept-and even support-them.
-*Not that I care what anyone thinks - it’s just cute when it happens.😌*
+*Not that I care what anyone thinks - it’s just cute when it happens.* 😌
+- Plot twist ⬇️: right after sharing my yoghurt story, I went and ordered a whole salmon bowl ✨
+<img width="500" src="https://github.com/user-attachments/assets/a14fb303-34e6-4d90-bc2d-5c8b40681317" />
 
   
 ------------------------------------
