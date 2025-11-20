@@ -124,7 +124,8 @@ See? When you stay true to your own little habits, people eventually accept-and 
 - Plot twist ⬇️: right after sharing my yoghurt story, I went and ordered a whole salmon bowl ✨
 <img width="500" src="https://github.com/user-attachments/assets/a14fb303-34e6-4d90-bc2d-5c8b40681317" />
 
-  
+- A special and pleasant day 😊
+
 ------------------------------------
   
 |   |*Technical Skills*                                                                                    |
