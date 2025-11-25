@@ -122,7 +122,8 @@ They even began recommending brands to me, and this week one of them brought me 
 See? When you stay true to your own little habits, people eventually accept-and even support-them.
 *Not that I care what anyone thinks - it’s just cute when it happens.* 😌
 - Plot twist ⬇️: right after sharing my yoghurt story, I went and ordered a whole salmon bowl ✨
-<img width="500" src="https://github.com/user-attachments/assets/a14fb303-34e6-4d90-bc2d-5c8b40681317" />
+
+  <img width="500" src="https://github.com/user-attachments/assets/a14fb303-34e6-4d90-bc2d-5c8b40681317" />
 
 - A special and pleasant day 😊
 - Had a really busy day, yet oddly satisfying. 🙂
