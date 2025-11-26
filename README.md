@@ -131,12 +131,13 @@ See? When you stay true to your own little habits, people eventually accept-and 
 
 | Category | Skills |
 |:---------|:-------|
-| **Full-Stack Development** | Java (8, 11, 17), Spring (Boot, MVC, Data, Security), Python, Django, TypeScript, React, Redux, SQL, PostgreSQL, MySQL, Oracle DB, IBM Db2, MongoDB, PL/SQL, HTML5, CSS3, Bootstrap, Tailwind CSS, Material-UI (MUI) |
+| **Full-Stack Development** | Java (8, 11, 17), Spring (Boot, MVC, Data, Security), Python, Django, TypeScript, React, Redux, HTML5, CSS3, Bootstrap, Tailwind CSS, Material-UI (MUI) |
+| **Databases** | SQL, PostgreSQL, MySQL, Oracle DB, IBM Db2, MongoDB, PL/SQL |
 | **Generative AI & Document Automation** | Generative AI, LLM Prompt Engineering, OpenAI API, Web Speech API, Python-docx, Docx Generation & Merging, Base64 Encoding |
-| **Cloud & DevOps** | AWS (Lambda, API Gateway, S3, CloudWatch, Elastic Beanstalk), Docker, GitHub Actions, Harness, Apache Kafka, RabbitMQ, IBM MQ, Java Message Service (JMS), Apache ActiveMQ |
+| **Cloud & DevOps** | AWS (Lambda, API Gateway, S3, CloudWatch, Elastic Beanstalk, ECS/EKS), Docker, GitHub Actions, Harness, Apache Kafka, RabbitMQ, Java Message Service (JMS), Apache ActiveMQ, IBM MQ |
 | **Build Tools** | Apache Maven, Apache Ant |
 | **Security & Authentication** | AES Encryption/Decryption, CryptoJS, JWT Authentication |
-| **System Architecture & Design** | Microservices, Serverless Architecture, Event-Driven Architecture, Job Scheduling (Quartz Scheduler, Cron Jobs, Distributed Job Scheduling) |
+| **System Architecture & Design** | Microservices, Serverless Architecture, Event-Driven Architecture, Distributed Systems, Asynchronous Messaging, Real-Time Processing, High-Volume Transactions, Job Scheduling (Quartz Scheduler, Cron Jobs, Distributed Job Scheduling) |
 | **SDLC (Agile & Waterfall)** | Scrum, Sprint, Standups, User Stories, Pull/Merge Request Workflows, Jira, Trello |
 | **Testing** | Manual Testing, Unit Testing, Jest, JUnit, Mockito, PyTest, Postman |
 
