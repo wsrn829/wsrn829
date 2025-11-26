@@ -125,9 +125,6 @@ See? When you stay true to your own little habits, people eventually accept-and 
 
   <img width="500" src="https://github.com/user-attachments/assets/a14fb303-34e6-4d90-bc2d-5c8b40681317" />
 
-- A special and pleasant day 😊
-- Had a really busy day, yet oddly satisfying. 🙂
-
 ------------------------------------
   
 |   | *Technical Skills*                                                                                   |
