@@ -126,16 +126,19 @@ See? When you stay true to your own little habits, people eventually accept-and 
   <img width="500" src="https://github.com/user-attachments/assets/a14fb303-34e6-4d90-bc2d-5c8b40681317" />
 
 ------------------------------------
-  
-|   | *Technical Skills*                                                                                   |
-|:---------------- |:-------------------------------------------------------------------------------------------------------------- |
-| *Full-Stack Development* | Java (11, 17), Spring (Boot, MVC, Data, Security), Python, Django, TypeScript, React, Redux, SQL, PostgreSQL, MySQL, Oracle DB, IBM Db2, MongoDB, PL/SQL, HTML5, CSS3 |
-| *Generative AI & Document Automation* | Generative AI, LLM Prompt Engineering, OpenAI API, Web Speech API, Python-docx, Docx Generation & Merging, Base64 Encoding |
-| *Cloud & DevOps* | AWS (Lambda, API Gateway, S3, CloudWatch, Elastic Beanstalk, ECS/EKS), Docker, GitHub Actions, Harness, Apache Kafka, RabbitMQ, IBM MQ |
-| *Security & Authentication* | AES Encryption/Decryption, CryptoJS, JWT Authentication |
-| *SDLC (Agile & Waterfall)* | Scrum, Sprint, Standups, User Stories, Pull/Merge Request Workflows, Jira, Trello |
-| *System Architecture & Design* | Microservices, Serverless Architecture, Event-Driven Architecture, Job Scheduling (Quartz Scheduler, Cron Jobs) |
-| *Testing* | Manual Testing, Unit Testing, Jest, JUnit, Mockito, PyTest, Postman |
+
+## Technical Skills
+
+| Category | Skills |
+|:---------|:-------|
+| **Full-Stack Development** | Java (8, 11, 17), Spring (Boot, MVC, Data, Security), Python, Django, TypeScript, React, Redux, SQL, PostgreSQL, MySQL, Oracle DB, IBM Db2, MongoDB, PL/SQL, HTML5, CSS3, Bootstrap, Tailwind CSS, Material-UI (MUI) |
+| **Generative AI & Document Automation** | Generative AI, LLM Prompt Engineering, OpenAI API, Web Speech API, Python-docx, Docx Generation & Merging, Base64 Encoding |
+| **Cloud & DevOps** | AWS (Lambda, API Gateway, S3, CloudWatch, Elastic Beanstalk), Docker, GitHub Actions, Harness, Apache Kafka, RabbitMQ, IBM MQ, Java Message Service (JMS), Apache ActiveMQ |
+| **Build Tools** | Apache Maven, Apache Ant |
+| **Security & Authentication** | AES Encryption/Decryption, CryptoJS, JWT Authentication |
+| **System Architecture & Design** | Microservices, Serverless Architecture, Event-Driven Architecture, Job Scheduling (Quartz Scheduler, Cron Jobs, Distributed Job Scheduling) |
+| **SDLC (Agile & Waterfall)** | Scrum, Sprint, Standups, User Stories, Pull/Merge Request Workflows, Jira, Trello |
+| **Testing** | Manual Testing, Unit Testing, Jest, JUnit, Mockito, PyTest, Postman |
 
 ------------------------------------
 
