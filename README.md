@@ -11,7 +11,8 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - 🧠  I recently obtained the Harvard Professional Certificate in Computer Science for Web Programming. [Official Credential Link](https://credentials.edx.org/credentials/c2baa87dfd594781be286140430f59a1)
 - 🧠  I enjoy solving complex problems and learning new technologies. My professional experience spans FinTech, pharmaceutical, and healthcare industries, with expertise in full-stack software development, cloud computing, and enterprise AI solutions.
 
-  <img width="1000" alt="Job scheduling" src="https://github.com/user-attachments/assets/886ab89c-eeca-4270-a1b8-c949101e8224" />
+  <img width="1000" alt="50 Trillion" src="https://github.com/user-attachments/assets/032e9e4c-e8e9-4ce1-983b-2772ad3eb3cb" />
+  
 - 🧠  Today marks the official end of our Java-SQL-React Full Stack training track. Words cannot express how much I enjoyed and learned during this training. This has been a crucial milestone in my growth as a Full Stack Software Engineer. I am deeply grateful for my cohort and the journey we've shared together. I love you, folks. :)
 - <img width="1000" src="https://github.com/user-attachments/assets/5cf0a4f0-1fb4-43c7-b200-710bbd08eb65" />
 - <img width="1000" src="https://github.com/user-attachments/assets/abc734ac-ffea-46f4-987f-9f22bec25074" />
