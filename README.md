@@ -12,6 +12,9 @@ My [**portfolio**](http://sarinawuphd.com) showcases proficiency in building res
 - 🧠  I enjoy solving complex problems and learning new technologies. My professional experience spans FinTech, pharmaceutical, and healthcare industries, with expertise in full-stack software development, cloud computing, and enterprise AI solutions.
 
   <img width="1000" alt="50 Trillion" src="https://github.com/user-attachments/assets/032e9e4c-e8e9-4ce1-983b-2772ad3eb3cb" />
+- Finally got my Docker working & I'm so happy. **My New Kafka Project** 😍🐳💥
+  
+  <img width="1000" alt="Docker-Kafka" src="https://github.com/user-attachments/assets/5bc8e212-48db-464c-8f81-763b9ec8d7c8" />
   
 - 🧠  Today marks the official end of our Java-SQL-React Full Stack training track. Words cannot express how much I enjoyed and learned during this training. This has been a crucial milestone in my growth as a Full Stack Software Engineer. I am deeply grateful for my cohort and the journey we've shared together. I love you, folks. :)
 - <img width="1000" src="https://github.com/user-attachments/assets/5cf0a4f0-1fb4-43c7-b200-710bbd08eb65" />
