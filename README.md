@@ -130,6 +130,7 @@ See? When you stay true to your own little habits, people eventually accept-and 
 - Plot twist ⬇️: right after sharing my yoghurt story, I went and ordered a whole salmon bowl ✨
 
   <img width="500" src="https://github.com/user-attachments/assets/a14fb303-34e6-4d90-bc2d-5c8b40681317" />
+- Just prepped my salmon: sprayed olive oil, then remembered the lime juice and poured it on top — basically applied toner after moisturizer 😂 But it’s fine. Docker’s finally working and I’m too happy to care 🐳🔥
 
 ------------------------------------
 
