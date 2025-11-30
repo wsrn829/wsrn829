@@ -34,6 +34,10 @@ Can’t think of one rn..😌
   <img width="400" height="250" alt="kafka vs mq" src="https://github.com/user-attachments/assets/6cd2e8e0-6cf7-4b85-a5f4-7177439c445f" />
   <img width="200" height="250" alt="locks" src="https://github.com/user-attachments/assets/f773023d-3e61-4230-ab58-c1b7733c205e" />
 
+- GitHub Actions ✅✌️
+
+  <img width="500" alt="Github Actions Workflow" src="https://github.com/user-attachments/assets/a852c55b-d58c-4058-94aa-753282941739" />
+
 - "Having been taught so many times that JS is gradually being replaced by TS because the former is dynamically typed, I suddenly wonder why Python, which is also dynamically typed, isn’t being replaced by languages such as Java lol" Oh, I miss everyone I've ever co-coded with..
 - I may not remember all their faces, but I remember many of their voices. Q&A sessions (whether formal or informal) were my favorite lol (Oh I remember many of the questions too..)
 - I truly appreciate those who shared their wisdom with me when I was just starting out on my own, saving me countless detours and precious time. Please rest assured, I have a pretty good memory. 😜
