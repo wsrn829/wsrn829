@@ -5,7 +5,7 @@ Full Stack Software Engineer
 ----------------------------
 As a dedicated Full-Stack Software Engineer with experience in FinTech, Pharmaceutical, and Healthcare industries, I bring expertise spanning the entire software development lifecycle, from planning to implementation. Proficient in CI/CD processes, I specialize in ensuring smooth software deployments. Thriving in cross-functional teams, I foster collaborative problem-solving to guarantee the timely delivery of high-quality software solutions. Leveraging my background in social science research, I instill a user-centric approach, emphasizing the broader impact of development decisions. 
 
-I have delivered enterprise-grade AI solutions for a leading global pharmaceutical company, using React for the frontend and AWS Lambda (Python) for the serverless, cloud-native backend. Currently, I work on distributed messaging and event-driven systems using Java and MQ (IBM MQ, Apache ActiveMQ) for real-time, high-volume financial transaction processing at one of the world’s largest custodian banks, with over $50 trillion in assets under custody and administration.
+Currently, I work on distributed messaging and event-driven systems using Java and MQ (IBM MQ, Apache ActiveMQ) for real-time, high-volume financial transaction processing at one of the world’s largest custodian banks, with over $50 trillion in assets under custody and administration. Previously, I delivered enterprise-grade AI solutions for a leading global pharmaceutical company, using React for the frontend and AWS Lambda (Python) for the serverless, cloud-native backend.
 
 With a PhD from Oxford, a Master’s from Cambridge, and certifications from Harvard, Bloomberg, AWS, and Microsoft, I am a growth-driven developer, propelled by an insatiable desire for knowledge and an unwavering commitment to excellence.
 
@@ -13,10 +13,9 @@ With a PhD from Oxford, a Master’s from Cambridge, and certifications from Har
 - 🧠  I enjoy solving complex problems and learning new technologies. My professional experience spans FinTech, pharmaceutical, and healthcare industries, with expertise in full-stack software development, cloud computing, and enterprise AI solutions.
 
   <img width="1000" alt="50 Trillion" src="https://github.com/user-attachments/assets/032e9e4c-e8e9-4ce1-983b-2772ad3eb3cb" />
-- Finally got my Docker working & I'm so happy. **My New Kafka Project** 😍🐳💥
+- Finally got my Docker working & I'm so happy. **My New Kafka & MQ Projects** 😍🐳💥 
   
-  <img width="1000" alt="Docker-Kafka" src="https://github.com/user-attachments/assets/5bc8e212-48db-464c-8f81-763b9ec8d7c8" />
-  
+  <img width="1000" alt="kafka-mq" src="https://github.com/user-attachments/assets/bb960111-963a-418d-b421-d012efc7bccb" />  
 - 🧠  Today marks the official end of our Java-SQL-React Full Stack training track. Words cannot express how much I enjoyed and learned during this training. This has been a crucial milestone in my growth as a Full Stack Software Engineer. I am deeply grateful for my cohort and the journey we've shared together. I love you, folks. :)
 - <img width="1000" src="https://github.com/user-attachments/assets/5cf0a4f0-1fb4-43c7-b200-710bbd08eb65" />
 - <img width="1000" src="https://github.com/user-attachments/assets/abc734ac-ffea-46f4-987f-9f22bec25074" />
